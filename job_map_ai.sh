@@ -59,7 +59,7 @@ download_dir() {
     fi
 
     # Obtém a lista de arquivos e pastas e processa com Python
-    content=$(curl -s "$url" | REPO_URL="$url" SCRIPT_NAME="$SCRIPT_NAME" python3 <<'EOF'
+    content=$(curl -s "$url" | REPO_URL="$url" SCRIPT_NAME="$SCRIPT_NAME" python3 <<EOF
 import sys, json, os
 
 data = json.load(sys.stdin)
@@ -67,8 +67,8 @@ repo_url = os.environ.get('REPO_URL')
 script_name = os.environ.get('SCRIPT_NAME')
 
 for item in data:
-    name = item["name"]
-    type = item["type"]
+    name = item.get("name")
+    type = item.get("type")
     if name == "README.md" or name == script_name:
         continue
 

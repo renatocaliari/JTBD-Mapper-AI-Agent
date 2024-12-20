@@ -24,10 +24,13 @@ Ideal: No mundo ideal, quais seriam os benefícios que superariam minhas expecta
 
 - A partir das respostas anterior descubra os critérios de sucesso, respondendo à pergunta: "Quais condições precisam ser satisfeitas para que eu resolva os impedimentos, evite qualquer frustração e alcance o ideal com base nas respostas?"
 - Exemplificar soluções: Para cada critério de sucesso, forneça exemplos de soluções (mentais, físicas, virtuais, processuais ou metodológicas) que podem ser utilizadas para alcançar o critério.
+
+Regras:
 - Assegure-se que os critério de sucesso comecem com o verbos no infinitivo. 
-- Assegure-se que cada critério deve ser específico e mensurável. Evite critérios gerais, vagos ou redundantes. 
+- Assegure-se que cada critério seja específico e mensurável. Evite critérios gerais, vagos ou redundantes. 
 - Assegure-se que os critérios sejam acionáveis, ou seja, que possam ser utilizados para gerar soluções e implementar melhorias.
-- IMPORTANTE: Assegure-se que os critérios de sucesso finais sejam mutuamente exclusivos e coletivamente exaustivos.
+- Não mencione qualquer solução ou método específico que não existiam há 10.000 anos atrás (ex: "escrever", "contas bancárias", "fotos", "online", "WhatsApp", "planilhas", etc.). exceto caso esteja especificado no job to be done ou job step.
+- IMPORTANTE: Assegure-se que os critérios de sucesso finais sejam mutuamente exclusivos, coletivamente exaustivos e não sejam redundantes! Exemplo que quebra a regra: "Garantir que as metas financeiras sejam claras e específicas" e "Evitar metas vagas e genéricas", ou "Garantir que as informações sobre as despesas fixas sejam precisas e atualizadas" e "Evitar informações desatualizadas ou incorretas"
 
 Formato do Resultado dessa etapa:
 

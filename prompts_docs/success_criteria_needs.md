@@ -26,7 +26,7 @@ Ideal: No mundo ideal, quais seriam os benefícios que superariam minhas expecta
 - Exemplificar soluções: Para cada critério de sucesso, forneça exemplos de soluções (mentais, físicas, virtuais, processuais ou metodológicas) que podem ser utilizadas para alcançar o critério.
 
 Regras:
-- Assegure-se que os critério de sucesso comecem com o verbos no infinitivo. 
+- Assegure-se que os critério de sucesso comecem com o verbos no infinitivo se o resultado for em português brasileiro ou imperative verbs se for em inglês
 - Assegure-se que cada critério seja específico e mensurável. Evite critérios gerais, vagos ou redundantes. 
 - Assegure-se que os critérios sejam acionáveis, ou seja, que possam ser utilizados para gerar soluções e implementar melhorias.
 - Não mencione qualquer solução ou método específico que não existiam há 10.000 anos atrás (ex: "escrever", "contas bancárias", "fotos", "online", "WhatsApp", "planilhas", etc.). exceto caso esteja especificado no job to be done ou job step.

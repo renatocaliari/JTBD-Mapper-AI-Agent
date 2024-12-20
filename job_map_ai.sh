@@ -13,17 +13,13 @@ else
     SCRIPT_URL=$(curl -sI "$0" | grep -i '^location:' | sed 's/^[Ll]ocation: *//' | sed 's/\r$//')
 fi
 
-
 # Função para extrair a URL base do repositório a partir da URL do script
 extract_repo_url() {
   local script_url="$1"
-  # Remove a parte "/raw/" da URL
   base_url=$(echo "$script_url" | sed 's/\/raw\///')
-  # Remove o nome do script e a branch da URL, ficando só com /repos/USER/REPO/contents/
   repo_url=$(echo "$base_url" | sed "s#\(https://[^/]\+\.com/repos/[^/]\+/[^/]\+\)/contents/.*#\1/contents/#")
   echo "$repo_url"
 }
-
 
 # Se a URL do script foi obtida, extrai a URL do repositório.
 if [[ -n "$SCRIPT_URL" ]]; then
@@ -36,7 +32,6 @@ else
   REPOSITORIO="SEU_REPOSITORIO_GITHUB"
 fi
 
-
 # Função para baixar um arquivo
 download_file() {
   local url="$1"
@@ -47,34 +42,45 @@ download_file() {
   curl -s -L "$url" -o "$path/$filename"
 }
 
-# Função para baixar recursivamente o conteúdo de uma pasta
+# Função para baixar recursivamente o conteúdo de uma pasta usando Python para processar JSON
 download_dir() {
-  local url="$1"
-  local path="$2"
+    local url="$1"
+    local path="$2"
 
-  mkdir -p "$path"
+    mkdir -p "$path"
 
-  # Obtém a lista de arquivos e pastas
-  content=$(curl -s "$url")
-
-  # Itera sobre os itens
-  echo "$content" | jq -c '.[]' | while read -r item; do
-    name=$(echo "$item" | jq -r '.name')
-    type=$(echo "$item" | jq -r '.type')
-    download_url=$(echo "$item" | jq -r '.download_url')
-    dir_url=$(echo "$item" | jq -r '.url')
-
-    # Ignora o README.md e o próprio script
-    if [[ "$name" == "README.md" ]] || [[ "$name" == "$SCRIPT_NAME" ]]; then
-      continue
+    # Verifica se o Python 3 está disponível
+    if ! command -v python3 &> /dev/null; then
+        echo "Erro: Python 3 não encontrado. Por favor, instale-o e tente novamente."
+        exit 1
     fi
 
-    if [[ "$type" == "file" ]]; then
-      download_file "$download_url" "$name" "$path"
-    elif [[ "$type" == "dir" ]]; then
-      download_dir "$dir_url" "$path/$name"
-    fi
-  done
+    # Obtém a lista de arquivos e pastas usando Python para processar o JSON
+    content=$(curl -s "$url" | python3 -c '
+import sys, json
+
+data = json.load(sys.stdin)
+
+for item in data:
+    name = item["name"]
+    type = item["type"]
+    if name == "README.md" or name == "'"$SCRIPT_NAME"'":
+        continue
+
+    if type == "file":
+        print(f"file:{item[\"download_url\"]}:{name}")
+    elif type == "dir":
+        print(f"dir:{item[\"url\"]}:{name}")
+')
+
+    # Itera sobre os itens
+    while IFS=':' read -r type url name; do
+        if [[ "$type" == "file" ]]; then
+            download_file "$url" "$name" "$path"
+        elif [[ "$type" == "dir" ]]; then
+            download_dir "$url" "$path/$name"
+        fi
+    done <<< "$content"
 }
 
 # Pergunta se deseja baixar para o diretório atual ou criar um novo subdiretório

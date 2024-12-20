@@ -60,6 +60,8 @@ This is a common occurrence with free usage plans, often due to rate limiting or
 
 Google's Gemini 2.0 is a powerful LLM that is currently offered for free, making the occasional need to retry a reasonable trade-off.
 
+![image](https://github.com/user-attachments/assets/2048aa50-ecef-4868-a6c5-8d11f91073d0)
+
 Error content:
 ```
 [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-thinking-exp-1219:streamGenerateContent?alt=sse: [429 Too Many Requests] Resource has been exhausted (e.g. check quota)."

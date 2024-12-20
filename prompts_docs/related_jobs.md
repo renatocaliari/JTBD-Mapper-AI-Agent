@@ -8,7 +8,7 @@ Identifique "Jobs To Be Done" (JTBD) RELACIONADOS a {{Variável}}.
 
 REGRAS para os JTBD:
 
-*   Iniciar com um verbo no infinitivo.
+*   Iniciar com um verbo no infinitivo se o resultado for em português brasileiro ou imperative verbs se for em inglês.
 *   Ser funcional (ação ou resultado funcional esperado).
 *   NÃO usar adjetivos ou advérbios.
 *   NÃO usar conjunções ("e", "ou", etc.).

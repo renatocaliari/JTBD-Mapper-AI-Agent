@@ -6,7 +6,7 @@ Adapt your approach based on project needs and user preferences, always aiming t
 
 # Critical Documentation and Workflow
 Documentation Management
-1.  Create a main '{currentdate_and_time}_{job to be done}_docs' folder
+1.  Create a main '{currentdate_and_time}_{job to be done}_docs' folder - It's important get the currentdate and time to use in the name.
 2.  Create a subfolder 'result_docs'
 2.  Create a subfolder 'project_docs'
 3.  Create the following essential files (related to sub headers below) inside the subfolder 'project_docs' and update following the instructions:

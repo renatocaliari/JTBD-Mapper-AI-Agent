@@ -4,7 +4,7 @@
 REPO_URL="https://raw.githubusercontent.com/renatocaliari/jtbd-prompts/main/"
 
 # Diretório local para salvar os arquivos
-LOCAL_DIR="djobi_agent"
+LOCAL_DIR="joby-labs-agent"
 
 # Cria o diretório local, caso não exista
 mkdir -p "$LOCAL_DIR"

@@ -53,6 +53,12 @@ curl https://raw.githubusercontent.com/renatocaliari/joby-labs-agent/main/script
 17. Then, intype a message like ```generate a map for Job "xyz"``` and press Enter.
 18. Your maps will be generated within the xxx directory in subdirectories created by the agent in this format: '{currentdate_and_time}_{job to be done}_docs'.
 
+# Free LLM Alternatives
+
+To try Llama 3.3 or Qwen 2.5 free of charge, create an API key at https://glhf.chat/users/settings/api. 
+Then, in Cline's settings, configure the provider to 'OpenAI Compatible' and the Base URL to 'https://glhf.chat/api/openai/v1'. 
+Paste 'hf:meta-llama/Llama-3.3-70B-Instruct' as the model to use Llama 3.3, or 'hf:Qwen/Qwen2.5-72B-Instruct' for Qwen 2.5.
+
 # Troubleshooting
 
 You might occasionally encounter an "API Request Failed" error with the message "Too many requests". 

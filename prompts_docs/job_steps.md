@@ -33,7 +33,7 @@ Etapas:
 
 Observações:
 - Cada etapa deve ser uma ação específica do que a pessoa está tentando realizar de forma mais rápida, fácil e precisa.
-- Cada etapa deve ser escrita na primeira pessoa do singular e iniciando com um verbo no infinitivo.
+- Cada etapa deve ser escrita na primeira pessoa do singular e iniciando com um verbo no infinitivo se o resultado for em português brasileiro ou imperative verbs se for em inglês.
 - Ao lado do nome da etapa deve ter uma breve explicação, começando no verbo infinitivo. 
 - Evite etapas genéricas e vagas, como o próprio nome do estágio. 
 - As etapas devem ser mutuamente exclusivas, coletivamente exaustivas e não redundantes.

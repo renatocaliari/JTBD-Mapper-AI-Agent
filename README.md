@@ -1,5 +1,10 @@
+# Sponsor this project
+![image](https://github.com/user-attachments/assets/b28741c6-5bc5-4bd1-a53a-9364a0acdf3d)
+[Buy me a coffee](buymeacoffee.com/calirenato82)
+
 # Joby Labs Agent - Job Map Creation Agent - Jobs To Be Done
 ## 🚀 Free & Open-Source
+
 ### 🇺🇸 **English:**
 The Joby Labs Agent is a collection of specific instructions and artificial intelligence prompts used for Jobs To Be Done mapping.
 
@@ -28,15 +33,24 @@ Importante: Você **não** precisa saber programar.
 ```
 curl https://raw.githubusercontent.com/renatocaliari/joby-labs-agent/main/script_setup.sh | bash
 ```
-2. [Generate an API key in AI Studio](https://aistudio.google.com/app/apikey) to be able to use Google's Gemini 2.0 for free.
-3. [Download VS Code and install](https://code.visualstudio.com/download).
+2. [Download VS Code and install](https://code.visualstudio.com/download).
+3. Open VS Code.
 4. [Install the extension Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev).
-5. Open VS Code.
-6. Open the file custom_instructions.md downloaded in step 1 and copy the content.
-7. Open Cline's settings.
-8. Paste the content copied in step 5 into Cline's Custom Instructions configuration.
-9. Click the File menu and then Open Folder. Find the folder you made for creating jobs-to-be-done mappings, the same folder where you ran the script in step 1, and select it.
-10. Then, in the Cline chat, type a message like ```generate a map for Job "xyz"```
+5. Open Cline's settings.
+9. [Generate an API key in Google AI Studio](https://aistudio.google.com/app/apikey) to be able to use the LLM Google's Gemini for free.
+     - Go to [Google AI Studio](https://aistudio.google.com/app/apikey).
+     - Click on Create API Key.
+     - Select the project "Generative Language Client" or any other with a free-of-charge plan.
+     - Click on Create API key in existing project.
+     - Click on Copy.
+10. Go back to Cline's settings and select "Google Gemini" as the API Provider.
+11. Paste the API key into the "Gemini API key" field. Then, select the "gemini-2.0-flash-thinking-exp-1219" model or a newer one, or any other you wish to try.
+12. Open the file custom_instructions.md downloaded in step 1 and copy the content.
+13. Paste the content copied in step 5 into Cline's Custom Instructions configuration.
+14. Click DONE after finishing the settings.
+15. Click the File menu and then Open Folder. Find the folder you ran the script in step 1 and open the folder "joby-labs-agent".
+16. Then, in the Cline chat, type a message like ```generate a map for Job "xyz"```
+17. Your maps will be generated within the xxx directory in subdirectories created by the agent in this format: '{currentdate_and_time}_{job to be done}_docs'.
 
 # 🇧🇷 Jobs To Be Done & Prompts 
 - Para mais informações sobre Jobs To Be Done, consulte o [e-book gratuito Estratégia e Inovação baseadas em Jobs To Be Done](https://calirenato82.substack.com/p/e-book-jobs-to-be-done-em-portugues).

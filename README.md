@@ -22,6 +22,16 @@ Com essa combinação você pode ter um agente autônomo que faz um mapeamento d
 
 Importante: Você **não** precisa saber programar.
 
+# Steps
+
+1. Run the command below in the directory where you want to create jobs-to-be-done mappings:
+```curl -s https://raw.githubusercontent.com/renatocaliari/jtbd-prompts/main/job_map_ai.sh | bash```
+2. [Download VS Code and install](https://code.visualstudio.com/download).
+3. [Install the extension Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev).
+4. Copy the contents of the custom_instructions.md file downloaded in step 1 and paste them into Cline's Custom Instructions configuration.
+5. Open VS Code. Then, click on File and then Open Folder. Find the folder you made for creating jobs-to-be-done mappings, the same folder where you ran the script in step 1, and select it.
+6. Then, in the Cline chat, type a message like ```generate a map for Job "xyz"```
+
 # 🇧🇷 Jobs To Be Done & Prompts 
 - Para mais informações sobre Jobs To Be Done, consulte o [e-book gratuito Estratégia e Inovação baseadas em Jobs To Be Done](https://calirenato82.substack.com/p/e-book-jobs-to-be-done-em-portugues).
 - Para encontrar mais prompts de I.A., [clique aqui](https://calirenato82.substack.com/i/141662256/prompts-ia-para-problem-space).

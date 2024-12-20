@@ -45,10 +45,10 @@ curl https://raw.githubusercontent.com/renatocaliari/joby-labs-agent/main/script
      - Click on Copy.
 10. Go back to Cline's settings and select "Google Gemini" as the API Provider.
 11. Paste the API key into the "Gemini API key" field. Then, select the "gemini-2.0-flash-thinking-exp-1219" model or a newer one, or any other you wish to try.
-12. Open the file custom_instructions.md downloaded in step 1 and copy the content.
-13. Paste the content copied in step 5 into Cline's Custom Instructions configuration.
-14. Click DONE after finishing the settings.
-15. Click the File menu and then Open Folder. Find the folder you ran the script in step 1 and open the folder "joby-labs-agent".
+12. Click the File menu and then Open Folder. Find the folder you ran the script in step 1 and open the folder "joby-labs-agent".
+13. Open the file custom_instructions.md and copy the content.
+14. Paste the content copied in step 5 into Cline's Custom Instructions configuration.
+15. Click DONE after finishing the settings.
 16. In the Cline chat, check "Auto-approve: ..."
 17. Then, intype a message like ```generate a map for Job "xyz"``` and press Enter.
 18. Your maps will be generated within the xxx directory in subdirectories created by the agent in this format: '{currentdate_and_time}_{job to be done}_docs'.

@@ -33,10 +33,10 @@ for FILE in "${FILES[@]}"; do
     
     # Baixa o arquivo usando curl com tratamento de erro
     if curl -sSfLo "$LOCAL_FILE" "$FILE_URL"; then
-        echo "Baixado: $FILE"
+        echo "Downloaded: $FILE"
     else
-        echo "Erro ao baixar: $FILE"
+        echo "Error: $FILE"
     fi
 done
 
-echo "Download concluído."
+echo "Download complete."

@@ -1,5 +1,5 @@
 # Joby Labs Agent - Job Map Creation Agent - Jobs To Be Done
-🇺🇸 **English:**
+### 🇺🇸 **English:**
 The Joby Labs Agent is a collection of specific instructions and artificial intelligence prompts used for Jobs To Be Done mapping.
 
 It's configured to work within [Cline](https://github.com/cline/cline), a free and open-source extension for VS Code — an IDE commonly used for systems development.
@@ -8,7 +8,7 @@ With this combination, you can have an autonomous agent that performs mapping au
 
 Important: You **don't** need to know how to program.
 
-🇧🇷 **Brazilian Portuguese:**
+### 🇧🇷 **Brazilian Portuguese:**
 O Joby Labs Agent é uma coleção de instruções específicas e prompts de inteligência artificial utilizado para mapeamento de **Jobs To Be Done**. 
 
 Ele é configurado para funcionar dentro do [Cline](https://github.com/cline/cline), [uma extensão gratuita](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev) e open-source do VS Code - uma IDE comumente utilizada para desenvolvimento de sistemas.

@@ -53,6 +53,19 @@ curl https://raw.githubusercontent.com/renatocaliari/joby-labs-agent/main/script
 17. Then, intype a message like ```generate a map for Job "xyz"``` and press Enter.
 18. Your maps will be generated within the xxx directory in subdirectories created by the agent in this format: '{currentdate_and_time}_{job to be done}_docs'.
 
+# Troubleshooting
+
+You might occasionally encounter an "API Request Failed" error with the message "Too many requests". 
+This is a common occurrence with free usage plans, often due to rate limiting or resource exhaustion. To resolve this, simply wait a short period and then click "Retry." 
+
+Google's Gemini 2.0 is a powerful LLM that is currently offered for free, making the occasional need to retry a reasonable trade-off.
+
+Error content:
+```
+[GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-thinking-exp-1219:streamGenerateContent?alt=sse: [429 Too Many Requests] Resource has been exhausted (e.g. check quota)."
+```
+
+
 # 🇧🇷 Jobs To Be Done & Prompts 
 - Para mais informações sobre Jobs To Be Done, consulte o [e-book gratuito Estratégia e Inovação baseadas em Jobs To Be Done](https://calirenato82.substack.com/p/e-book-jobs-to-be-done-em-portugues).
 - Para encontrar mais prompts de I.A., [clique aqui](https://calirenato82.substack.com/i/141662256/prompts-ia-para-problem-space).

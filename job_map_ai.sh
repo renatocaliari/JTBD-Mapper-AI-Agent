@@ -15,31 +15,34 @@ fi
 
 # Função para extrair a URL base do repositório a partir da URL do script
 extract_repo_url() {
-  local script_url="$1"
-  base_url=$(echo "$script_url" | sed 's/\/raw\///')
-  repo_url=$(echo "$base_url" | sed "s#\(https://[^/]\+\.com/repos/[^/]\+/[^/]\+\)/contents/.*#\1/contents/#")
-  echo "$repo_url"
+    local script_url="$1"
+    # Corrigido para extrair a URL correta em todos os casos
+    repo_url=$(echo "$script_url" | sed -E 's|^(https?://)?(raw\.githubusercontent\.com/|https://api.github.com/repos/|' | sed -E 's|/[^/]+/[^/]+$|/contents/|')
+    echo "$repo_url"
 }
 
 # Se a URL do script foi obtida, extrai a URL do repositório.
 if [[ -n "$SCRIPT_URL" ]]; then
-  REPO_URL=$(extract_repo_url "$SCRIPT_URL")
+    REPO_URL=$(extract_repo_url "$SCRIPT_URL")
 else
-  # URL base do repositório (usada se o script for executado localmente)
-  REPO_URL="https://api.github.com/repos/USUARIO/REPOSITORIO/contents/"
-  # Substitua USUARIO e REPOSITORIO pelos valores corretos se executar localmente
-  USUARIO="SEU_USUARIO_GITHUB"
-  REPOSITORIO="SEU_REPOSITORIO_GITHUB"
+    # URL base do repositório (usada se o script for executado localmente)
+    REPO_URL="https://api.github.com/repos/USUARIO/REPOSITORIO/contents/"
+    # Substitua USUARIO e REPOSITORIO pelos valores corretos se executar localmente
+    USUARIO="SEU_USUARIO_GITHUB"
+    REPOSITORIO="SEU_REPOSITORIO_GITHUB"
 fi
 
 # Função para baixar um arquivo
 download_file() {
-  local url="$1"
-  local filename="$2"
-  local path="$3"
+    local url="$1"
+    local filename="$2"
+    local path="$3"
 
-  echo "Baixando: $filename para $path"
-  curl -s -L "$url" -o "$path/$filename"
+    echo "Baixando: $filename para $path"
+    if ! curl -s -L "$url" -o "$path/$filename"; then
+        echo "Erro ao baixar: $filename"
+        exit 1
+    fi
 }
 
 # Função para baixar recursivamente o conteúdo de uma pasta usando Python para processar JSON
@@ -87,17 +90,23 @@ for item in data:
 read -r -p "Deseja baixar para o diretório atual (./) ou criar um novo subdiretório? [./ | novo]: " resposta
 
 if [[ "$resposta" == "novo" ]]; then
-  read -r -p "Digite o nome do novo subdiretório: " dir_name
+    read -r -p "Digite o nome do novo subdiretório: " dir_name
 
-  # Verifica se o nome do diretório é válido
-  if [[ ! "$dir_name" =~ ^[a-zA-Z0-9_-]+$ ]]; then
-    echo "Nome de diretório inválido. Use apenas letras, números, _ e -."
-    exit 1
-  fi
+    # Verifica se o nome do diretório é válido
+    if [[ ! "$dir_name" =~ ^[a-zA-Z0-9_-]+$ ]]; then
+        echo "Nome de diretório inválido. Use apenas letras, números, _ e -."
+        exit 1
+    fi
 
-  download_dir "$REPO_URL" "$dir_name"
+    if ! download_dir "$REPO_URL" "$dir_name"; then
+        echo "Erro durante o download."
+        exit 1
+    fi
 else
-  download_dir "$REPO_URL" "."
+    if ! download_dir "$REPO_URL" "."; then
+        echo "Erro durante o download."
+        exit 1
+    fi
 fi
 
 echo "Download concluído!"

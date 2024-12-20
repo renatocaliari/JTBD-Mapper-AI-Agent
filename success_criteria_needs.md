@@ -3,7 +3,7 @@ Objetivo: Este prompt visa auxiliar na identificação de critérios de sucesso 
 Contexto:
 
 Job to be done: [job to be done escolhido pelo usuário]
-Job step: [foque no job step específico, se informado, senão, foque no job to be done]
+Job step: [foque no job step específico, se informado, senão, deixe em branco]
 Segmento: [segmento escolhido pelo usuário]
 
 Glossário:
@@ -14,39 +14,26 @@ Instruções:
 
 
 1. Análise de Contexto:
-Imagine o segmento realizando o "job to be done" em diferentes situações. Responda as perguntas abaixo como se você fosse o próprio segmento, utilizando a primeira pessoa do singular:
+Imagine o segmento realizando o {job step} (se informado) para concluir o {job to be done} em situações significativamente diferentes. Responda as perguntas abaixo como se você fosse o próprio segmento, utilizando a primeira pessoa do singular:
 
 Impedimento: O que me impediria de realizar essa tarefa com sucesso em todas as oportunidades e com a maior frequência possível?
 Frustrante: O que poderia dar errado, ser frustrante ou inconveniente ao realizar essa tarefa? Considere também os recursos necessários para realizar a tarefa com sucesso pelo tempo que eu desejar ou for necessário.
-Ideal: No mundo ideal, quais seriam os benefícios que superariam minhas expectativas com as soluções atuais para realizar essa tarefa?
-
-2. Definição de "Desired Outcomes":
-
-Com base nas respostas da etapa anterior, defina os principais resultados desejados ao tentar realizar o {{Job Step}} no contexto do {{Job to be done}}. Se {{Job Step}} não for informado, concentre-se no {{Job to be done}}.
-
-Os Desired Outcomes devem ser mutuamente exclusivos e coletivamente exaustivos.
+Ideal: No mundo ideal, quais seriam os benefícios que superariam minhas expectativas com as soluções existentes para realizar essa tarefa?
 
 2. Geração de Critérios:
 
-- Para cada "desired outcome", desmembre-o em critérios de sucesso específicos e mensuráveis, respondendo à pergunta: "Quais condições precisam ser satisfeitas para que eu alcance esse resultado?"
+- A partir das respostas anterior descubra os critérios de sucesso, respondendo à pergunta: "Quais condições precisam ser satisfeitas para que eu resolva os impedimentos, evite qualquer frustração e alcance o ideal com base nas respostas?"
 - Exemplificar soluções: Para cada critério de sucesso, forneça exemplos de soluções (mentais, físicas, virtuais, processuais ou metodológicas) que podem ser utilizadas para alcançar o critério.
-- Os critérios de sucesso devem ser mutuamente exclusivos e coletivamente exaustivos.
-- Os critérios de sucesso devem necessariamente começar com o verbos no infinitivo, escolhendo o que tornar mais específico e fácil de entender. 
-- Cada critério deve ser uma frase concisa e clara, expressando uma necessidade específica e mensurável do segmento.
-- Foque em critérios específicos: Evite critérios gerais, vagos ou redundantes. Quanto mais específico o critério, mais fácil será gerar soluções eficazes.
+- Assegure-se que os critério de sucesso comecem com o verbos no infinitivo. 
+- Assegure-se que cada critério deve ser específico e mensurável. Evite critérios gerais, vagos ou redundantes. 
 - Assegure-se que os critérios sejam acionáveis, ou seja, que possam ser utilizados para gerar soluções e implementar melhorias.
+- IMPORTANTE: Assegure-se que os critérios de sucesso finais sejam mutuamente exclusivos e coletivamente exaustivos.
 
 Formato do Resultado dessa etapa:
 
-{Desired Outcome 1}
-1.1 {Critério de sucesso detalhado}
+1.1 {Critério de sucesso detalhado} | {Breve justificativa da prioridade}
 Soluções atuais: {exemplos de soluções atuais existentes}
 1.2 {Critério de sucesso detalhado}
-Soluções atuais: {exemplos de soluções atuais existentes}
-{Desired Outcome 2}
-2.1 {Critério de sucesso detalhado}
-Soluções atuais: {exemplos de soluções atuais existentes}
-2.2 {Critério de sucesso detalhado}
 Soluções atuais: {exemplos de soluções atuais existentes}
 
 3. Priorização dos Critérios:
@@ -61,11 +48,5 @@ Ordenar os critérios de sucesso com base nos seguintes fatores (do mais importa
 - Investimento necessário para satisfazer o critério (tempo, dinheiro, habilidades, pessoas, soluções)
 - Acuracidade na satisfação do critério
 
-Formato do Resultado dessa etapa, que será o resultado final:
-
-{Critério de sucesso} | {Desired Outcome} | {Breve justificativa da prioridade}
-Exemplos de soluções: [[Exemplos de soluções]]
-{Critério de sucesso} | {Desired Outcome} | {Breve justificativa da prioridade}
-Exemplos de soluções: [[Exemplos de soluções]]
 
 

@@ -71,9 +71,9 @@ for item in data:
         continue
 
     if type == "file":
-        print(f"file:{item[\"download_url\"]}:{name}")
+        print(f"file:{item.get(\"download_url\")}:{name}")
     elif type == "dir":
-        print(f"dir:{item[\"url\"]}:{name}")
+        print(f"dir:{item.get(\"url\")}:{name}")
 ')
 
     # Itera sobre os itens

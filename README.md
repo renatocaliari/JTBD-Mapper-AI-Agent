@@ -49,8 +49,9 @@ curl https://raw.githubusercontent.com/renatocaliari/joby-labs-agent/main/script
 13. Paste the content copied in step 5 into Cline's Custom Instructions configuration.
 14. Click DONE after finishing the settings.
 15. Click the File menu and then Open Folder. Find the folder you ran the script in step 1 and open the folder "joby-labs-agent".
-16. Then, in the Cline chat, type a message like ```generate a map for Job "xyz"```
-17. Your maps will be generated within the xxx directory in subdirectories created by the agent in this format: '{currentdate_and_time}_{job to be done}_docs'.
+16. In the Cline chat, check "Auto-approve: ..."
+17. Then, intype a message like ```generate a map for Job "xyz"``` and press Enter.
+18. Your maps will be generated within the xxx directory in subdirectories created by the agent in this format: '{currentdate_and_time}_{job to be done}_docs'.
 
 # 🇧🇷 Jobs To Be Done & Prompts 
 - Para mais informações sobre Jobs To Be Done, consulte o [e-book gratuito Estratégia e Inovação baseadas em Jobs To Be Done](https://calirenato82.substack.com/p/e-book-jobs-to-be-done-em-portugues).

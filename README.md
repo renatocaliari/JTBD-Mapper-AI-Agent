@@ -1,6 +1,11 @@
-# Djobi Agent - Agente para criação de Job Map - Job To Be Done
-O Djobi Agent são instruções e prompts utilizados no [Cline](https://github.com/cline/cline), uma extensão gratuita e open-source do VS Code - uma IDE comumente utilizada para desenvolvimento de sistemas.
+# Joby Labs Agent - Agente para criação de Job Map - Job To Be Done
+O Joby Labs Agent é uma coleção de instruções específicas e prompts de inteligência artificial utilizado para mapeamento de Jobs To Be Done. 
+Ele é configurado para funcionar dentro do [Cline](https://github.com/cline/cline), [uma extensão gratuita](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev) e open-source do VS Code - uma IDE comumente utilizada para desenvolvimento de sistemas.
 Com essa combinação você pode ter um agente autônomo que faz um mapeamento de forma autônoma. Ele só faz perguntas para confirmar opções que você deseja para avançar para próximos estágios.
+
+![image](https://github.com/user-attachments/assets/3df8027b-b28a-4ffe-aed9-7a20d05cbd8e)
+
+Importante: Você **não** precisa saber programar.
 
 # Workshop
 

@@ -58,18 +58,24 @@ download_dir() {
         exit 1
     fi
 
-    # Obtém a lista de arquivos e pastas e processa com Python
+    # Faz a requisição à API do GitHub
     content=$(curl -s "$url")
 
-    # Verifica se a resposta da API do GitHub está vazia ou é um erro
+    # Verifica se a resposta da API do GitHub está vazia
     if [[ -z "$content" ]]; then
         echo "Erro: A resposta da API do GitHub está vazia. Verifique a URL do repositório e sua conexão com a internet."
         exit 1
     fi
 
-    if echo "$content" | python3 -c 'import sys, json; json.load(sys.stdin)' &> /dev/null; then
-        # A resposta é um JSON válido, continue com o processamento
-        content=$(echo "$content" | REPO_URL="$url" SCRIPT_NAME="$SCRIPT_NAME" python3 <<'EOF'
+    # Verifica se a resposta da API do GitHub é um JSON válido
+    if ! echo "$content" | python3 -c 'import sys, json; json.load(sys.stdin)' > /dev/null 2>&1; then
+        echo "Erro: Resposta inválida da API do GitHub. Verifique a URL do repositório e se ele é público."
+        echo "Detalhes do erro: $(echo "$content" | python3 -c 'import sys, json; json.load(sys.stdin)' 2>&1)"
+        exit 1
+    fi
+
+    # Processa o JSON válido com Python
+    content=$(echo "$content" | REPO_URL="$url" SCRIPT_NAME="$SCRIPT_NAME" python3 <<'EOF'
 import sys, json, os
 
 data = json.load(sys.stdin)
@@ -97,13 +103,6 @@ EOF
             download_dir "$url" "$path/$name"
         fi
     done <<< "$content"
-
-    else
-        # A resposta não é um JSON válido, pode ser um erro da API
-        echo "Erro: Resposta inválida da API do GitHub. Verifique a URL do repositório e se ele é público."
-        echo "Detalhes do erro: $(echo "$content" | python3 -c 'import sys, json; json.load(sys.stdin)' 2>&1)"
-        exit 1
-    fi
 }
 
 # Pergunta se deseja baixar para o diretório atual ou criar um novo subdiretório

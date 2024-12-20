@@ -26,7 +26,7 @@ Importante: Você **não** precisa saber programar.
 
 1. Run the command below in the directory where you want to create jobs-to-be-done mappings:
 ```
-curl -s https://raw.githubusercontent.com/renatocaliari/joby-labs-agent/main/script_setup.sh | bash
+curl https://raw.githubusercontent.com/renatocaliari/joby-labs-agent/main/script_setup.sh | bash
 ```
 2. [Download VS Code and install](https://code.visualstudio.com/download).
 3. [Install the extension Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev).

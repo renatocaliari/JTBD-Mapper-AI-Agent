@@ -19,7 +19,7 @@ Critérios de Priorização (quanto maior, melhor, exceto "Barreira de Entrada")
 
 Processo:
 - Descubra e priorize grupos (segmentos) usando os critérios acima.
-- Os segmentos devem ser mutuamente exclusivos e coletivamente exaustivos.
+- Os segmentos devem ser mutuamente exclusivos e coletivamente exaustivos. Investigue para encontrar ao menos 10 seguindo esses princípios.
 - Os segmentos não devem ser baseados em dados demográficos, a menos que o job to be done indique isso ou seja um fator principal e necessário, sem outras formas de agrupar. 
 - Agrupe grupos semelhantes, redundantes ou com diferenciação pouco específica. Exemplo: "Casais com dívidas altas" e "Casais com dívidas baixas" podem ser agrupados em "Casais com dívidas".
 - Desdobre grupos abstratos com características implícitas em grupos específicos com diferenciações explícitas significativas. Exemplo, se o grupo fosse "Familiares idosos sob cuidado", poderia ser desdobrado em diversos grupos com características que uma pessoa necessitado de cuidado sem precisar usar o termo "idoso" para abranger mais pessoas nesses grupos: "Familiares com limitação cognitiva", "Familiares com limitação física ou problema de saúde", "Familiares com dificuldade financeira ou leigos em finanças", etc. 

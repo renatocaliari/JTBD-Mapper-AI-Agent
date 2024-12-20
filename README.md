@@ -28,11 +28,15 @@ Importante: Você **não** precisa saber programar.
 ```
 curl https://raw.githubusercontent.com/renatocaliari/joby-labs-agent/main/script_setup.sh | bash
 ```
-2. [Download VS Code and install](https://code.visualstudio.com/download).
-3. [Install the extension Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev).
-4. Copy the contents of the custom_instructions.md file downloaded in step 1 and paste them into Cline's Custom Instructions configuration.
-5. Open VS Code. Then, click on File and then Open Folder. Find the folder you made for creating jobs-to-be-done mappings, the same folder where you ran the script in step 1, and select it.
-6. Then, in the Cline chat, type a message like ```generate a map for Job "xyz"```
+2. [Generate an API key in AI Studio](https://aistudio.google.com/app/apikey) to be able to use Google's Gemini 2.0 for free.
+3. [Download VS Code and install](https://code.visualstudio.com/download).
+4. [Install the extension Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev).
+5. Open VS Code.
+6. Open the file custom_instructions.md downloaded in step 1 and copy the content.
+7. Open Cline's settings.
+8. Paste the content copied in step 5 into Cline's Custom Instructions configuration.
+9. Click the File menu and then Open Folder. Find the folder you made for creating jobs-to-be-done mappings, the same folder where you ran the script in step 1, and select it.
+10. Then, in the Cline chat, type a message like ```generate a map for Job "xyz"```
 
 # 🇧🇷 Jobs To Be Done & Prompts 
 - Para mais informações sobre Jobs To Be Done, consulte o [e-book gratuito Estratégia e Inovação baseadas em Jobs To Be Done](https://calirenato82.substack.com/p/e-book-jobs-to-be-done-em-portugues).

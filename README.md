@@ -29,15 +29,17 @@ Importante: Você **não** precisa saber programar.
 
 # Steps
 
-1. Run the command below in the directory where you want to create jobs-to-be-done mappings:
+1. Open your terminal: Search for "terminal" or "command prompt" on your computer and open the appropriate application.
+2. Navigate to the desired directory: Use the cd command to navigate to the directory where you want to create the Jobs-to-be-Done mappings. For example, if you want to create them in your Downloads folder, you would type cd ~/Downloads and press Enter.
+3. Run the following command: Once you're in the desired directory to create jobs-to-be-done mappings, paste the following command into your terminal and press Enter:
 ```
 curl https://raw.githubusercontent.com/renatocaliari/joby-labs-agent/main/script_setup.sh | bash
 ```
-2. [Download VS Code and install](https://code.visualstudio.com/download).
-3. Open VS Code.
-4. [Install the extension Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev).
-5. Open Cline's settings.
-9. [Generate an API key in Google AI Studio](https://aistudio.google.com/app/apikey) to be able to use the LLM Google's Gemini for free.
+4. [Download VS Code and install](https://code.visualstudio.com/download).
+5. Open VS Code.
+6. [Install the extension Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev).
+7. Open Cline's settings.
+8. [Generate an API key in Google AI Studio](https://aistudio.google.com/app/apikey) to be able to use the LLM Google's Gemini for free.
      - Go to [Google AI Studio](https://aistudio.google.com/app/apikey).
      - Click on Create API Key.
      - Select the project "Generative Language Client" or any other with a free-of-charge plan.

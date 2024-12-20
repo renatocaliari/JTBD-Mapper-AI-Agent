@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # URL do repositório
-REPO_URL="https://raw.githubusercontent.com/renatocaliari/jtbd-prompts/main/"
+REPO_URL="https://raw.githubusercontent.com/renatocaliari/joby-labs-agent/main/"
 
 # Diretório local para salvar os arquivos
 LOCAL_DIR="joby-labs-agent"

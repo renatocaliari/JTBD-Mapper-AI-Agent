@@ -45,29 +45,6 @@ download_file() {
     fi
 }
 
-# Função para processar JSON com Python
-process_json() {
-    local url="$1"
-    local script_name="$2"
-
-    python3 -c '
-import sys, json
-
-data = json.load(sys.stdin)
-
-for item in data:
-    name = item["name"]
-    type = item["type"]
-    if name == "README.md" or name == sys.argv[1]:
-        continue
-
-    if type == "file":
-        print(f"file:{item.get(\"download_url\")}:{name}")
-    elif type == "dir":
-        print(f"dir:{item.get(\"url\")}:{name}")
-' "$script_name"
-}
-
 # Função para baixar recursivamente o conteúdo de uma pasta
 download_dir() {
     local url="$1"
@@ -81,8 +58,26 @@ download_dir() {
         exit 1
     fi
 
-    # Obtém a lista de arquivos e pastas e processa com a função Python
-    content=$(curl -s "$url" | process_json "$url" "$SCRIPT_NAME")
+    # Obtém a lista de arquivos e pastas e processa com Python
+    content=$(curl -s "$url" | REPO_URL="$url" SCRIPT_NAME="$SCRIPT_NAME" python3 <<'EOF'
+import sys, json, os
+
+data = json.load(sys.stdin)
+repo_url = os.environ.get('REPO_URL')
+script_name = os.environ.get('SCRIPT_NAME')
+
+for item in data:
+    name = item["name"]
+    type = item["type"]
+    if name == "README.md" or name == script_name:
+        continue
+
+    if type == "file":
+        print(f"file:{item.get('download_url')}:{name}")
+    elif type == "dir":
+        print(f"dir:{item.get('url')}:{name}")
+EOF
+)
 
     # Itera sobre os itens
     while IFS=':' read -r type url name; do

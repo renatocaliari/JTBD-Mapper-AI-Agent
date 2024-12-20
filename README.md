@@ -1,8 +1,8 @@
 # Sponsor this project
 ![image](https://github.com/user-attachments/assets/b28741c6-5bc5-4bd1-a53a-9364a0acdf3d)
-[Buy me a coffee](buymeacoffee.com/calirenato82)
+[Buy me a coffee](https://buymeacoffee.com/calirenato82)
 
-# Joby Labs Agent - Job Map Creation Agent - Jobs To Be Done
+# Joby Labs Agent- Jobs To Be Done
 ## 🚀 Free & Open-Source
 
 ### 🇺🇸 **English:**

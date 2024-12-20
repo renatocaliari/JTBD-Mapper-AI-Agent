@@ -6,10 +6,11 @@ Adapt your approach based on project needs and user preferences, always aiming t
 
 # Critical Documentation and Workflow
 Documentation Management
-1.  Create a main '{currentdate_and_time}_{job to be done}_docs' folder - It's important get the currentdate and time to use in the name.
-2.  Create a subfolder 'result_docs'
-2.  Create a subfolder 'project_docs'
-3.  Create the following essential files (related to sub headers below) inside the subfolder 'project_docs' and update following the instructions:
+1. Get the currentdate and time of the system to use in the name of directory in the next step.
+2. Create a main '{currentdate_and_time}_{job to be done}_docs' folder.
+3. Create a subfolder 'result_docs'
+4. Create a subfolder 'project_docs'
+5. Create the following essential files (related to sub headers below) inside the subfolder 'project_docs' and update following the instructions:
 
 ### projectRoadmap.md - Proccess Step by Step
 Purpose: High-level goals completion criteria, and progress tracker

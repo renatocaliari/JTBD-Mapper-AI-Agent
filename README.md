@@ -2,8 +2,8 @@
 ![image](https://github.com/user-attachments/assets/b28741c6-5bc5-4bd1-a53a-9364a0acdf3d)
 [Buy me a coffee ☕](https://buymeacoffee.com/calirenato82)
 
-# Joby Labs Agent 🤖 Jobs To Be Done
-## 🚀 Free & Open-Source
+# Joby Labs Agent 🤖 Jobs To Be Done - 🚀 Free & Open-Source
+Remember to periodically check for a new version of the Joby Labs Agent at https://github.com/renatocaliari/joby-labs-agent.
 
 ### 🇺🇸 **English:**
 The Joby Labs Agent is a collection of specific instructions and artificial intelligence prompts used for Jobs To Be Done mapping.

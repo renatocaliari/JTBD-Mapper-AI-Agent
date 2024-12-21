@@ -11,6 +11,7 @@ mkdir -p "$LOCAL_DIR"
 
 # Lista de arquivos e diretórios a serem baixados (excluindo README.md e o script atual)
 FILES=(
+    "README.md"
     "custom_instructions.md"
     "prompts_docs/actors_roles.md"
     "prompts_docs/job_steps.md"

@@ -29,9 +29,6 @@ Regras:
 Mostre o resultado em formato Markdown. Não dê nenhuma introdução.
 
 Siga este formato, substituindo os placeholders [] e {}:
-
-## Papel
-
-- Ator: {nome do ator no plural} - {um emoji respeitoso que represente o ator} - {definição de mercado do ator: [nome do ator] + " desejando " + [job to be done: inicie por verbo no infinitivo]}
-
-Resultado:
+## {Papel}
+### {um emoji respeitoso que represente o ator} {nome do ator no plural}
+    - {definição de mercado do ator: [nome do ator] + " desejando " + [job to be done: inicie por verbo no infinitivo]}

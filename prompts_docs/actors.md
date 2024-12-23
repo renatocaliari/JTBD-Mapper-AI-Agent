@@ -17,16 +17,16 @@ Descubra os atores envolvidos no {{Job To Be Done}} em cada papel abaixo:
 Regras:
 
 - Se "{{Job To Be Done}}" descrever o ator do Job To Be Done, descubra se é o favorecido ou o realizador e use o mesmo ator para o papel relacionado.
-- Os nomes dos favorecisos e realizadores devem ser específicos com relação ao Job To Be Done, porém abrangentes e inclusivos o suficiente para representar todos possíveis grupos que se favorecem ou realizam op Job (Beneficiário ou Realizador). Se, por exemplo, o Job To Be Done fosse "acessar informações escritas", um nome de ator ruim que quebraria as regras seria "Bibliotecários" porque seria um grupo específico, excluindo outros possíveis. Um bom nome seria "Leitores" pois abrangeria vários grupos e tem relação direta com o job to be done.
+- Os nomes dos favorecisos e realizadores devem ser específicos com relação ao Job To Be Done, porém abrangentes e inclusivos o suficiente para representar todos possíveis grupos que se favorecem ou realizam op Job (Favorecido ou Realizador). Se, por exemplo, o Job To Be Done fosse "acessar informações escritas", um nome de ator ruim que quebraria as regras seria "Bibliotecários" porque seria um grupo específico, excluindo outros possíveis. Um bom nome seria "Leitores" pois abrangeria vários grupos e tem relação direta com o job to be done.
 - O nome do ator não deve conter informações redundantes que já estejam descritos no job to be done. A definição de mercado de um ator deve ser uma frase objetiva. 
 - Para cada ator, descreva o mercado seguindo o template: "Mercado: {nome do ator} desejando {job to be done adaptado que inicie com o verbo no infinitivo} {contexto abrangente envolvido no nome do ator}. Adapte o Job to be done e contexto, baseado no nome do ator, para descrever de forma super compreensiva a relação do ator com o job. Exemplos:
   - se o job fosse "Gerenciar finanças em conjunto" e o nome do ator/grupo fosse "Familiares com idosos", então o mercado poderia ser "[Familiares] desejando [gerenciar finanças em conjunto] [com seu familiar idoso]".
   - se o nome do ator/grupo fosse "Pessoas que cuidam de familiares" uma declaração de mercado ruim a evitar seria "Pessoas que cuidam de familiares desejando gerenciar finanças conjuntamente" pois não é claro quem é o "familiar cuidado" e quem é o "cuidador". Uma declaração de mercado melhor seria "[Familiares] desejando [gerenciar finanças conjuntamente] [com seu familiar sob cuidado]".
   - se o job to be done fosse "gerenciar finanças conjuntamente", um grupo ruim que deveria evitar seria "Pessoas em conjunto" pois ao definir mercado ficaria "Pessoas em conjunto desejando gerenciar finanças conjuntamente" e ficaria redundante, então melhore o nome do ator antes.
 - Evite mencionar soluções ou tecnologias que não existiam há 1.000 anos atrás, a menos que mencionado no {{Job to be done}}.
-- Não mencione ou se refira às palavras Realizadores ou Beneficiários.
-- Adapte a declaração do job to be done para o papel específico na definição de mercado. Por exemplo, se o job fosse "otimizar o fluxo do usuário" e o Beneficiário fosse "Usuários", então a declaração do job do ator deveria ser adaptada para se adequar a ele, como "Usuários desejando realizar um fluxo de forma otimizada".
-- Evite mencionar/usar pronomes possessivos na declaração do trabalho do Beneficiário.
+- Não mencione ou se refira às palavras Realizadores ou Favorecidos.
+- Adapte a declaração do job to be done para o papel específico na definição de mercado. Por exemplo, se o job fosse "otimizar o fluxo do usuário" e o Favorecidos fosse "Usuários", então a declaração do job do ator deveria ser adaptada para se adequar a ele, como "Usuários desejando realizar um fluxo de forma otimizada".
+- Evite mencionar/usar pronomes possessivos na declaração do Job do Favorecido.
 
 Mostre o resultado em formato Markdown. Não dê nenhuma introdução.
 

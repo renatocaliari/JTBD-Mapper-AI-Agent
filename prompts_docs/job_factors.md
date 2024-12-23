@@ -2,18 +2,20 @@
 
 
 
-Descubra 50 fatores situacionais que influenciam significantemente a realização do Job.
+Descubra o máximo de fatores situacionais que influenciam significantemente a realização do Job.
 
-Leve em conta ao menos essas 6 categorias de fatores situacionais:
+Categorias de fatores situacionais:
 - Ambiente Físico
 - Ambiente Social e Relacional
 - Aspectos temporais
 - Motivação para realizar o Job
 - Estados Antecedentes: estado emocional, estado fisiológico e pensamentos internos
-- Regras pessoais e hábitos duradouros
+- Princípios de vida e hábitos antigos
 
 Regras:
-- As variáveis devem ser específicas e detalhadas. Evite abstrações, adjetivos e advérbios.
-- Para cada uma escreva qual classificação poderia avaliá-las de 1 a 5.
+- Encontre fatores em todas as categorias situacionais acima.
+- Os fatores devem ser mutuamente exclusivos, coletivamente EXAUSTIVOS e não redundantes.
+- Os fatores devem ser específicos e detalhados. Evite abstrações, adjetivos e advérbios.
+- Para cada um escreva uma escala no qual seria possível avaliá-lo, de 1 a 3.
 - Sua resposta deve seguir esse modelo substituindo o placeholder {}:
-- {Variável}. 1. {breve descricao} a 5. {breve descricao}
+- {Fator}. 1. {breve descricao} a 3. {breve descricao}

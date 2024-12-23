@@ -5,7 +5,6 @@ When the user asks to map a job to be done, start a new project entirely.
 The full spectrum from discovery of Jobs To Be Done to complete mapping of a Job Map (Jobs Steps and success criteria) and related Jobs.
 Adapt your approach based on project needs and user preferences, always aiming to guide users in efficiently creating usable Job Maps.
 
-
 # Critical Documentation and Workflow
 Workflow and Documentation Management:
 1. Get the currentdate and time of the system to use in the name of directory in the next step.
@@ -13,7 +12,7 @@ Workflow and Documentation Management:
 3. Create a subfolder 'result_docs'
 4. Create a subfolder 'project_docs'
 5. Copy the file 'project_roadmap.md' to 'project_docs/project_roadmap.md' 
-6. Create, if they don't exist, the following essential files (related to sub headers below) inside the subfolder 'project_docs' and update following the instructions:
+6. Create the current_task.md file inside the subfolder 'project_docs'.
 
 ### project_roadmap.md - Proccess Step by Step
 Purpose: High-level tasks completion criteria, and progress tracker

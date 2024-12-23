@@ -1,9 +1,24 @@
 <Contexto>
-Job To Be Done: [job to be done escolhido pelo usuário]
-Ator em foco: [ator escolhido pelo usuário]
+Job To Be Done: Gerenciar finanças em conjunto com outra pessoa.
+Papel em foco: Pessoas
 </Contexto>
 
-Identifique grupos de {{Ator em foco}} com necessidades *significativamente diferentes* ao realizar o {{Job To Be Done}}. 
+Identifique {{Ator em foco}} com necessidades *significativamente diferentes* ao realizar o {{Job To Be Done}}. 
+
+Critérios para descoberta de segmentos:
+- Motivações: O que motivou a pessoa a tomar a decisão naquele momento, e não em outro, para realizar o Job?
+- Condições do realizador: Quais as condições do realizador do Job?
+- Cognição: Quais pensamentos, raciocínio, valores, princípios, crenças, suposições ou memórias influenciam a realização do Job?
+- Emoções, sensações e humor: Quais emoções, sensações ou humor influenciam a realização do Job?
+- Estados fisiológicos: Quais condições fisiológicos influenciam a realização do Job?
+- Condições do ambiente: Quais as condições do ambiente, como clima, temperatura, cheiro, disposição de objetos ou elementos naturais influenciam a realização do job?
+- Realizador: Para quem a pessoa está realizando o Job? (incluindo, para si mesma)
+- Companhia: Com quem a pessoa está realizando o Job? (incluindo, ninguém)
+- Experiência com o Job: Qual a experiência da pessoa na realização do Job?
+- Restrição: Sob quais restrições o Job está sendo realizado (recursos, saúde, autonomia, distância, etc)?
+- Momento: Quando a pessoa está realizando o Job? Em que momento do dia, semana ou ano? Em qual momento da vida da pessoa?
+- Localização: Onde o Job está sendo realizado? De onde a pessoa veio para realizar?
+- Estilo de vida e Cultura: Qual o estilo de vida da pessoa e quais culturas influenciam seus comportamentos, tradições e conhecimentos?
 
 Critérios de Priorização (quanto maior, melhor, exceto "Barreira de Entrada"):
 
@@ -17,20 +32,17 @@ Critérios de Priorização (quanto maior, melhor, exceto "Barreira de Entrada")
 | Facilidade de Alcance | Facilidade de encontrar/segmentar o grupo. | Baixo/Médio/Alto |
 | Barreira de Entrada | Restrições à entrada de novas empresas no mercado. | Baixo/Médio/Alto |
 
-Processo:
-- Descubra e priorize grupos (segmentos) usando os critérios acima.
+
+
+Regras:
 - Os segmentos devem ser mutuamente exclusivos, coletivamente exaustivos e não redundantes. Encontre ao menos 10 seguindo grupos esses princípios.
-- Os segmentos não devem ser baseados em dados demográficos, a menos que o job to be done indique isso ou seja um fator principal e necessário, sem outras formas de agrupar. 
-- Agrupe grupos semelhantes, redundantes ou com diferenciação pouco específica. Exemplo: "Casais com dívidas altas" e "Casais com dívidas baixas" podem ser agrupados em "Casais com dívidas".
-- Desdobre grupos abstratos com características implícitas em grupos específicos com diferenciações explícitas significativas. Exemplo, se o grupo fosse "Familiares idosos sob cuidado", poderia ser desdobrado em diversos grupos com características que uma pessoa necessitado de cuidado sem precisar usar o termo "idoso" para abranger mais pessoas nesses grupos: "Familiares com limitação cognitiva", "Familiares com limitação física ou problema de saúde", "Familiares com dificuldade financeira ou leigos em finanças", etc. 
-- Mantenha apenas grupos com necessidades SIGNIFICANTEMENTE DISTINTAS que por isso demandam soluções totalmente diferentes e customizadas, mesmo realizando o mesmo Job to be done. 
-- Para cada grupo, descreva o mercado seguindo o template: "Mercado: {grupo de pessoas} desejando {job to be done adaptado que inicie com o verbo no infinitivo} {contexto abrangente envolvido no grupo de pessoas}. Adapte o Job to be done e contexto, baseado no nome do grupo, para descrever de forma super compreensiva a relação do ator com o job. Exemplos: 
-    - se o job fosse "Gerenciar finanças em conjunto" e o nome do grupo fosse "Familiares com idosos", então o mercado poderia ser "[Pessoas] desejando [gerenciar finanças em conjunto] [com seu familiar idoso]".
-    - se o nome do grupo fosse "Pessoas que cuidam de familiares idosos" uma declaração de mercado ruim seria "Pessoas que cuidam de familiares idosos desejando gerenciar finanças conjuntamente, equilibrando gastos com saúde e bem-estar" pois não é claro quem é o "familiar cuidado" e quem é o "cuidador" e adicionou um contexto desnecessário "equilibrando gastos...". Uma declaração de mercado melhor seria "[Pessoas] desejando [gerenciar finanças conjuntamente] [com seu familiar idoso]".
+- Os segmentos não devem ser baseados em dados demográficos, a menos que o job to be done indique isso ou seja um fator principal e necessário, sem outras formas de agrupar. 
+- Para cada grupo, descreva o mercado seguindo o template: "Mercado: {grupo de pessoas} desejando {job to be done adaptado que inicie com o verbo no infinitivo} {contexto abrangente envolvido no grupo de pessoas}. Adapte o Job to be done e contexto, baseado no nome do grupo, para descrever de forma super compreensiva a relação do ator com o job. Exemplos: 
+    - se o job fosse "Gerenciar finanças em conjunto" e o nome do grupo fosse "Familiares com idosos", então o mercado poderia ser "[Pessoas] desejando [gerenciar finanças em conjunto] [com seu familiar idoso]".
+    - se o nome do grupo fosse "Pessoas que cuidam de familiares idosos" uma declaração de mercado ruim seria "Pessoas que cuidam de familiares idosos desejando gerenciar finanças conjuntamente, equilibrando gastos com saúde e bem-estar" pois não é claro quem é o "familiar cuidado" e quem é o "cuidador" e adicionou um contexto desnecessário "equilibrando gastos...". Uma declaração de mercado melhor seria "[Pessoas] desejando [gerenciar finanças conjuntamente] [com seu familiar idoso]".
+- Para cada grupo, dê uma justificativa em com considera o grupo distinto dos outros e destaque até 3 desired outcomes + 3 restrições significativamente distintas em comparação aos outros grupos.
 - Dê um nome representativo a cada um e siga o modelo abaixo.
-
-Modelo de Resposta (exemplo):
-
+Modelo com exemplos na hora de exibir os segmentos finais:
 ## {Nome do grupo, ex: Viajantes Econômicos}
 Mercado: {Viajantes} desejando {viajar com orçamento limitado}.
 Justificativa para considerar um grupo distinto: Viajantes econômicos têm necessidades específicas de orçamento, tempo e confort, diferentes de viajantes de luxo.
@@ -41,4 +53,9 @@ Mercado: {Profissionais} desejando {trabalhar enquanto trabalham remotamente}.
 Justificativa para considerar um grupo distinto: Profissionais remotos têm necessidades de produtividade, conexão e equilíbrio trabalho-vida diferentes de profissionais presenciais.
 Avaliação de critérios: Impacto: Alto, Frequência: Alto, Demanda: Alto, Esforço: Alto, Poder de Compra: Baixo, Facilidade de Alcance: Médio, Barreira de Entrada: Baixa.
 
-Resultado:
+Processo:
+- Pense passo a passo em cada pergunta dos critérios de descoberta e explore respostas que criam diferenças significativas na realização do Job. E exiba essa linha de pensamento.
+- Com essas respostas, descubra e priorize grupos (segmentos) usando os critérios de priorização.
+- Agrupe grupos semelhantes, redundantes ou com diferenciação pouco específica. Exemplo: "Casais com dívidas altas" e "Casais com dívidas baixas" podem ser agrupados em "Casais com dívidas".
+- Desdobre grupos abstratos com características implícitas em grupos específicos com diferenciações explícitas significativas. Exemplo, se o grupo fosse "Familiares idosos sob cuidado", poderia ser desdobrado em diversos grupos com características que uma pessoa necessitado de cuidado sem precisar usar o termo "idoso" para abranger mais pessoas nesses grupos: "Familiares com limitação cognitiva", "Familiares com limitação física ou problema de saúde", "Familiares com dificuldade financeira ou leigos em finanças", etc. 
+- Mantenha apenas grupos com necessidades SIGNIFICANTEMENTE DISTINTAS que por isso demandam soluções totalmente diferentes e customizadas, mesmo realizando o mesmo Job to be done. 

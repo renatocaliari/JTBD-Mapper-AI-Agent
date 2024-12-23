@@ -1,6 +1,4 @@
-{{Job To Be Done}}: Gerenciar finanças em conjunto com outra pessoa
-
-
+{{Job To Be Done}}: {informe aqui}
 
 Descubra o máximo de fatores situacionais que influenciam significantemente a realização do Job.
 

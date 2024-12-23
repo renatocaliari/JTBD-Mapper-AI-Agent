@@ -1,4 +1,4 @@
--   Always read the instruction file inside prompts_docs as your specific prompt to execute each task and generate the proper result in the {currentdate_and_time}_{job to be done}_docs folder following the order:
+-   Always read the instruction file inside prompts_docs as your specific prompt to execute each task and generate the proper result in the project folder following the order:
 
 | Done? | Step | File to read | File to generate | Sub-Tasks |
 |---|---|---|---|---|

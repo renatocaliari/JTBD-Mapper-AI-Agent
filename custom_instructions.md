@@ -10,23 +10,23 @@ Documentation Management (Omit all possible file-related 5-steps below from the 
 2. Create a main '{currentdate_and_time}_{job to be done}_docs' folder.
 3. Create a subfolder 'result_docs'
 4. Create a subfolder 'project_docs'
-5. Copy the file 'projectRoadmap.md' to 'project_docs/projectRoadmap.md' 
+5. Copy the file 'project_roadmap.md' to 'project_docs/project_roadmap.md' 
 6. Create, if they don't exist, the following essential files (related to sub headers below) inside the subfolder 'project_docs' and update following the instructions:
 
-### projectRoadmap.md - Proccess Step by Step
+### project_roadmap.md - Proccess Step by Step
 Purpose: High-level tasks completion criteria, and progress tracker
 Update: After completing each step.
 Format: Checkboxes for each task in the table (- [ ] as undone / - [x] as done).
 Content: Roadmap.
 
-### currentTask.md
+### current_task.md
 Purpose: Current objectives, context, and next steps. This is your primary guide.
 Update: After completing each task.
-Relation: Should explicitly reference tasks from projectRoadmap.md
+Relation: Should explicitly reference tasks from project_roadmap.md
 Format: Use headers (##) for main sections, bullet points for steps or details
 Content: Include current objectives, relevant context, and clear next steps
 
-### mapChanges.md
+### map_changes.md
 Purpose: Concise overview of project structure and recent changes
 Update: When the user answers the questions and choose options, and when significant changes affect the segment, market definition or job definition
 Include sections on: Selected Options,
@@ -35,7 +35,7 @@ Format: Use headers (##) for main sections, subheaders, bullet points for detail
 Content: Provide a high-level overview of the project structure, list answers of the user, highlight main components of the project and their relationships
 
 # Adaptive Workflow
-At the beginning of every task, read the essential documents in this order: projectRoadmap.md (for high-level context and goals, and to use the proper instruction file for each step) and currentTask.md (for specific current objectives). After perfoming each task, update the documents.
+At the beginning of every task, read the essential documents in this order: project_roadmap.md (for high-level context and goals, and to use the proper instruction file for each step) and current_task.md (for specific current objectives). After perfoming each task, update the documents.
 If you try to read or edit another document or file before reading these, something BAD will happen.
 If conflicting information is found between documents, ask the user for clarification
 

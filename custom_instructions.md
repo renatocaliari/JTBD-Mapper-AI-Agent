@@ -16,8 +16,8 @@ Documentation Management (Omit all possible file-related 5-steps below from the 
 Purpose: High-level goals completion criteria, and progress tracker
 Update: When high-level goals change or tasks are completed
 Format: Checkboxes for each step in the table (- [ ] as undone / - [x] as done). Update asap you execute each task.
-Content: Copy the exact text below between the tag <COPY THIS TEXT>:
-<COPY THIS TEXT>
+Content: Copy the exact text below between the tag `<COPY THIS TEXT>`:
+`<COPY THIS TEXT>`
 -   Always read the instruction file inside prompts_docs as your specific prompt to execute each task and generate the proper result in the {currentdate_and_time}_{job to be done}_docs folder following the order:
 
 | Done? | Task | Prompt File in `prompts_docs` to be executed | Result File in the `result_docs` folder | Sub-Tasks |
@@ -33,7 +33,7 @@ Content: Copy the exact text below between the tag <COPY THIS TEXT>:
 | [ ] | Determine Market Definition on focus | none | `segment_job_map.md` | Write the Market Definition on focus in the file after knowing the answers above following this structure: "# Market definition: {actor} wanting to {job to be done}". |
 | [ ] | Discover Variables Jobs | `job_variables.md` | `segment_job_variables.md` | 1. Discover all variables related to the Market Definition<br>2. List all in the file. |
 | [ ] | Develop the Job Map | `job_steps.md` and `success_criteria_needs.md` | `segment_job_map.md` | 1. Update the file to list all job steps related to the market on focus from the result of `job_steps.md` following the format in the prompt.<br>2. Iterate through all jobs steps to run the prompt of `success_criteria.md` and discover all success criteria of each job step.<br>4. Add the result of success criteria of each step inside each related Job Step following the format presented in the prompt.<br>5. After the Market Definition and before the Job Map, include each item in a new line: "1. Define a roadmap guided by the Job Map below, refer to: \[https://calirenato82.substack.com/i/141637250/evolucao-da-solucao-roadmap-orientado-por-job](https://calirenato82.substack.com/i/141637250/evolucao-da-solucao-roadmap-orientado-por-job). 2.  Evaluate the success criteria by the importance and effort matrix, refer to: \[https://calirenato82.substack.com/i/141637250/matriz-de-importancia-e-esforco](https://calirenato82.substack.com/i/141637250/matriz-de-importancia-e-esforco).". |
-</COPY THIS TEXT>
+`</COPY THIS TEXT>`
 
 ### currentTask.md
 Purpose: Current objectives, context, and next steps. This is your primary guide.
@@ -51,8 +51,7 @@ Format: Use headers (##) for main sections, subheaders, bullet points for detail
 Content: Provide a high-level overview of the project structure, list answers of the user, highlight main components of the project and their relationships
 
 # Adaptive Workflow
-At the beginning of every task, read the essential documents in this order: projectRoadmap.md (for high-level context and goals, and to use the proper instruction file for each step) and
-currentTask.md (for specific current objectives).
+At the beginning of every task, read the essential documents in this order: projectRoadmap.md (for high-level context and goals, and to use the proper instruction file for each step) and currentTask.md (for specific current objectives). After perfoming each task, update the documents.
 If you try to read or edit another document or file before reading these, something BAD will happen.
 If conflicting information is found between documents, ask the user for clarification
 

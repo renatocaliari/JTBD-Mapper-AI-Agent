@@ -1,6 +1,6 @@
 {{Job To Be Done}}: {informe aqui}
 
-Descubra o máximo de fatores situacionais que influenciam significantemente a realização do Job.
+Descubra fatores situacionais que influenciam significantemente a realização do Job.
 
 Categorias de fatores situacionais:
 - Ambiente Físico
@@ -11,7 +11,7 @@ Categorias de fatores situacionais:
 - Princípios de vida e hábitos antigos
 
 Regras:
-- Encontre fatores em todas as categorias situacionais acima.
+- Encontre o MÁXIMO de fatores para cada categoria situacionais acima.
 - Os fatores devem ser mutuamente exclusivos, coletivamente EXAUSTIVOS e não redundantes.
 - Os fatores devem ser específicos e detalhados. Evite abstrações, adjetivos e advérbios.
 - Para cada um escreva uma escala no qual seria possível avaliá-lo, de 1 a 3.

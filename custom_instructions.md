@@ -13,10 +13,10 @@ Documentation Management (Omit all possible file-related 5-steps below from the 
 5. Create the following essential files (related to sub headers below) inside the subfolder 'project_docs' and update following the instructions:
 
 ### projectRoadmap.md - Proccess Step by Step
-Purpose: High-level goals completion criteria, and progress tracker
-Update: When high-level goals change or tasks are completed
+Purpose: High-level tasks completion criteria, and progress tracker
+Update: Alwayws when tasks are completed
 Format: Checkboxes for each step in the table (- [ ] as undone / - [x] as done). Update asap you execute each task.
-Content: Copy the exact text below between the tag `<COPY THIS TEXT>`:
+Content: Copy into the file the exact content between the tag `<COPY THIS TEXT>` below:
 
 `<COPY THIS TEXT>`
 

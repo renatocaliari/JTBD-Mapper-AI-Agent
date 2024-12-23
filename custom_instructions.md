@@ -15,7 +15,7 @@ Documentation Management (Omit all possible file-related 5-steps below from the 
 ### projectRoadmap.md - Proccess Step by Step
 Purpose: High-level goals completion criteria, and progress tracker
 Update: When high-level goals change or tasks are completed
-Format: Checkboxes for each step in the table (- [ ] as undone / - [x] as done).
+Format: Checkboxes for each step in the table (- [ ] as undone / - [x] as done). Update asap you execute each task.
 Content: Copy the exact text below between the tag <COPY THIS TEXT>:
 <COPY THIS TEXT>
 -   Always read the instruction file inside prompts_docs as your specific prompt to execute each task and generate the proper result in the {currentdate_and_time}_{job to be done}_docs folder following the order:

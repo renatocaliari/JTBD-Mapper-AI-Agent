@@ -1,9 +1,9 @@
-{{Job To Be Done}}: [caso o segmento já foi escolhido pelo usuário, preencha com a definição de mercado do segmento, senão preencha com o Job To Be Done]
+{{Job To Be Done}}: [caso o segmento já tenha sido escolhido pelo usuário, preencha com a definição de mercado do segmento, senão preencha com o Job To Be Done inicial]
 
 Descubra os atores envolvidos no {{Job To Be Done}} em cada papel abaixo:
 
-- "Favorecido": grupo de pessoas que é favorecida diretamente pelo Job To Be Done. Esta é a pessoa ou papel que "contrata" um produto ou serviço para realizarem o Job para si. Deve estar no plural. Exemplo, no caso do Job "Cuidadores desejando gerenciar finanças conjuntamente com uma pessoa sob seu cuidado". O favorecido principal são "Pessoa sob Cuidados", e também secundariamente pode ser "Cuidadores" em algum contexto. Mas foque no favorecido principal. No caso de "[Familiares cuidadores] desejando [gerenciar finanças em conjunto] [para cuidar de um membro da família que não pode fazê-lo sozinho]", "Membros da família sob cuidado" seria o favorecido.
-- "Realizador": grupo de pessoas que realiza, ajuda ou possibilita o favorecido a realizar o Job. Deve estar no plural.
+- "Favorecido": grupo de pessoas que é favorecido diretamente pelo Job To Be Done. Esta é o grupo que "contrata" um produto ou serviço para realizar o Job para si. Deve estar no plural. Exemplo, no caso do Job "Cuidadores desejando gerenciar finanças conjuntamente com uma pessoa sob seu cuidado", o favorecido principal é "Pessoas sob Cuidados". 
+- "Realizador": grupo de pessoas que realiza, ajuda ou possibilita o favorecido principal a realizar o Job. Deve estar no plural. Exemplo, no caso do Job "Cuidadores desejando gerenciar finanças conjuntamente com uma pessoa sob seu cuidado", o realizador é "Cuidadores". 
 - "Favorecido indireto": grupo de pessoas que é favorecida indiretamente pelo job além do realizador e do favorecido direto ou que poderia ser favorecida pelo mesmo resultado do job do próprio favorecido. Indique os 3 principais favorecidos indiretos, diferentes do favorecido direto.
 - "Ameaçados": grupo de pessoas, seres vivos ou sistemas podem acabar sofrendo consequências negativas quando este job é realizado. Considere diferentes contextos e circunstâncias. Dê uma explicação rápida sobre os motivos. Dê os 3 principais.
 - "Assistente": grupo de pessoas que auxilia o realizador no momento da execução do Job. Por exemplo: na cirurgia, a enfermeira auxilia o médico que faz a cirurgia. Dê os 3 principais.
@@ -29,6 +29,9 @@ Regras:
 Mostre o resultado em formato Markdown. Não dê nenhuma introdução.
 
 Siga este formato, substituindo os placeholders [] e {}:
+
 ## {Papel}
+
 ### {um emoji respeitoso que represente o ator} {nome do ator no plural}
+
     - {definição de mercado do ator: [nome do ator] + " desejando " + [job to be done: inicie por verbo no infinitivo]}

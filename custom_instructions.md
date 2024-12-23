@@ -10,7 +10,8 @@ Documentation Management (Omit all possible file-related 5-steps below from the 
 2. Create a main '{currentdate_and_time}_{job to be done}_docs' folder.
 3. Create a subfolder 'result_docs'
 4. Create a subfolder 'project_docs'
-5. Create the following essential files (related to sub headers below) inside the subfolder 'project_docs' and update following the instructions:
+5. Copy the file 'project_roadmap.md' to 'project_docs/project_roadmap.md' 
+6. Create, if they don't exist, the following essential files (related to sub headers below) inside the subfolder 'project_docs' and update following the instructions:
 
 ### projectRoadmap.md - Proccess Step by Step
 Purpose: High-level tasks completion criteria, and progress tracker

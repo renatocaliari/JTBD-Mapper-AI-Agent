@@ -7,8 +7,6 @@ Job step: [foque no job step específico, se informado, senão, deixe em branco]
 Segmento: [segmento escolhido pelo usuário]
 
 Glossário:
-
-Desired outcome: Resultado desejado pelo segmento ao realizar o "job to be done".
 Critério de sucesso: Condição específica única e mensurável que precisa ser satisfeita para que o "desired outcome" seja alcançado.
 Instruções:
 
@@ -21,23 +19,20 @@ Frustrante: O que poderia dar errado, ser frustrante ou inconveniente ao realiza
 Ideal: No mundo ideal, quais seriam os benefícios que superariam minhas expectativas com as soluções existentes para realizar essa tarefa?
 
 2. Geração de Critérios:
-
-- A partir das respostas anterior descubra os critérios de sucesso, respondendo à pergunta: "Quais condições precisam ser satisfeitas para que eu resolva os impedimentos, evite qualquer frustração e alcance o ideal com base nas respostas?"
+- A partir das respostas anteriores descubra os critérios de sucesso, respondendo à pergunta: "Quais condições precisam ser satisfeitas para que eu resolva os impedimentos, evite qualquer frustração e alcance o ideal com base nas respostas?"
 - Exemplificar soluções: Para cada critério de sucesso, forneça exemplos de soluções (mentais, físicas, virtuais, processuais ou metodológicas) que podem ser utilizadas para alcançar o critério.
 
 Regras:
-- Assegure-se que os critério de sucesso comecem com o verbos no infinitivo se o resultado for em português brasileiro ou imperative verbs se for em inglês
-- Assegure-se que cada critério seja específico e mensurável. Evite critérios gerais, vagos ou redundantes. 
+- Assegure-se que os critério de sucesso comecem com o verbos no infinitivo se o resultado for em português brasileiro ou imperative verbs se for em inglês.
+- Assegure-se que cada critério seja específico e mensurável. Evite critérios gerais, vagos ou redundantes.
 - Assegure-se que os critérios sejam acionáveis, ou seja, que possam ser utilizados para gerar soluções e implementar melhorias.
-- Não mencione qualquer solução ou método específico que não existiam há 10.000 anos atrás (ex: "escrever", "contas bancárias", "fotos", "online", "WhatsApp", "planilhas", etc.). exceto caso esteja especificado no job to be done ou job step.
-- IMPORTANTE: Assegure-se que os critérios de sucesso finais sejam mutuamente exclusivos, coletivamente exaustivos e não sejam redundantes! Exemplo que quebra a regra: "Garantir que as metas financeiras sejam claras e específicas" e "Evitar metas vagas e genéricas", ou "Garantir que as informações sobre as despesas fixas sejam precisas e atualizadas" e "Evitar informações desatualizadas ou incorretas"
+- Não mencione qualquer solução ou método específico que não existiam há 10.000 anos atrás (ex: "escrever", "contas bancárias", "fotos", "online", "WhatsApp", "planilhas", etc.), exceto caso esteja especificado no próprio job to be done.
+- Não use advérbios e adjetivos na descrição dos critérios de sucesso.
+- IMPORTANTE: Assegure-se que os critérios de sucesso finais sejam mutuamente exclusivos, coletivamente exaustivos e não sejam redundantes! 
 
 Formato do Resultado dessa etapa:
-
-1.1 {Critério de sucesso detalhado} | {Breve justificativa da prioridade}
-Soluções atuais: {exemplos de soluções atuais existentes}
-1.2 {Critério de sucesso detalhado}
-Soluções atuais: {exemplos de soluções atuais existentes}
+- {Critério de sucesso detalhado} | {Breve justificativa da prioridade}
+  - Soluções atuais: {exemplos de soluções atuais existentes}
 
 3. Priorização dos Critérios:
 
@@ -45,11 +40,11 @@ Ordenar os critérios de sucesso com base nos seguintes fatores (do mais importa
 
 - Relação com o "job to be done"
 - Relação com o contexto do segmento
-- Frequência comum de satisfação do critério
+- Satisfação comum com o resultado do critério
 - Impacto positivo quando o critério é atendido
 - Impacto negativo quando o critério não é atendido
 - Investimento necessário para satisfazer o critério (tempo, dinheiro, habilidades, pessoas, soluções)
-- Acuracidade na satisfação do critério
+- Acuracidade comum na satisfação do critério
 
 
 

@@ -42,5 +42,4 @@ Avaliação de critérios: Impacto: Alto, Frequência: Alto, Demanda: Alto, Esfo
 
 Processo:
 - Descubra grupos e priorize grupos (segmentos) usando os critérios de priorização.
-- Agrupe grupos semelhantes, redundantes ou com diferenciação pouco específica. Exemplo: "Casais com dívidas altas" e "Casais com dívidas baixas" podem ser agrupados em "Casais com dívidas".
 - Mantenha apenas grupos com necessidades SIGNIFICANTEMENTE DISTINTAS que por isso demandam soluções totalmente diferentes e customizadas, mesmo realizando o mesmo Job to be done. 

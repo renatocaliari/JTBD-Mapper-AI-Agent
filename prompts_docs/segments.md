@@ -41,5 +41,5 @@ Restrições:
 Avaliação de critérios: Impacto: Alto, Frequência: Alto, Demanda: Alto, Esforço: Alto, Poder de Compra: Baixo, Facilidade de Alcance: Médio, Barreira de Entrada: Baixa.
 
 Processo:
-- Descubra grupos e priorize grupos (segmentos) usando os critérios de priorização.
+- Descubra 1 0grupos e priorize usando os critérios de priorização.
 - Mantenha apenas grupos com necessidades SIGNIFICANTEMENTE DISTINTAS que por isso demandam soluções totalmente diferentes e customizadas, mesmo realizando o mesmo Job to be done. 

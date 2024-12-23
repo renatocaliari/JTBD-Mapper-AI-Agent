@@ -20,19 +20,11 @@ Format: Checkboxes for each task in the table (- [ ] as undone / - [x] as done).
 Content: Roadmap.
 
 ### current_task.md
-Purpose: Current objectives, context, and next steps. This is your primary guide.
-Update: After completing each task.
-Relation: Should explicitly reference tasks from project_roadmap.md
-Format: Use headers (##) for main sections, bullet points for steps or details
-Content: Include current objectives, relevant context, and clear next steps
-
-### map_changes.md
-Purpose: Concise overview of project structure and recent changes
-Update: When the user answers the questions and choose options, and when significant changes affect the segment, market definition or job definition
-Include sections on: Selected Options,
-Recent Significant Changes, User Feedback Integration and Its Impact on Progress of tasks.
-Format: Use headers (##) for main sections, subheaders, bullet points for details
-Content: Provide a high-level overview of the project structure, list answers of the user, highlight main components of the project and their relationships
+Purpose: Use as main guide.
+Update: After completing each task or when the user selects an option or answer some question.
+Relation: Should explicitly reference steps from project_roadmap.md and the options user selected or answered.
+Format: Use headers (##) for main sections - Current Objective of the project, Answers of the user, Current task, Next Step - and bullet points for details.
+Content: Include Current Objective of the project, Answers of the user, Current task, and Next Step.
 
 # Adaptive Workflow
 At the beginning of every task, read the essential documents in this order: project_roadmap.md (for high-level context and goals, and to use the proper instruction file for each step) and current_task.md (for specific current objectives). After perfoming each task, update the documents.

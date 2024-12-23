@@ -57,10 +57,12 @@ curl https://raw.githubusercontent.com/renatocaliari/joby-labs-agent/main/script
 
 # Free LLM Alternatives
 
+You can use other providers to try different LLMs, like:
+
+### glhf.chat
+
 To try Llama 3.3 or Qwen 2.5 free of charge, create an API key at https://glhf.chat/users/settings/api. 
-
 Then, in Cline's settings, configure the provider to 'OpenAI Compatible' and the Base URL to 'https://glhf.chat/api/openai/v1'. 
-
 Paste 'hf:meta-llama/Llama-3.3-70B-Instruct' as the model to use Llama 3.3, or 'hf:Qwen/Qwen2.5-72B-Instruct' for Qwen 2.5.
 
 # Troubleshooting

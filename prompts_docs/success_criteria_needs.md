@@ -8,7 +8,7 @@ Job step: [foque no job step específico, se informado, senão, deixe em branco]
 
 
 <fatores situacionais>
-[inclua aqui a lista dos fatores situacionais sem a escala, apenas as definições]
+[inclua aqui a lista dos fatores situacionais descobertos sem a escala, apenas as definições]
 </fatores situacionais>
 
 Glossário:
@@ -29,6 +29,7 @@ Ideal: No mundo ideal, quais seriam os benefícios que superariam minhas expecta
 
 Regras:
 - Assegure-se que os critério de sucesso "Garantir" ou "Evitar", escolha o que for mais adequado.
+- Se o critério de sucesso for parecido com o próprio Job Step, ignore.
 - Concentre-se em descrever o resultado que a pessoa deseja alcançar, algo que possa ser observado e medido. Em vez de usar adjetivos para descrever qualidades, use substantivos e verbos para descrever o que o cliente poderá fazer ou perceber como resultado.
 - Assegure-se que cada critério seja específico e mensurável.
 - Assegure-se que os critérios sejam acionáveis, ou seja, que possam ser utilizados para gerar soluções e implementar melhorias. 

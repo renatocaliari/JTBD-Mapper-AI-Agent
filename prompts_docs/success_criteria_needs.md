@@ -12,9 +12,7 @@ Job step: [foque no job step específico, se informado, senão, deixe em branco]
 
 # Instruções:
 1. Análise de Contexto:
-Imagine o segmento realizando o {job step} (se informado) para concluir o {job to be done} tendo os fatores situacionais acima significativamente diferentes.
-
-Responda as perguntas abaixo como se você fosse o próprio segmento, utilizando a primeira pessoa do singular:
+Responda as perguntas abaixo como se você fosse o próprio segmento (utilizando a primeira pessoa do singular) realizando o {job step} (se informado) para concluir o {job to be done} levando em conta os fatores situacionais acima:
 Impedimento: O que me impediria de realizar essa tarefa com sucesso em todas as oportunidades e com a maior frequência possível?
 Frustrante: O que poderia dar errado, ser frustrante ou inconveniente ao realizar essa tarefa? Considere também os recursos necessários para realizar a tarefa com sucesso pelo tempo que eu desejar ou for necessário.
 Ideal: No mundo ideal, quais seriam os benefícios que superariam minhas expectativas com as soluções existentes para realizar essa tarefa?
@@ -25,10 +23,9 @@ Ideal: No mundo ideal, quais seriam os benefícios que superariam minhas expecta
 
 # Regras:
 - Assegure-se que os critério de sucesso iniciem com "Garantir" ou "Evitar", escolha o que for mais adequado.
-- Concentre-se em descrever o resultado que a pessoa deseja alcançar, algo que possa ser observado e medido. Em vez de usar adjetivos para descrever qualidades, use substantivos e verbos para descrever o que a pessoa poderá fazer ou perceber como resultado.
-- Assegure-se que cada critério seja específico, mensurável e acionáveis, ou seja, que possam ser facilmente compreendidos sem ambiguidade para gerar soluções e implementar melhorias. 
-- Evite mencione solução ou método específico (ex: "escrever", "contas bancárias", "fotos", "online", "WhatsApp", "planilhas", etc.), exceto caso esteja especificado no próprio job to be done (e segmento) ou inerente a ele.
-- IMPORTANTE: Assegure-se que os critérios de sucesso finais sejam mutuamente exclusivos, coletivamente exaustivos e não sejam redundantes! 
+- Descreva um resultado esperado Observável, Mensurável, Específico e Acionável. Usar substantivos e verbos. Evitar adjetivos e advérbios sempre. Sem ambiguidade.
+- Ser mutuamente exclusivo, coletivamente exaustivo e não redundante.
+- Evite mencionar solução ou método específico (ex: "escrever", "contas bancárias", "fotos", "online", "WhatsApp", "planilhas", etc.), exceto caso esteja especificado no próprio job to be done (e segmento) ou inerente a ele.
 
 Formato do Resultado dessa etapa:
 - {Critério de sucesso detalhado} | {Breve justificativa da prioridade}

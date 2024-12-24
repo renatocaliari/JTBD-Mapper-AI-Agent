@@ -11,12 +11,9 @@ Job step: [foque no job step específico, se informado, senão, deixe em branco]
 [inclua aqui a lista dos fatores situacionais descobertos sem a escala, apenas as definições]
 </fatores situacionais>
 
-Glossário:
-Critério de sucesso: Condição específica única e mensurável que precisa ser satisfeita para que o job to be done seja alcançado com sucesso para por esse segmento.
-
 Instruções:
 1. Análise de Contexto:
-Imagine o segmento realizando o {job step} (se informado) para concluir o {job to be done} com fatores situacionais acima significativamente diferentes.
+Imagine o segmento realizando o {job step} (se informado) para concluir o {job to be done} tendo os fatores situacionais acima significativamente diferentes.
 
 Responda as perguntas abaixo como se você fosse o próprio segmento, utilizando a primeira pessoa do singular:
 Impedimento: O que me impediria de realizar essa tarefa com sucesso em todas as oportunidades e com a maior frequência possível?
@@ -24,7 +21,7 @@ Frustrante: O que poderia dar errado, ser frustrante ou inconveniente ao realiza
 Ideal: No mundo ideal, quais seriam os benefícios que superariam minhas expectativas com as soluções existentes para realizar essa tarefa?
 
 2. Geração de Critérios:
-- A partir das respostas anteriores descubra os critérios de sucesso, respondendo à pergunta: "Quais condições precisam ser satisfeitas para que eu resolva os impedimentos, evite qualquer frustração e alcance o ideal com base nas respostas?"
+- A partir de cada parte das respostas anteriores descubra os critérios de sucesso, respondendo à pergunta: "Quais condições precisam ser satisfeitas para que eu resolva os impedimentos, evite qualquer frustração e alcance o ideal com base nas respostas?". Como regra geral, cada parte de resposta relacionado a um fator deve ter um critério específico.
 - Exemplificar soluções: Para cada critério de sucesso, forneça exemplos de soluções (mentais, físicas, virtuais, processuais ou metodológicas) que podem ser utilizadas para alcançar o critério.
 
 Regras:

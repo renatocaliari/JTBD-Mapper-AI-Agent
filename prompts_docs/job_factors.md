@@ -5,13 +5,14 @@ Descubra fatores situacionais que influenciam significantemente a realização d
 Categorias de fatores situacionais:
 - Ambiente Físico
 - Ambiente Social e Relacional
-- Aspectos temporais
+- Aspectos temporais: momento, épocas, temporadas
+- Aspecto físico e cognitivo
 - Motivação para realizar o Job
 - Estados Antecedentes: estado emocional, estado fisiológico e pensamentos internos
 - Princípios de vida e hábitos antigos
 
 Regras:
-- Encontre o MÁXIMO de fatores para cada categoria de fator situacional acima.
+- Itere sobre cada categoria acima e explore o MÁXIMO de fatores situacionais.
 - Os fatores devem ser mutuamente exclusivos, coletivamente EXAUSTIVOS e não redundantes.
 - Os fatores devem ser específicos e detalhados. Evite abstrações, adjetivos e advérbios.
 - Para cada um escreva uma escala no qual seria possível avaliá-lo, de 1 a 3.

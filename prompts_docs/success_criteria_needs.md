@@ -3,8 +3,9 @@ Objetivo: Este prompt visa auxiliar na identificação de critérios de sucesso 
 Contexto:
 
 Job to be done: [job to be done escolhido pelo usuário]
-Job step: [foque no job step específico, se informado, senão, deixe em branco]
 Segmento: [segmento escolhido pelo usuário]
+Job step: [foque no job step específico, se informado, senão, deixe em branco]
+
 
 <fatores situacionais>
 [inclua aqui a lista dos fatores situacionais sem a escala, apenas as definições]

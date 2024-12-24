@@ -7,6 +7,7 @@ Categorias de fatores situacionais:
 - Ambiente Social e Relacional
 - Aspectos temporais: momento, épocas, temporadas
 - Aspecto físico e cognitivo
+- Experiência em realizar o Job
 - Motivação para realizar o Job
 - Estados Antecedentes: estado emocional, estado fisiológico e pensamentos internos
 - Princípios de vida e hábitos antigos

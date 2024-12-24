@@ -5,8 +5,8 @@ Descubra fatores situacionais que influenciam significantemente a realização d
 Categorias de fatores situacionais:
 - Ambiente Físico
 - Ambiente Social e Relacional
-- Aspectos temporais: momento, épocas, temporadas
 - Aspecto físico e cognitivo
+- Aspecto temporal: momento, épocas, estações, temporadas
 - Experiência em realizar o Job
 - Motivação para realizar o Job
 - Estados Antecedentes: estado emocional, estado fisiológico e pensamentos internos

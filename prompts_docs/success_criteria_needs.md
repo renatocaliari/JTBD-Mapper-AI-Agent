@@ -33,13 +33,12 @@ Ordenar os critérios de sucesso com base nos seguintes fatores (quanto maior me
 
 - Assegure-se que os critério de sucesso iniciem com "Garantir" ou "Evitar", escolha o que for mais adequado.
 - Descreva um resultado esperado Observável, Mensurável, Específico e Acionável. Usar substantivos e verbos. Evitar adjetivos e advérbios sempre. Sem ambiguidade.
-- Se precisar usar um adjetivo, tente compará-lo a algo concreto em vez de usá-lo isoladamente. Isso ajuda a tornar o significado mais claro. Exemplo: Em vez de "Garantir um som alto", use "Permitir que o volume seja mais alto do que o ruído ambiente".
+- Se precisar usar um adjetivo, tente compará-lo a algo concreto em vez de usá-lo isoladamente. Isso ajuda a tornar o significado mais claro. Exemplo: Em vez de "Garantir um som alto", use "Garantir que o volume seja mais alto do que o ruído ambiente" ou seria melhor não usar adjetivo e declarar como "Evitar escutar o ruído do ambiente" pois a solução talvez não seja aumentar o volume.
 - Ser mutuamente exclusivo, coletivamente exaustivo e não redundante.
 - Evite mencionar solução ou método específico (ex: "escrever", "contas bancárias", "fotos", "online", "WhatsApp", "planilhas", etc.), exceto caso esteja especificado no próprio job to be done (e segmento) ou inerente a ele.
   
 Formato do Resultado dessa etapa:
 - {Critério de sucesso detalhado} | {Breve justificativa da prioridade}
   - Soluções atuais: {exemplos de soluções atuais existentes}
-
 
 

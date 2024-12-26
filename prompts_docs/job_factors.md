@@ -2,15 +2,17 @@
 
 Descubra fatores situacionais que influenciam significantemente a realização do Job.
 
-Categorias de fatores situacionais:
-- Ambiente Físico
-- Ambiente Social e Relacional
-- Aspecto físico e cognitivo
-- Aspecto temporal: momento, épocas, estações, temporadas
-- Experiência em realizar o Job
-- Motivação para realizar o Job
-- Estados Antecedentes: estado emocional, estado fisiológico e pensamentos internos
-- Princípios de vida e hábitos antigos
+* Onde (Ambiente Físico): Características tangíveis e imediatas do espaço (localização, condições ambientais, recursos disponíveis). Exemplo: Sala de reuniões.
+* Com Quem & Cultura local (Ambiente Social): Presença e influência de outras pessoas ou mesmo a cultura no momento (presença/ausência, tipo de interação, normas sociais imediatas). Exemplo: Equipe de marketing.
+* Quando (Tempo): Dimensão temporal da situação (momento específico, período de tempo, ritmos cíclicos). Exemplo: Manhã de segunda-feira, uma hora de duração.
+* Por Quê (Intenção/Propósito Maior): A razão fundamental por trás da execução do job, o objetivo final. Exemplo: Definir a estratégia de marketing para o próximo trimestre.
+* Como (Estado Interno com Experiência Integrada): 
+    * Histórico Pessoal: Valores, crenças, experiências passadas e hábitos arraigados.
+    * Percepção da Situação: Avaliação da situação.
+    * Estado Emocional: Emoções e sentimentos presentes.
+    * Estado Fisiológico e Cognitivo: Condições físicas e cognitiva.
+    * Experiência: Conhecimentos, habilidades e experiências diretamente relacionadas ao Job em questão.
+    * Estratégias e Planejamento: Ações e estratégias adotadas para atingir o propósito.
 
 Regras:
 - Itere sobre cada categoria acima e explore o MÁXIMO de fatores situacionais.

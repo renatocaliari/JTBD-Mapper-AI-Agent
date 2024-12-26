@@ -7,7 +7,9 @@ Segmento: [segmento escolhido pelo usuário]
 Job step: [foque no job step específico, se informado, senão, deixe em branco]
 
 `<fatores situacionais>`
-[inclua aqui a lista dos fatores situacionais descobertos sem a escala, apenas as definições]
+
+[inclua aqui a lista dos fatores situacionais descobertos]
+
 `</fatores situacionais>`
 
 # 1. Geração de Critérios:

@@ -3,7 +3,7 @@
 Descubra fatores situacionais que influenciam significantemente a realização do Job.
 
 * Onde (Ambiente Físico): Características tangíveis e imediatas do espaço (localização, condições ambientais, recursos disponíveis). Exemplo: Sala de reuniões.
-* Com Quem & Cultura local (Ambiente Social): Presença e influência de outras pessoas ou mesmo a cultura no momento (presença/ausência, tipo de interação, normas sociais imediatas). Exemplo: Equipe de marketing.
+* Com Quem & Cultura local (Ambiente Social): Presença e influência de outras pessoas e da cultura no momento (presença/ausência, tipo de interação, normas sociais imediatas). Exemplo: Equipe de marketing.
 * Quando (Tempo): Dimensão temporal da situação (momento específico, período de tempo, ritmos cíclicos). Exemplo: Manhã de segunda-feira, uma hora de duração.
 * Por Quê (Propósito Maior): A razão fundamental por trás da execução do job, o objetivo final. Exemplo: Definir a estratégia de marketing para o próximo trimestre.
 * Como (Estado Interno com Experiência Integrada): 

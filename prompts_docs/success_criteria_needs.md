@@ -7,16 +7,14 @@ Segmento: [segmento escolhido pelo usuário]
 Job step: [foque no job step específico, se informado, senão, deixe em branco]
 
 `<fatores situacionais>`
-
-[inclua aqui a lista dos fatores situacionais descobertos]
-
+[inclua aqui a lista dos fatores situacionais descobertos em etapa anterior]
 `</fatores situacionais>`
 
 # 1. Geração de Critérios:
 
 - Imagine como se você fosse o próprio segmento (utilizando a primeira pessoa do singular) realizando o {job step} (se informado) para concluir o {job to be done} levando em conta os fatores situacionais acima.
 
-- Descubra os critérios de sucesso, respondendo à pergunta: "Quais condições precisam ser satisfeitas para que eu resolva os impedimentos, evite qualquer frustração e alcance o ideal com base nos fatores situacionais?".
+- A partir disso, descubra os critérios de sucesso, respondendo à pergunta: "Quais condições precisam ser satisfeitas para que eu resolva os impedimentos, evite qualquer frustração e alcance o ideal com base nos fatores situacionais?". 
 
 - Exemplificar soluções: Para cada critério de sucesso, forneça exemplos de soluções (mentais, físicas, virtuais, processuais ou metodológicas) específicas e detalhadas que podem ser utilizadas para alcançar o critério.
 
@@ -30,13 +28,16 @@ Ordenar os critérios de sucesso com base nos seguintes fatores (quanto maior me
 - Menor precisão atual para satisfazer o critério
 
 
-
 # Regras:
 
 - Assegure-se que os critério de sucesso iniciem com "Garantir" ou "Evitar", escolha o que for mais adequado.
-- Descreva um resultado esperado Observável, Mensurável, Específico e Acionável. Usar substantivos e verbos. Evitar adjetivos e advérbios sempre. Sem ambiguidade. Você pode mencionar uma circunstância específica relacionada aos fatores situacionais se perceber que a necessidade predomina ou existe apenas nessa circunstância.
-- Se precisar usar um adjetivo, tente compará-lo a algo concreto em vez de usá-lo isoladamente. Isso ajuda a tornar o significado mais claro. Exemplo: Em vez de "Garantir um som alto", use "Garantir que o volume seja mais alto do que o ruído ambiente" ou seria melhor não usar adjetivo e declarar como "Evitar escutar o ruído do ambiente" pois a solução talvez não seja aumentar o volume.
-- Ser mutuamente exclusivo, coletivamente exaustivo e não redundante.
+- Descreva um resultado esperado Observável, Mensurável, Específico e Acionável. Usar substantivos e verbos.
+- Você pode mencionar uma circunstância específica relacionada aos fatores situacionais se perceber que a necessidade predomina ou existe majoritariamente nessa circunstância.
+Você precisa encontrar vários critérios para cada Job Step.
+- Sempre evite adjetivos e advérbios, e evite ambiguidade. 
+- Se achar necessário usar um adjetivo, tente compará-lo a algo concreto em vez de usá-lo isoladamente. Isso ajuda a tornar o significado mais claro. Exemplo: Em vez de "Garantir um som alto", use "Garantir que o volume seja mais alto do que o ruído ambiente" ou seria melhor não usar adjetivo e declarar como "Evitar escutar o ruído do ambiente" pois a solução talvez não seja aumentar o volume.
+- Os critérios devem ser mutuamente exclusivo, coletivamente exaustivo e não redundante. 
+- Cada Job Step deve ter múltiplos critérios de sucesso.
 - Evite mencionar solução ou método específico (ex: "escrever", "contas bancárias", "fotos", "online", "WhatsApp", "planilhas", etc.), exceto caso esteja especificado no próprio job to be done (e segmento) ou inerente a ele.
   
 Formato do Resultado dessa etapa:

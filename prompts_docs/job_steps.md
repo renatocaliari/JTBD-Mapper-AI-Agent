@@ -36,6 +36,6 @@ Observações:
 - Cada etapa deve ser escrita na primeira pessoa do singular e iniciando com um verbo no infinitivo se o resultado for em português brasileiro ou imperative verbs se for em inglês.
 - Ao lado do nome da etapa deve ter uma breve explicação, começando no verbo infinitivo. 
 - Evite etapas genéricas e vagas, como o próprio nome do estágio. 
-- As etapas devem ser mutuamente exclusivas, coletivamente exaustivas e não redundantes.
+- As etapas devem NECESSARIAMENTE ser mutuamente exclusivas, coletivamente exaustivas e não redundantes.
 - Não use conjunções "E" ou "OU" para combinar etapas.
 - Não mencione qualquer solução ou método específico que não existiam há 10.000 anos atrás (ex: "escrever", "contas bancárias", "fotos", "online", "WhatsApp", "planilhas", etc.). exceto caso esteja especificado no job to be done.

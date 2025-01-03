@@ -12,7 +12,7 @@ Job step: [foque no job step específico, se informado, senão, deixe em branco]
 
 # 1. Geração de Critérios:
 
-- Imagine como se você fosse o próprio segmento (utilizando a primeira pessoa do singular) realizando o {job step} (se informado) para concluir o {job to be done} levando em conta os fatores situacionais acima.
+- Imagine como se você fosse o próprio segmento (utilizando a primeira pessoa do singular) realizando o {job step} (se informado) para concluir o {job to be done} levando em conta os temas contextuais acima.
 
 - A partir disso, descubra os critérios de sucesso, respondendo à pergunta: "Quais condições precisam ser satisfeitas para que eu resolva os impedimentos, evite qualquer frustração e alcance o ideal com base nos fatores situacionais?". 
 - Justificar como isso se alinha com o Job Step (se informado, senão com o Job To Be Done) e com qual tema(s) contextual(is) em específico.

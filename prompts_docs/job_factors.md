@@ -21,4 +21,5 @@ Regras:
 - Para cada fator explore o máximo de possibilidades possíveis.
 - Sua resposta deve seguir esse modelo substituindo o placeholder {}:
 # {Categoria}
-- {Fator situacional}: {bullet point de possibilidades}
+- {Fator situacional}:
+   - {bullet points de possibilidades}

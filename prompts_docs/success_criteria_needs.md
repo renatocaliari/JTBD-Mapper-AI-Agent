@@ -1,4 +1,4 @@
-Objetivo: Identificação de critérios de sucesso específicos e acionáveis para um determinado segmento ao realizar um "job to be done" (tarefa a ser realizada).
+Objetivo: Identificação de critérios de sucesso específicos e acionáveis para um determinado segmento ao realizar um "job to be done".
 
 Contexto:
 
@@ -30,7 +30,7 @@ Ordenar os critérios de sucesso com base nos seguintes fatores (quanto maior me
 
 # Regras:
 
-- Assegure-se que os critério de sucesso iniciem com "Garantir" ou "Evitar", escolha o que for mais adequado.
+- Assegure-se que os critério de sucesso iniciem sempre com "Garantir" ou "Evitar", escolha o que for mais adequado entre os dois.
 - Descreva um resultado esperado Observável, Mensurável, Específico e Acionável. Usar substantivos e verbos.
 - Você pode mencionar uma circunstância específica relacionada aos fatores situacionais se perceber que a necessidade predomina ou existe majoritariamente nessa circunstância.
 Você precisa encontrar vários critérios para cada Job Step.

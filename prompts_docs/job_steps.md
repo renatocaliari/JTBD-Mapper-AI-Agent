@@ -2,9 +2,8 @@ Objetivo: Descrever as etapas para realizar com sucesso um "Job To Be Done".
 
 <Contexto>
 Job To Be Done: [job to be done escolhido pelo usuário]
-Segmento: [segmento escolhido pelo usuário]
+Segmento: [segmento escolhido pelo usuário; se nenhum escolhido, considerar todos descobertos]
 Perspectiva: [ator escolhido pelo usuário]
-Temas: [temas dos fatores situacionais do segmento em específico]
 </Contexto>
 
 Glossário:

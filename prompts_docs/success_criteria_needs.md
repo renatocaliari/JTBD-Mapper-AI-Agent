@@ -6,16 +6,16 @@ Job to be done: [job to be done escolhido pelo usuário]
 Segmento: [segmento escolhido pelo usuário]
 Job step: [foque no job step específico, se informado, senão, deixe em branco]
 
-`<fatores situacionais>`
-[inclua aqui a lista dos fatores situacionais descobertos em etapa anterior]
-`</fatores situacionais>`
+`<temas contextuais>`
+[inclua aqui a lista dos temas contextuais descobertos em etapa anterior]
+`</temas contextuais>`
 
 # 1. Geração de Critérios:
 
 - Imagine como se você fosse o próprio segmento (utilizando a primeira pessoa do singular) realizando o {job step} (se informado) para concluir o {job to be done} levando em conta os fatores situacionais acima.
 
 - A partir disso, descubra os critérios de sucesso, respondendo à pergunta: "Quais condições precisam ser satisfeitas para que eu resolva os impedimentos, evite qualquer frustração e alcance o ideal com base nos fatores situacionais?". 
-
+- Justificar como isso se alinha com o Job Step (se informado, senão com o Job To Be Done) e com qual tema(s) contextual(is) em específico.
 - Exemplificar soluções: Para cada critério de sucesso, forneça exemplos de soluções (mentais, físicas, virtuais, processuais ou metodológicas) específicas e detalhadas que podem ser utilizadas para alcançar o critério.
 
 # 2. Priorização dos Critérios:

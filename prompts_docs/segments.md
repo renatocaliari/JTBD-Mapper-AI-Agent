@@ -8,7 +8,7 @@
 
 </Contexto>
 
-Identifique {{Ator em foco}} de cada tema contextual ao realizar o {{Job To Be Done}}.
+Identifique {{Ator em foco}} de cada tema contextual ao realizar o {{Job To Be Done}}. Cada tema deve ser associad com um segmento.
  
 Regras:
 - Para cada segmento, defina o mercado do segmento específico seguindo o modelo: "{grupo de pessoas} desejando {job to be done adaptado que inicie com o verbo no infinitivo} {contexto abrangente envolvido no grupo de pessoas}. Adapte o Job to be done e contexto, baseado no nome do grupo, para descrever de forma super compreensiva a relação do ator com o job e descrever o mercado com essa fórmula. Exemplos: 

@@ -2,14 +2,13 @@
 {{Job To Be Done}}: {informe o job to be done}
 {{Ator em foco}}: {informe o ator}
 
-`<fatores situacionais>`
-[inclua aqui a lista dos fatores situacionais descobertos em etapa anterior]
-`</fatores situacionais>`
-
+`<temas contextuais>`
+[inclua aqui a lista dos temas contextuais descobertos em etapa anterior]
+`</temas contextuais>`
 
 </Contexto>
 
-Identifique {{Ator em foco}} com necessidades *significativamente diferentes* ao realizar o {{Job To Be Done}} levando em conta os diversos fatores situacionais.
+Identifique {{Ator em foco}} de cada tema contextual com necessidades *significativamente diferentes* ao realizar o {{Job To Be Done}} levando em conta os diversos temas contextuais.
  
 Critérios para Priorização dos segmentos (quanto maior, melhor, exceto "Barreira de Entrada"):
 
@@ -29,7 +28,7 @@ Regras:
 - Os segmentos não devem ser baseados em dados demográficos, a menos que o job to be done indique isso ou seja um fator crítico. 
 - Para cada segmento, defina o mercado do segmento específico seguindo o modelo: "{grupo de pessoas} desejando {job to be done adaptado que inicie com o verbo no infinitivo} {contexto abrangente envolvido no grupo de pessoas}. Adapte o Job to be done e contexto, baseado no nome do grupo, para descrever de forma super compreensiva a relação do ator com o job e descrever o mercado com essa fórmula. Exemplos: 
     - se o job fosse "Gerenciar finanças em conjunto" e o nome do grupo fosse "Familiares com idosos", então o mercado poderia ser "[Pessoas] desejando [gerenciar finanças em conjunto] [com seu familiar idoso]".
-    - se o nome do grupo fosse "Pessoas que cuidam de familiares idosos" uma declaração de mercado ruim seria "Pessoas que cuidam de familiares idosos desejando gerenciar finanças conjuntamente" pois dois grupos de pessoas estão antes do verbo "desejando", que deveria estar separado um no início e no job to be done. . Uma declaração de mercado melhor seria "[Pessoas] desejando [gerenciar finanças conjuntamente] [com seu familiar idoso]".
+    - se o nome do grupo fosse "Pessoas que cuidam de familiares idosos" uma declaração de mercado ruim seria "Pessoas que cuidam de familiares idosos desejando gerenciar finanças conjuntamente" pois dois grupos de pessoas estão antes do verbo "desejando", que deveria estar separado um no início e no job to be done. Uma declaração de mercado melhor seria "[Pessoas] desejando [gerenciar finanças conjuntamente] [com seu familiar idoso]".
 - Para cada grupo, dê uma justificativa em com considera o grupo significantemente distinto dos outros listados e destaque até 3 desired outcomes + 3 restrições significativamente distintas em comparação aos outros grupos.
 - Dê um nome representativo a cada um e siga o modelo abaixo.
 Modelo com exemplos na hora de exibir os segmentos finais:

@@ -15,7 +15,7 @@ Job step: [foque no job step específico, se informado, senão, deixe em branco]
 - Imagine como se você fosse o próprio segmento (utilizando a primeira pessoa do singular) realizando o {job step} (se informado) para concluir o {job to be done} levando em conta os temas contextuais acima.
 
 - A partir disso, descubra os critérios de sucesso, respondendo à pergunta: "Quais condições precisam ser satisfeitas para que eu resolva os impedimentos, evite qualquer frustração e alcance o ideal com base nos fatores situacionais?". 
-- Justificar como isso se alinha com o Job Step (se informado, senão com o Job To Be Done) e com qual tema(s) contextual(is) em específico.
+- Justificar como isso se alinha com um (ou mais) tema(s) contextual(is) em específico e o Job Step específico (ou Job To Be Done caso o Job step não foi especificado).
 - Exemplificar soluções: Para cada critério de sucesso, forneça exemplos de soluções (mentais, físicas, virtuais, processuais ou metodológicas) específicas e detalhadas que podem ser utilizadas para alcançar o critério.
 
 # 2. Priorização dos Critérios:

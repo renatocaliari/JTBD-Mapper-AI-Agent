@@ -4,6 +4,7 @@ Objetivo: Descrever as etapas para realizar com sucesso um "Job To Be Done".
 Job To Be Done: [job to be done escolhido pelo usuário]
 Segmento: [segmento escolhido pelo usuário]
 Perspectiva: [ator escolhido pelo usuário]
+Temas: [temas dos fatores situacionais do segmento em específico]
 </Contexto>
 
 Glossário:
@@ -11,7 +12,7 @@ Estágio: Fase do processo para realizar o Job To Be Done.
 Etapa: Ação específica realizada dentro de cada estágio.
 
 Instruções:
-Imagine que você é o {{Perspectiva}}. Descreva as etapas para realizar o {{Job To Be Done}}, considerando o {{Segmento}}.
+Imagine que você é o {{Perspectiva}}. Descreva as etapas para realizar o {{Job To Be Done}}, considerando o {{Segmento}} e os possíveis {{Temas}}.
 
 Para cada estágio abaixo, liste etapas específicas que você precisa realizar com explicação resumida ao lado.
 <Estágios>

@@ -2,15 +2,15 @@
 {{Job To Be Done}}: {informe o job to be done}
 {{Ator em foco}}: {informe o ator}
 
-`<temas contextuais>`
-[inclua aqui a lista dos temas contextuais descobertos em etapa anterior]
-`</temas contextuais>`
+`<fatores situacionais>`
+[inclua aqui a lista dos fatores situacionais descobertos em etapa anterior]
+`</fatores situacionais>`
 
 </Contexto>
 
-Identifique {{Ator em foco}} de cada tema contextual com necessidades *significativamente diferentes* ao realizar o {{Job To Be Done}} levando em conta os diversos temas contextuais.
+Identifique {{Ator em foco}} com necessidades *significativamente diferentes* ao realizar o {{Job To Be Done}} levando em conta os diversos fatores situacionais.
  
-Critérios para Priorização dos segmentos (quanto maior, melhor, exceto "Barreira de Entrada"):
+Critérios para Priorização dos segmentos (quanto maior, melhor, exceto "Frequência" e "Barreira de Entrada"):
 
 | Critério | Descrição | Avaliação |
 |-------------------|--------------------------------------------------------------------------------|------------|

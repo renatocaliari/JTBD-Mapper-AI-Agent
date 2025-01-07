@@ -12,7 +12,7 @@ Job step: [foque no job step específico, se informado, senão, considere o job 
 # 1. Processo para geração de Critérios:
 
 - Imagine como se você fosse a própria pessoa (utilizando a primeira pessoa do singular) realizando o {job step} (se informado) para concluir o {job to be done} levando em conta os fatores situacionais e variáveis.
-- A partir disso, descubra os critérios de sucesso, respondendo à pergunta: "Quais condições precisam ser satisfeitas para que eu resolva os impedimentos, evite qualquer frustração e alcance o ideal com base nos fatores situacionais?". 
+- A partir disso, descubra os critérios de sucesso, respondendo à pergunta: "Quais condições precisam ser satisfeitas para que eu resolva os impedimentos, evite qualquer frustração e alcance o resultado ideal considerando os fatores situacionais e variáveis?". 
 - Justificar como cada critério se alinha com os fatores situacionaid e variáveis.
 - Exemplificar soluções: Para cada critério de sucesso, forneça exemplos de soluções (mentais, físicas, virtuais, processuais ou metodológicas) específicas e detalhadas que podem ser utilizadas para alcançar o critério.
 
@@ -38,8 +38,7 @@ Ordenar os critérios de sucesso com base nos seguintes fatores:
 - Evite mencionar solução ou método específico (ex: "escrever", "contas bancárias", "fotos", "online", "WhatsApp", "planilhas", etc.), exceto caso esteja especificado no próprio job to be done (e segmento) ou inerente a ele.
 - O resultado deve ser uma lista de critérios em bullet points.
   
-`<Formato de cada critério descoberto>`
+<Formato de cada critério descoberto>
 - {Critério de sucesso detalhado}: {dê uma breve explicação e diga com quais variáveis dos fatores situacionais o critério se relaciona}
-  - Soluções atuais: {exemplos de tipos soluções existentes e produtos específicos existentes para cada um}
-`</Formato de cada critério descoberto>`
-
+  - Soluções atuais: {exemplos de tipos soluções existentes e produtos específicos existentes para cada um} 
+</Formato de cada critério descoberto>

@@ -1,4 +1,4 @@
-{{Variável}} (ação, resultado ou solução): <informe aqui>
+{{Variável}} (ação, resultado ou solução): [caso o usuário já tenha escolhido um segmento, preencha com o mercado do segmento, senão preencha com o job to be done ou solução preenchida pelo usuário].
 
 Identifique "Jobs To Be Done" (JTBD) RELACIONADOS à {{Variável}}.
 

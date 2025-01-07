@@ -40,6 +40,6 @@ Ordenar os critérios de sucesso com base nos seguintes fatores:
   
 `<Formato de cada critério descoberto>`
 - {Critério de sucesso detalhado}: {Breve justificativa da prioridade do critério com base nos fatores}
-  - Soluções atuais: {exemplos de soluções atuais e produtos específicas existentes de cada solução}
+  - Soluções atuais: {exemplos de tipos soluções existentes e produtos específicos existentes para cada um}
 `</Formato de cada critério descoberto>`
 

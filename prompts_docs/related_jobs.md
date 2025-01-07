@@ -26,4 +26,4 @@ Exemplo:
 
 Resultado Esperado:
 - Informe se identificou {{Variável}} como [ação/resultado] ou [solução].
-- Liste todos os JTBD Relacionados finais, seguindo as REGRAS acima. .
+- Liste todos os JTBD Relacionados finais, seguindo as REGRAS acima.

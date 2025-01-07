@@ -13,28 +13,20 @@ Os segmentos devem ser mutuamente exclusivos, coletivamente exaustivos e não re
  Utilize os critérios abaixo para priorização dos segmentos (quanto mais alto, melhor, exceto "Frequência" e "Barreira de Entrada"): 
 
  | Critério | Descrição | Avaliação | 
-
  |-------------------|--------------------------------------------------------------------------------|------------| 
-
  | Impacto | Nível de impacto do contexto sobre o Job. | Baixo/Médio/Alto | 
-
  | Demanda | Volume de pessoas realizando o Job no contexto. | Baixo/Médio/Alto | 
-
  | Esforço | Nível de esforço ao realizar o Job no contexto. | Baixo/Médio/Alto | 
-
  | Poder de Compra | Capacidade financeira para adquirir soluções relacionadas ao Job. | Baixo/Médio/Alto | 
-
  | Facilidade de Alcance | Facilidade de encontrar/segmentar o grupo. | Baixo/Médio/Alto | 
-
  | Frequência | Frequência com que o Job é realizado no contexto. | Baixo/Médio/Alto | 
-
  | Barreira de Entrada | Restrições à entrada de novas empresas no mercado. | Baixo/Médio/Alto | 
-
 
 Processo:
 1. Liste 20 possíveis segmentos, mostrando de forma resumida apenas o nome, definição de mercado e justificativa, sem mais dados.
-2. Priorize os segmentos utilizando os critérios de priorização, filtre ou resuma em apenas 7, garantindo que sejam mutuamente exclusivos, coletivamente exaustivos e não redundantes.
-3. Exiba a lista final seguindo as regras abaixo.
+2. Filtre ou resuma em apenas 7, garantindo que sejam mutuamente exclusivos, coletivamente exaustivos e não redundantes.
+3. Priorize os segmentos utilizando os critérios de priorização. 
+4. Exiba a lista final seguindo as regras abaixo.
 
 
 Regras para cada segmento: 

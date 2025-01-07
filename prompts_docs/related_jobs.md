@@ -1,4 +1,4 @@
-{{Variável}} (ação, resultado ou solução): [caso o usuário já tenha escolhido um segmento, preencha com o mercado do segmento, senão preencha com o job to be done ou solução preenchida pelo usuário].
+{{Variável}} (ação, resultado ou solução): Casais Jovens desejando expressar seu estilo pessoal atravÃ©s do design do quarto.
 
 Identifique "Jobs To Be Done" (JTBD) RELACIONADOS a {{Variável}}.
 
@@ -7,27 +7,19 @@ Identifique "Jobs To Be Done" (JTBD) RELACIONADOS a {{Variável}}.
 
 REGRAS importantes:
 - Iniciar com um verbo no infinitivo se o resultado for em português brasileiro ou imperative verbs se for em inglês.
-- Ser funcional (ação ou resultado funcional esperado).
+- Ser funcional (ação ou resultado funcional esperado). Não deve ser um job emocional (como desejo me sentir ou evitar) ou social (como desejo ser percebido ou evitar).
 - NÃO usar adjetivos ou advérbios.
 - NÃO usar conjunções ("e", "ou", etc.).
 - NÃO se referir a soluções ou meios específicos que não existiam há 10.000 anos (ex: "escrever", "fotos", "online", "WhatsApp", etc.).
-- importante: Um JTBD Relacionado NÃO é uma etapa para o sucesso de {{Variável}} e nem um resultado desejado diretamente por {{Variável}}. Você deseja encontrar um Job to be done à parte que se relaciona ao contexto.
+- Importante: Descarte qualquer JTBD Relacionado que pode ser classificado como uma etapa para o sucesso da própria {{Variável}} ou  um resultado desejado para {{Variável}}. Você deseja encontrar um Job to be done à parte mas que se relaciona ao contexto.
+- Os JTBD devem ser independentes e não óbvios em relação a {{Variável}}.
 
-Exemplos:
-
-- Job Funcional: [escutar música]
-  - JTBD Relacionados:
-    - Aprender a letra da música.
-    - Encontrar novas bandas.
-    - Compartilhar descobertas musicais com amigos.
+Exemplo:
 - Job Funcional: [focar na execução de tarefas]
-  - JTBD Relacionados:
-    - Tomar bebida que energiza.
-    - Otimizar o ambiente de trabalho.
-    - Minimizar distrações externas.
-
+  - JTBD Relacionados:
+    - Tomar bebida que energiza.
+    - Otimizar o ambiente de trabalho.
 
 Resultado Esperado:
-
 - Informe se identificou {{Variável}} como [ação/resultado] ou [solução].
-- Liste 20 JTBD Relacionados, seguindo as REGRAS acima. Os JTBD devem ser independentes e não óbvios em relação a {{Variável}}.
+- Liste 20 JTBD Relacionados, seguindo as REGRAS acima. .

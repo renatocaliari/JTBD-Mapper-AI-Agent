@@ -1,4 +1,4 @@
-{{Variável}} (ação, resultado ou solução): Casais Jovens desejando expressar seu estilo pessoal atravÃ©s do design do quarto.
+{{Variável}} (ação, resultado ou solução): <informe aqui>
 
 Identifique "Jobs To Be Done" (JTBD) RELACIONADOS à {{Variável}}.
 

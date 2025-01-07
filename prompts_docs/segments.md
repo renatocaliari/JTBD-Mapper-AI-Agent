@@ -24,7 +24,7 @@ Os segmentos devem ser mutuamente exclusivos, coletivamente exaustivos e não re
 
 Processo:
 1. Liste 20 possíveis segmentos, mostrando de forma resumida apenas o nome, definição de mercado e justificativa, sem mais dados.
-2. Filtre ou resuma em apenas 7, garantindo que sejam mutuamente exclusivos, coletivamente exaustivos e não redundantes.
+2. Filtre ou agrupe em no máximo 10, garantindo que sejam mutuamente exclusivos, coletivamente exaustivos e não redundantes.
 3. Priorize os segmentos utilizando os critérios de priorização. 
 4. Exiba a lista final seguindo as regras abaixo.
 

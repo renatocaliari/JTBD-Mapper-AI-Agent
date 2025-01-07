@@ -38,8 +38,8 @@ Ordenar os critérios de sucesso com base nos seguintes fatores:
 - Evite mencionar solução ou método específico (ex: "escrever", "contas bancárias", "fotos", "online", "WhatsApp", "planilhas", etc.), exceto caso esteja especificado no próprio job to be done (e segmento) ou inerente a ele.
 - O resultado deve ser em bullet points.
   
-<Formato de cada critério descoberto>
+`<Formato de cada critério descoberto>`
 - {Critério de sucesso detalhado}: {Breve justificativa da prioridade do critério com base nos fatores}
   - Soluções atuais: {exemplos de categorias soluções atuais e soluções específicas existentes de cada categoria}
-</Formato de cada critério descoberto>
+`</Formato de cada critério descoberto>`
 

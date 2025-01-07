@@ -23,13 +23,10 @@ Documentar e Compartilhar: O que você precisa documentar e compartilhar após c
 Monitorar efeitos subsequentes: Quais efeitos você precisa monitorar após concluir o job?
 </Estágios>
 
-<Exemplo>
-Estágio: Definir e Planejar
-Etapas:
-- Definir objetivo: Esclarecer o que se deseja alcançar.
-- Listar recursos: Determinar os recursos materiais, humanos e financeiros necessários.
-- Criar cronograma: Definir prazos e marcos para cada fase do job.
-</Exemplo>
+<Formato>
+# {Estágio}
+ - {Job Step}: breve descrição
+</Formato>
 
 Observações:
 - Cada etapa deve ser uma ação específica do que a pessoa está tentando realizar de forma mais rápida, fácil e precisa.

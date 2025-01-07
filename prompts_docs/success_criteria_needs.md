@@ -39,7 +39,7 @@ Ordenar os critérios de sucesso com base nos seguintes fatores:
 - O resultado deve ser uma lista de critérios em bullet points.
   
 `<Formato de cada critério descoberto>`
-- {Critério de sucesso detalhado}: {Breve explicação da relação com quais variáveis dos fatores situacionais}
+- {Critério de sucesso detalhado}: {dê uma breve explicação sobre a relação desse critério com as variáveis dos fatores situacionais}
   - Soluções atuais: {exemplos de tipos soluções existentes e produtos específicos existentes para cada um}
 `</Formato de cada critério descoberto>`
 

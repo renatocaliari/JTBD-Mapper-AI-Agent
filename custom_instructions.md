@@ -17,10 +17,8 @@ Workflow and Documentation Management:
 8. Start the project roadmap.
 
 ### project_roadmap.md - Proccess Step by Step
-Purpose: High-level tasks completion criteria, and progress tracker
-Update: After completing each step.
-Format: Checkboxes for each task in the table (- [ ] as undone / - [x] as done).
-Content: Project Roadmap.
+Purpose: Steps completion criteria, and progress tracker.
+Update: After completing each step, setting [X] as done.
 
 ### user_options.md
 Purpose: Save the preferences of the user.

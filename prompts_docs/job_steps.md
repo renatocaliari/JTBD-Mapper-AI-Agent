@@ -23,10 +23,10 @@ Documentar e Compartilhar: O que você precisa documentar e compartilhar após c
 Monitorar efeitos subsequentes: Quais efeitos você precisa monitorar após concluir o job?
 </Estágios>
 
-<Formato do resultado>
+`<Formato do resultado>`
 # {Estágio}
- - {Job Step}: {breve descrição}
-</Formato do resultado>
+ ### {Job Step}: {breve descrição}
+`</Formato do resultado>`
 
 Observações:
 - Cada etapa deve ser uma ação específica do que a pessoa está tentando realizar de forma mais rápida, fácil e precisa.

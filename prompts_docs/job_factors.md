@@ -15,11 +15,12 @@ Descubra fatores situacionais que influenciam significantemente a realização d
     * Estratégias e Planejamento: Ações e estratégias adotadas para atingir o propósito.
 
 Regras:
-- Itere sobre cada categoria acima e explore o MÁXIMO de fatores situacionais com possibilidades concretas.
-- Os fatores devem ser mutuamente exclusivos, coletivamente EXAUSTIVOS e não redundantes.
-- Os fatores devem ser específicos e detalhados. Evite abstrações, adjetivos e advérbios.
-- Para cada fator explore o máximo de possibilidades possíveis.
-- Sua resposta deve seguir esse modelo substituindo o placeholder {}:
-# {Categoria}
-- {Fator situacional}:
-   - {bullet points de possibilidades}: {exemplos específicos}
+Itere sobre cada categoria acima e explore o MÁXIMO de fatores situacionais que impactam fortemente o resultado do Job.
+Se o Job é sobre alguém realizando algo para outro alguém, considere as perspectivas de ambas.
+Os fatores devem ser específicos e detalhados. Evite abstrações, adjetivos e advérbios.
+Os fatores devem ser mutuamente exclusivos, coletivamente EXAUSTIVOS e não redundantes.
+Para cada fator explore o MÁXIMO de variáveis possíveis que influenciam o resultado do Job.
+Sua resposta deve seguir esse modelo substituindo o placeholder {}:
+{Categoria}
+{Fator situacional}: {descrição}
+- {nome da variável}: {justificativa e exemplos específicos}

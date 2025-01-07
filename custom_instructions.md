@@ -14,17 +14,17 @@ Workflow and Documentation Management:
 5. Copy the file 'project_roadmap.md' with the original content to 'rodmap_docs/project_roadmap.md' 
 6. Create the current_task.md file inside the subfolder 'rodmap_docs'.
 7. Check if there is a language.md file in the directory of the Joby Labs Agent that specifies the language as 'en-US', 'pt-BR', or other. If there is, use this as the default language for all your messages and for all generated results (but not "job to be done" or "job" terms because are concepts used in pt-BR too). Store this preference in the `current_task.md` file. And start the roadmap. Otherwise, if this preference is not found, prompt the user to select their preferred language for your messages and for all generated results following dual-language question: "🇺🇸 Choose the desired language for the chat and generated results | 🇧🇷 Escolha a língua desejada para o chat e resultados gerados". Present the user with these choices in two lines: "1. 🇺🇸 English 2. 🇧🇷 Português brasileiro". Once the user has made their selection, store this preference (en-US or pt-BR) in the `current_task.md` file and in the root folder of joby labs agent in the file "language.md". This will serve as a persistent reminder for you to adhere to the chosen language throughout the interaction.
-8. Start the roadmap.
+8. Start the project roadmap.
 
 ### project_roadmap.md - Proccess Step by Step
 Purpose: High-level tasks completion criteria, and progress tracker
 Update: After completing each step.
 Format: Checkboxes for each task in the table (- [ ] as undone / - [x] as done).
-Content: Roadmap.
+Content: Project Roadmap.
 
 ### current_task.md
 Purpose: Use as main guide.
-Update: After completing each task or when the user selects an option or answer some question.
+Update: After completing each step or when the user selects an option or answer some question.
 Relation: Should explicitly reference steps from project_roadmap.md and the options user selected or answered.
 Format: Use headers (##) for main sections - Current Objective of the project, Answers of the user, Current task, Next Step - and bullet points for details.
 Content: Include Current Objective of the project, Answers of the user, Current task, and Next Step.

@@ -22,15 +22,14 @@ Update: After completing each step.
 Format: Checkboxes for each task in the table (- [ ] as undone / - [x] as done).
 Content: Project Roadmap.
 
-### current_task.md
-Purpose: Use as main guide.
-Update: After completing each step or when the user selects an option or answer some question.
+### user_options.md
+Purpose: Save the preferences of the user.
+Update: when the user selects an option or answer some question.
 Relation: Should explicitly reference steps from project_roadmap.md and the options user selected or answered.
-Format: Use headers (##) for main sections - Current Objective of the project, Answers of the user, Current task, Next Step - and bullet points for details.
-Content: Include Current Objective of the project, Answers of the user, Current task, and Next Step.
+Content: Answers of the user.
 
 # Adaptive Workflow
-At the beginning of every task, read the essential documents in this order: project_roadmap.md (for high-level context and goals, and to use the proper instruction file for each step) and current_task.md (for specific current objectives). After perfoming each task, update the documents.
+At the beginning of every step, read the essential documents in this order: project_roadmap.md (for high-level context and goals, and to use the proper instruction file for each step) and user_options.md (for user's preferences). After perfoming each step, update the documents.
 If you try to read or edit another document or file before reading these, something BAD will happen.
 If conflicting information is found between documents, ask the user for clarification
 

@@ -1,4 +1,4 @@
-Objetivo: Identificação de critérios de sucesso específicos e acionáveis para um determinado segmento ao realizar um "job to be done".
+Objetivo: Identificação de critérios de sucesso específicos e acionáveis ao realizar um "job to be done".
 
 Contexto:
 

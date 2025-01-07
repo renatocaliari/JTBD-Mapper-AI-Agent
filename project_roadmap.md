@@ -1,7 +1,9 @@
+Rules:
 - Always read the instruction file inside prompts_docs as your specific prompt to execute each task and generate the proper result in the project folder.
-- Use the table below as your roadmap
+- Use the table below as your roadmap.
 - Generate result files only when the relevant step is reached.
 
+Roadmap with all steps:
 | Done? | Step | Customm prompt: File to read | Result: File to generate | Sub-Tasks |
 |---|---|---|---|---|
 | [ ] | Discover Related Jobs | `prompts_docs/related_jobs.md` | `result_docs/related_jobs.md` | 1. List all possible functional jobs in the file.<br>2. Only if the job to be done is a solution or specific technology, list in the chat the titles of related jobs preceded by sequential numbers. Ask the user to choose one to proceed in the chat and store it in `current_task.md`. The answer is the "Main Functional Job To Be Done". Otherwise, if the job to be done is not a solution, store it in `current_task.md`. |

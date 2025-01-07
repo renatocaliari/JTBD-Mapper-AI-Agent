@@ -2,12 +2,12 @@ Objetivo: Identificação de critérios de sucesso específicos e acionáveis pa
 
 Contexto:
 
-Job to be done: [segmento, se escolhido pelo usuário, ou job to be done]
-Job step: [foque no job step específico, se informado, senão, deixe em branco]
+Job to be done: [inclua aqui o mercado do segmento, se escolhido pelo usuário, ou job to be done]
+Job step: [foque no job step específico, se informado, senão, considere o job to be done por inteiro]
 
-`<fatores e variáveis>`
+`<fatores situacionais e variáveis>`
 [inclua aqui a lista de fatores e variáveis descobertos em etapa anterior]
-`</fatores e variáveis>`
+`</fatores situacionais e variáveis>`
 
 # 1. Geração de Critérios:
 

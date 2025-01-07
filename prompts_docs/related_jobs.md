@@ -3,16 +3,15 @@
 Identifique "Jobs To Be Done" (JTBD) RELACIONADOS a {{Variável}}.
 
 - Se {{Variável}} for uma AÇÃO (verbo) ou RESULTADO (algo a alcançar): Identifique JTBD que as pessoas podem realizar AO MESMO TEMPO, no MESMO CONTEXTO, mas que são INDEPENDENTES de {{Variável}}. Esses JTBD NÃO contribuem diretamente para o sucesso de {{Variável}}. Eles representam necessidades adicionais que o usuário pode ter. Pense em necessidades que podem surgir na MESMA SITUAÇÃO, mas que são distintas do objetivo principal de {{Variável}}. Busque JTBD que sejam inesperados ou não óbvios.
-
 - Se {{Variável}} for uma SOLUÇÃO (plataforma, tecnologia): Descubra o que uma pessoa deseja realizar AO UTILIZAR essa solução.
 
-REGRAS para os JTBD:
-
+REGRAS importantes:
 - Iniciar com um verbo no infinitivo se o resultado for em português brasileiro ou imperative verbs se for em inglês.
 - Ser funcional (ação ou resultado funcional esperado).
 - NÃO usar adjetivos ou advérbios.
 - NÃO usar conjunções ("e", "ou", etc.).
 - NÃO se referir a soluções ou meios específicos que não existiam há 10.000 anos (ex: "escrever", "fotos", "online", "WhatsApp", etc.).
+- importante: Um JTBD Relacionado NÃO é uma etapa para o sucesso de {{Variável}} e nem um resultado desejado diretamente por {{Variável}}. Você deseja encontrar um Job to be done à parte que se relaciona ao contexto.
 
 Exemplos:
 
@@ -27,7 +26,6 @@ Exemplos:
     - Otimizar o ambiente de trabalho.
     - Minimizar distrações externas.
 
-Diferença importante: Um JTBD Relacionado NÃO é uma etapa para o sucesso de {{Variável}} e nem um resultado desejado diretamente por {{Variável}}.
 
 Resultado Esperado:
 

@@ -18,7 +18,7 @@ Workflow and Documentation Management:
 
 ### project_roadmap.md - Proccess Step by Step
 Purpose: Steps completion criteria, and progress tracker.
-Update: After completing each step, setting [X] as done.
+Update: After completing each step inside the original content, setting as done [X].
 
 ### user_options.md
 Purpose: Save the preferences of the user.

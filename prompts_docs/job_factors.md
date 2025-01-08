@@ -1,26 +1,26 @@
-{{Job To Be Done}}: {informe aqui}
+{{Job To Be Done}}: {fill in here}
 
-Descubra fatores situacionais que influenciam significantemente a realização do Job acima.
+Discover situational factors that significantly influence the performance of the above Job.
 
-* Onde (Ambiente Físico): Características tangíveis e imediatas do espaço (localização, condições ambientais, recursos disponíveis). 
-* Com Quem & Cultura local (Ambiente Social): Presença e influência de outras pessoas e da cultura no momento (presença/ausência, tipo de interação, normas sociais imediatas). 
-* Quando (Tempo): Dimensão temporal da situação (momento específico, período de tempo, ritmos cíclicos).
-* Por Quê (Propósito Maior): A razão fundamental por trás da execução do job, o objetivo final. 
-* Como (Estado Interno com Experiência Integrada): 
-    * Histórico Pessoal: Valores, crenças, experiências passadas e hábitos arraigados.
-    * Percepção da Situação: Avaliação da situação.
-    * Estado Emocional: Emoções e sentimentos presentes.
-    * Estado Fisiológico e Cognitivo: Condições físicas e cognitiva.
-    * Experiência: Conhecimentos, habilidades e experiências diretamente relacionadas ao Job em questão.
-    * Estratégias e Planejamento: Ações e estratégias adotadas para atingir o propósito.
+* Where (Physical Environment): Tangible and immediate characteristics of the space (location, environmental conditions, available resources).
+* With Whom & Local Culture (Social Environment): Presence and influence of other people and culture at the time (presence/absence, type of interaction, immediate social norms).
+* When (Time): Temporal dimension of the situation (specific moment, period of time, cyclical rhythms).
+* Why (Greater Purpose): The fundamental reason behind the execution of the job, the ultimate goal.
+* How (Internal State with Integrated Experience):
+    * Personal History: Values, beliefs, past experiences and ingrained habits.
+    * Perception of the Situation: Assessment of the situation.
+    * Emotional State: Emotions and feelings present.
+    * Physiological and Cognitive State: Physical and cognitive conditions.
+    * Experience: Knowledge, skills and experiences directly related to the Job in question.
+    * Strategies and Planning: Actions and strategies adopted to achieve the purpose.
 
-Regras:
-Itere sobre cada categoria acima e explore o MÁXIMO de fatores situacionais que impactam fortemente o resultado do Job.
-Se o Job é sobre alguém realizando algo para outro alguém, considere as perspectivas de ambas.
-Os fatores devem ser específicos e detalhados. Evite abstrações, adjetivos e advérbios.
-Os fatores devem ser mutuamente exclusivos, coletivamente EXAUSTIVOS e não redundantes.
-Para cada fator explore o MÁXIMO de variáveis possíveis que influenciam o resultado do Job.
-Sua resposta deve seguir esse modelo substituindo o placeholder {}:
-{Categoria}
-{Fator situacional}: {descrição}
-- {nome da variável}: {justificativa e exemplos específicos}
+Rules:
+Iterate over each category above and explore the MAXIMUM number of situational factors that strongly impact the outcome of the Job.
+If the Job is about someone performing something for someone else, consider the perspectives of both.
+Factors must be specific and detailed. Avoid abstractions, adjectives and adverbs.
+Factors must be mutually exclusive, collectively EXHAUSTIVE and non-redundant.
+For each factor explore the MAXIMUM possible variables that influence the outcome of the Job.
+Your answer should follow this model replacing the placeholder {}:
+{Category}
+{Situational factor}: {description}
+- {variable name}: {justification and specific examples}

@@ -27,7 +27,7 @@ Relation: Should explicitly reference steps from project_roadmap.md and the opti
 Content: Answers of the user.
 
 # Adaptive Workflow
-At the beginning of every step, read the essential documents in this order: project_roadmap.md (for high-level context and goals, and to use the proper instruction file for each step) and user_options.md (for user's preferences). After perfoming each step, update the documents.
+At the beginning of every step, read the essential documents in this order: project_roadmap.md (for high-level context and goals, and to use the proper instruction file for each step) and user_options.md (for user's preferences). After performing each step, update the documents.
 If you try to read or edit another document or file before reading these, something BAD will happen.
 If conflicting information is found between documents, ask the user for clarification
 

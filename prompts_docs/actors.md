@@ -1,42 +1,39 @@
-{{Job To Be Done}}: [caso o segmento já tenha sido escolhido pelo usuário, preencha com a definição de mercado do segmento, senão preencha com o Job To Be Done inicial]
+{{Job To Be Done}}: [if the segment has already been chosen by the user, fill in with the market definition of the segment, otherwise fill in with the initial Job To Be Done]
 
-Descubra os atores envolvidos no {{Job To Be Done}} em cada papel abaixo:
+Discover the actors involved in the {{Job To Be Done}} in each role below:
 
-- "Favorecido": grupo de pessoas que é favorecido diretamente pelo Job To Be Done. Esta é o grupo que "contrata" um produto ou serviço para realizar o Job para si, mas não necessariamente o realiza. Deve estar no plural. Seja o mais específico possível mas não assuma um grupo restrito que possa excluir outros grupos possíveis. 
-- "Realizador": grupo de pessoas que realiza, ajuda ou possibilita o favorecido principal a realizar o Job. Deve estar no plural. 
-- "Favorecido indireto": grupo de pessoas que é favorecida indiretamente pelo job além do realizador e do favorecido direto ou que poderia ser favorecida pelo mesmo resultado do job do próprio favorecido. Indique os 3 principais favorecidos indiretos, diferentes do favorecido direto.
-- "Ameaçados": grupo de pessoas, seres vivos ou sistemas podem acabar sofrendo consequências negativas quando este job é realizado. Considere diferentes contextos e circunstâncias. Dê uma explicação rápida sobre os motivos. Dê os 3 principais.
-- "Assistente": grupo de pessoas que auxilia o realizador no momento da execução do Job. Por exemplo: na cirurgia, a enfermeira auxilia o médico que faz a cirurgia. Dê os 3 principais.
-- "Decisor da realização": grupo de pessoas que decide e permite a realização do job. Dê os 3 principais.
-- "Decisor da compra": grupo de pessoas que decide sobre a forma de pagamento e contratação de uma solução para realizar o job. Dê os 3 principais.
-- "Comprador": grupo de pessoas que realiza a compra da solução para realizar o job no contexto específico/individual. Dê os 3 principais.
-- "Supervisor": quem supervisiona e é responsável pelo resultado final do job. Dê mais de um.
-- "Influenciador": quem costuma influenciar para alguém realizar o job ou para alguém escolher uma solução para realizar o job. Dê os 3 principais.
-- "Especialista": grupo de pessoas que possui conhecimento profundo sobre a realizaçÃo do job, sem necessariamente executá-lo diretamente. Dê os 3 principais.
+- "Beneficiary": group of people who directly benefit from the Job To Be Done. This is the group that "hires" a product or service to perform the Job for them, but doesn't necessarily perform it themselves. Must be plural. Be as specific as possible but don't assume a restricted group that could exclude other possible groups.
+- "Doer": group of people who perform, help, or enable the main beneficiary to perform the Job. Must be plural.
+- "Indirect Beneficiary": group of people who indirectly benefit from the job in addition to the doer and the direct beneficiary, or who could benefit from the same result of the job as the beneficiary themselves. Indicate the 3 main indirect beneficiaries, different from the direct beneficiary.
+- "Threatened": group of people, living beings, or systems that may end up suffering negative consequences when this job is done. Consider different contexts and circumstances. Give a quick explanation of the reasons. Give the top 3.
+- "Assistant": group of people who assist the doer at the time of executing the Job. For example: in surgery, the nurse assists the doctor who performs the surgery. Give the top 3.
+- "Decision Maker": group of people who decide and allow the job to be done. Give the top 3.
+- "Purchaser": group of people who decide on the form of payment and contracting of a solution to carry out the job. Give the top 3.
+- "Buyer": group of people who make the purchase of the solution to carry out the job in the specific/individual context. Give the top 3.
+- "Supervisor": who supervises and is responsible for the final result of the job. Give more than one.
+- "Influencer": who usually influences someone to perform the job or to choose a solution to perform the job. Give the top 3.
+- "Expert": group of people who have deep knowledge about the performance of the job, without necessarily executing it directly. Give the top 3.
 
-Exemplos:
- - Para entender a diferenciação de realizador e favorecido: no caso de um job to be done "chegar a um destino a tempo", o favorecido é o passageiro e o realizador é o motorista; no caso do Job "Cuidadores desejando gerenciar finanças conjuntamente com uma pessoa sob seu cuidado", o realizador é "Cuidadores" e o favorecido é "Pessoa sob cuidado".
+Examples:
+- To understand the differentiation between doer and beneficiary: in the case of a job to be done "arrive at a destination on time", the beneficiary is the passenger and the doer is the driver; in the case of the Job "Caregivers wanting to jointly manage finances with a person under their care", the doer is "Caregivers" and the beneficiary is "Person under care".
 
-Regras:
+Rules:
 
-- Se "{{Job To Be Done}}" descrever o ator do Job To Be Done, descubra se é o favorecido ou o realizador e use o mesmo ator para o papel relacionado. 
-- Os nomes dos favorecidos e realizadores devem ser específicos com relação ao Job To Be Done, porém abrangentes o suficiente para representar todos possíveis grupos que se favorecem ou realizam op Job (Favorecido ou Realizador). 
-   - Se, por exemplo, o Job To Be Done fosse "acessar informações escritas", um nome de ator ruim que quebraria as regras seria "Bibliotecários" porque seria um grupo específico, excluindo outros possíveis. Um bom nome seria "Leitores" pois abrangeria vários grupos e tem relação direta com o job to be done. Se não descobrir um nome para o ator, use "Pessoas".
-  - se o job fosse "Gerenciar finanças em conjunto" e o nome do ator/grupo fosse "Familiares com idosos", então o mercado poderia ser "[Familiares] desejando [gerenciar finanças em conjunto] [com seu familiar idoso]".
-- O nome do ator deve ser simples o suficiente e funcionar dentro da definição de mercado: "{nome do ator} desejando {job to be done adaptado que inicie com o verbo no infinitivo} {contexto abrangente relacionado ao ator e job}. Avalie os nomes usando essa fórmula. Adapte o Job to be done e contexto, baseado no nome do ator, para descrever de forma super compreensiva a relação do ator com o job, sem qualquer redundância.
-   - Adapte a declaração do job to be done para o papel específico na definição de mercado. Por exemplo, se o job fosse "otimizar o fluxo do usuário" e o Favorecidos fosse "Usuários", então a declaração do job do ator deveria ser adaptada para se adequar a ele, como "Usuários desejando realizar um fluxo de forma otimizada".
-- O nome do ator não deve conter informações redundantes que já estejam descritos no job to be done ou contexto.
-   - se o job to be done fosse "gerenciar finanças conjuntamente", um grupo ruim que deveria evitar seria "Pessoas em conjunto" pois ao definir mercado ficaria "Pessoas em conjunto desejando gerenciar finanças conjuntamente" e ficaria redundante o conjunto/conjuntamente.
-- Evite mencionar soluções, métodos específicos ou tecnologias, a menos que mencionado no {{Job to be done}}.
-- Não mencione ou se refira aos nomes dos papéis, ex: Realizadores ou Favorecidos.
-- Evite mencionar/usar pronomes possessivos na declaração de mercad e job Job do Favorecido ou Realizador.
+- If "{{Job To Be Done}}" describes the actor of the Job To Be Done, find out if it is the beneficiary or the doer and use the same actor for the related role.
+- The names of beneficiaries and doers should be specific in relation to the Job To Be Done, but comprehensive enough to represent all possible groups that benefit from or perform the Job (Beneficiary or Doer).
+- For example, if the Job To Be Done was "access written information", a bad actor name that would break the rules would be "Librarians" because it would be a specific group, excluding other possible ones. A good name would be "Readers" as it would cover several groups and is directly related to the job to be done. If you don't find a name for the actor, use "People".
+- if the job was "Manage finances together" and the name of the actor/group was "Family members with elderly people", then the market could be "[Family members] wanting to [manage finances together] [with their elderly family member]".
+- The actor's name should be simple enough and work within the market definition: "{actor name} wanting to {job to be done adapted to start with the verb in the infinitive} {comprehensive context related to the actor and job}. Evaluate the names using this formula. Adapt the Job to be done and context, based on the actor's name, to describe in a super comprehensive way the actor's relationship with the job, without any redundancy.
+- Adapt the job to be done statement to the specific role in the market definition. For example, if the job was "optimize the user flow" and the Beneficiary was "Users", then the actor's job statement should be adapted to suit them, such as "Users wanting to perform a flow in an optimized way".
+- The actor's name should not contain redundant information that is already described in the job to be done or context.
+- if the job to be done was "manage finances together", a bad group that should be avoided would be "People together" because when defining the market it would be "People together wanting to manage finances together" and it would be redundant together/jointly.
+- Avoid mentioning specific solutions, methods or technologies, unless mentioned in the {{Job To Be Done}}.
+- Do not mention or refer to the names of the roles, e.g. Doers or Beneficiaries.
+- Avoid mentioning/using possessive pronouns in the market statement and job statement of the Beneficiary or Doer.
 
-Mostre o resultado em formato Markdown. Não dê nenhuma introdução.
+Show the result in Markdown format. Don't give any introduction.
 
-Siga este formato, substituindo os placeholders [] e {}:
-
-## {Papel}
-
-### {um emoji respeitoso que represente o ator} {nome do ator no plural}
-
-    - {definição de mercado do ator: [nome do ator] + " desejando " + [job to be done: inicie por verbo no infinitivo]}
+Follow this format, replacing the placeholders [] and {}:
+## {Role}
+### {a respectful emoji that represents the actor} {actor name in plural}
+- {market definition of the actor: [actor name] + " wanting to " + [job to be done: start with verb in the infinitive]}

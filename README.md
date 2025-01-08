@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/b28741c6-5bc5-4bd1-a53a-9364a0acdf3d)
 [Buy me a coffee ☕](https://buymeacoffee.com/calirenato82)
 
-![image](https://simpleicons.org/icons/linkedin.svg) [Connect on LinkedIn](https://www.linkedin.com/in/calirenato82)
+![image]([https://simpleicons.org/icons/linkedin.svg](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)) [Connect on LinkedIn](https://www.linkedin.com/in/calirenato82)
 
 
 # JTBD Mapper AI Agent 🤖 Free & Open-Source

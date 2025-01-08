@@ -93,11 +93,9 @@ Error content:
 [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-thinking-exp-1219:streamGenerateContent?alt=sse: [429 Too Many Requests] Resource has been exhausted (e.g. check quota)."
 ```
 
-
-# 🇧🇷 Jobs To Be Done & Prompts 
-- Para mais informações sobre Jobs To Be Done, consulte o [e-book gratuito Estratégia e Inovação baseadas em Jobs To Be Done](https://calirenato82.substack.com/p/e-book-jobs-to-be-done-em-portugues).
-- Para encontrar mais prompts de I.A., [clique aqui](https://calirenato82.substack.com/i/141662256/prompts-ia-para-problem-space).
-
+# Jobs To Be Done & Prompts 
+- 🇺🇸 For more information on Jobs To Be Done, check out the free e-book "Estratégia e Inovação baseadas em Jobs To Be Done" (Jobs To Be Done: Strategy and Innovation)  (in Brazilian Portuguese, but you can translate it with Google Translate).
+- 🇧🇷 Para mais informações sobre Jobs To Be Done, consulte o [e-book gratuito Estratégia e Inovação baseadas em Jobs To Be Done](https://calirenato82.substack.com/p/e-book-jobs-to-be-done-em-portugues).
 
 # Images
 

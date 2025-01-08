@@ -3,7 +3,7 @@
 [Buy me a coffee ☕](https://buymeacoffee.com/calirenato82)
 
 ## Connect on LinkedIn
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="30">
 [Connect on LinkedIn](https://www.linkedin.com/in/calirenato82)
 
 

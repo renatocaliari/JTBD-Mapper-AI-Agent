@@ -1,29 +1,29 @@
-{{Variável}} (ação, resultado ou solução): [caso o usuário já tenha escolhido um segmento, preencha com o mercado do segmento, senão preencha com o job to be done ou solução preenchida pelo usuário].
+{{Variable}} (action, outcome, or solution): [if the user has already chosen a segment, fill in with the market of the segment, otherwise fill in with the job to be done or solution filled in by the user].
 
-Identifique "Jobs To Be Done" (JTBD) RELACIONADOS à {{Variável}}.
+Identify "Jobs To Be Done" (JTBD) RELATED to {{Variable}}.
 
-- Se {{Variável}} for uma AÇÃO (verbo) ou RESULTADO (algo a alcançar): Identifique JTBD que as pessoas podem realizar AO MESMO TEMPO, no MESMO CONTEXTO, mas que são INDEPENDENTES de {{Variável}}. Esses JTBD NÃO contribuem diretamente para o sucesso de {{Variável}}. Eles representam necessidades adicionais que o usuário pode ter. Pense em necessidades que podem surgir na MESMA SITUAÇÃO, mas que são distintas do objetivo principal de {{Variável}}. Busque JTBD que sejam inesperados ou não óbvios.
-- Se {{Variável}} for uma SOLUÇÃO (plataforma, tecnologia): Descubra o que uma pessoa deseja realizar AO UTILIZAR essa solução.
+- If {{Variable}} is an ACTION (verb) or OUTCOME (something to achieve): Identify JTBDs that people can perform AT THE SAME TIME, in the SAME CONTEXT, but that are INDEPENDENT of {{Variable}}. These JTBDs DO NOT contribute directly to the success of {{Variable}}. They represent additional needs that the user may have. Think about needs that may arise in the SAME SITUATION, but that are distinct from the main objective of {{Variable}}. Look for JTBDs that are unexpected or not obvious.
+- If {{Variable}} is a SOLUTION (platform, technology): Discover what a person wants to achieve WHEN USING this solution.
 
-REGRAS importantes:
-1. Iniciar com um verbo no infinitivo se o resultado for em português brasileiro ou imperative verbs se for em inglês.
-2. Ser funcional (ação ou resultado funcional esperado). Não deve ser um job emocional (como desejo me sentir ou evitar) ou social (como desejo ser percebido ou evitar).
-3. NÃO usar adjetivos ou advérbios.
-4. NÃO usar conjunções ("e", "ou", etc.).
-5. NÃO se referir a soluções ou meios específicos que não existiam há 10.000 anos (ex: "escrever", "fotos", "online", "WhatsApp", etc.).
-6. Importante: Descarte qualquer JTBD Relacionado que pode ser classificado como uma etapa para o sucesso da própria {{Variável}} ou  um resultado desejado para {{Variável}}. Você deseja encontrar um Job to be done à parte mas que se relaciona ao contexto.
-7. Os JTBD relacionados devem ser independentes e não óbvios em relação à {{Variável}}.
+Important RULES:
+1. Start with an infinitive verb if the result is in Brazilian Portuguese or imperative verbs if it is in English.
+2. Be functional (functional action or expected outcome). It should not be an emotional job (like wanting to feel or avoid) or social (like wanting to be perceived or avoid).
+3. DO NOT use adjectives or adverbs.
+4. DO NOT use conjunctions ("and", "or", etc.).
+5. DO NOT refer to specific solutions or means that did not exist 10,000 years ago (e.g. "write", "photos", "online", "WhatsApp", etc.).
+6. Important: Discard any Related JTBD that can be classified as a step towards the success of {{Variable}} itself or a desired outcome for {{Variable}}. You want to find a separate Job to be Done that relates to the context.
+7. Related JTBDs must be independent and non-obvious in relation to {{Variable}}.
 
-Processo a seguir:
-- Descubra 20 Jobs Relacionados.
-- Reavalie os Jobs de acordo com as regras, especialmente a 6 e 7, e descarte qualquer JTBD que quebre as regras.
+Process to follow:
+- Discover 20 Related Jobs.
+- Re-evaluate the Jobs according to the rules, especially 6 and 7, and discard any JTBD that breaks the rules.
 
-Exemplo:
-- Job Funcional: [focar na execução de tarefas]
-  - JTBD Relacionados:
-    - Tomar bebida que energiza.
-    - Otimizar o ambiente de trabalho.
+Example:
+- Functional Job: [focus on executing tasks]
+    - Related JTBDs:
+        - Drink energizing beverage.
+        - Optimize workspace.
 
-Resultado Esperado:
-- Informe se identificou {{Variável}} como [ação/resultado] ou [solução].
-- Liste todos os JTBD Relacionados finais, seguindo as REGRAS acima.
+Expected Result:
+- Inform whether you identified {{Variable}} as [action/outcome] or [solution].
+- List all final Related JTBDs, following the RULES above.

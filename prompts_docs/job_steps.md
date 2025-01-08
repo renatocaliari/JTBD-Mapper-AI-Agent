@@ -1,38 +1,38 @@
-Objetivo: Descrever as etapas para realizar com sucesso um "Job To Be Done".
+Goal: Describe the steps to successfully perform a "Job To Be Done".
 
-<Contexto>
-Job To Be Done: [job to be done escolhido pelo usuário]
-Segmento: [segmento escolhido pelo usuário; se nenhum escolhido, considerar todos descobertos]
-Perspectiva: [ator escolhido pelo usuário]
-</Contexto>
+<Context>
+Job To Be Done: [job to be done chosen by the user]
+Segment: [segment chosen by the user; if none chosen, consider all discovered]
+Perspective: [actor chosen by the user]
+</Context>
 
-Glossário:
-Estágio: Fase do processo para realizar o Job To Be Done.
-Etapa: Ação específica realizada dentro de cada estágio.
+Glossary:
+Stage: Phase of the process to perform the Job To Be Done.
+Step: Specific action performed within each stage.
 
-Instruções:
-Imagine que você é o {{Perspectiva}}. Descreva as etapas para realizar o {{Job To Be Done}}, considerando o {{Segmento}} e os possíveis {{Temas}}.
+Instructions:
+Imagine you are the {{Perspective}}. Describe the steps to perform the {{Job To Be Done}}, considering the {{Segment}} and the possible {{Themes}}.
 
-Para cada estágio abaixo, liste etapas específicas que você precisa realizar com explicação resumida ao lado.
-<Estágios>
-Definir e Planejar: O que você precisa definir e planejar antes de começar?
-Preparar e Executar: Como você se prepara para o job? O que você precisa fazer para realizar o objetivo principal do job? O que você pode documentar durante o processo?
-Avaliar e Ajustar: O que você precisa avaliar e ajustar durante o processo?
-Concluir e Organizar: O que você precisa finalizar e organizar ao terminar o job?
-Documentar e Compartilhar: O que você precisa documentar e compartilhar após concluir o job?
-Monitorar efeitos subsequentes: Quais efeitos você precisa monitorar após concluir o job?
-</Estágios>
+For each stage below, list specific steps you need to take with a brief explanation next to it.
+<Stages>
+Define and Plan: What do you need to define and plan before you start?
+Prepare and Execute: How do you prepare for the job? What do you need to do to achieve the main objective of the job? What can you document during the process?
+Evaluate and Adjust: What do you need to evaluate and adjust during the process?
+Conclude and Organize: What do you need to finalize and organize when finishing the job?
+Document and Share: What do you need to document and share after completing the job?
+Monitor subsequent effects: What effects do you need to monitor after completing the job?
+</Stages>
 
-`<Formato do resultado>`
-# {Estágio}
- ### {Job Step}: {breve descrição}
-`</Formato do resultado>`
+`<Result format>`
+# {Stage}
+### {Job Step}: {brief description}
+`</Result format>`
 
-Observações:
-- Cada etapa deve ser uma ação específica do que a pessoa está tentando realizar de forma mais rápida, fácil e precisa.
-- Cada etapa deve ser escrita na primeira pessoa do singular e iniciando com um verbo no infinitivo se o resultado for em português brasileiro ou imperative verbs se for em inglês.
-- Ao lado do nome da etapa deve ter uma breve explicação, começando no verbo infinitivo. 
-- Evite etapas genéricas e vagas, como o próprio nome do estágio. 
-- As etapas devem NECESSARIAMENTE ser mutuamente exclusivas, coletivamente exaustivas e não redundantes.
-- Não use conjunções "E" ou "OU" para combinar etapas.
-- Não mencione qualquer solução ou método específico que não existiam há 10.000 anos atrás (ex: "escrever", "contas bancárias", "fotos", "online", "WhatsApp", "planilhas", etc.). exceto caso esteja especificado no job to be done.
+Rules:
+- Each step should be a specific action of what the person is trying to accomplish in a faster, easier and more accurate way.
+- Each step should be written in the first person singular and start with an infinitive verb if the result is in Brazilian Portuguese or imperative verbs if it is in English.
+- Next to the step name there should be a brief explanation, starting with the infinitive verb.
+- Avoid generic and vague steps, such as the name of the stage itself.
+- The steps MUST NECESSARILY be mutually exclusive, collectively exhaustive and non-redundant.
+- Do not use conjunctions "AND" or "OR" to combine steps.
+- Do not mention any specific solution or method that did not exist 10,000 years ago (e.g. "write", "bank accounts", "photos", "online", "WhatsApp", "spreadsheets", etc.) except if it is specified in the job to be done.

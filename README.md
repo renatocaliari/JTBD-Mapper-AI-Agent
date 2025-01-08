@@ -8,7 +8,7 @@
 # JTBD Mapper AI Agent 🤖 Free & Open-Source
 _*Remember to periodically check for a new version_
 
-<mark style="background: yellow; padding: 4px;">Important: You **don't** need to know how to program.</mark>
+<mark style="background: yellow; padding: 10px;">Important: Even though we use Visual Studio Code, a popular IDE among developers, you won't need to write a single line of code. All interactions will be through a chat interface with the Cline extension.</mark>
 
 The "JTBD Mapper AI Agent" is designed to provide a comprehensive JTBD mapping, covering the key aspects, but it's not meant to be the definitive end of the analysis. Think of it as a research partner that helps you quickly map out the landscape.
 

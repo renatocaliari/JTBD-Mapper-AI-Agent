@@ -1,6 +1,25 @@
-| **Support this project** | **Connect with me** |
-|---|---|
-| ![image](https://github.com/user-attachments/assets/b28741c6-5bc5-4bd1-a53a-9364a0acdf3d) [Buy me a coffee ☕](https://buymeacoffee.com/yourusername) | <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="30"> [LinkedIn](https://www.linkedin.com/in/yourusername) |
+<table>
+  <tr>
+    <th style="text-align:center"><strong>Support this project</strong></th>
+    <th style="text-align:center"><strong>Connect with me</strong></th>
+  </tr>
+  <tr>
+    <td style="text-align:center; vertical-align:middle;">
+      <a href="https://buymeacoffee.com/yourusername">
+        <img src="https://github.com/user-attachments/assets/b28741c6-5bc5-4bd1-a53a-9364a0acdf3d" alt="Buy me a coffee" width="26">
+        <br>
+        Buy me a coffee ☕
+      </a>
+    </td>
+    <td style="text-align:center; vertical-align:middle;">
+      <a href="https://www.linkedin.com/in/yourusername">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="38">
+        <br>
+        LinkedIn
+      </a>
+    </td>
+  </tr>
+</table>
 
 # JTBD Mapper AI Agent 🤖 Free & Open-Source
 _*Remember to periodically check for a new version_

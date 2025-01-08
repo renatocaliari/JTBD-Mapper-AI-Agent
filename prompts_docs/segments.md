@@ -1,9 +1,9 @@
 Goal: Identification of contextual segments.
 Job to be done: [job to be done chosen by the user]
 
-<factors and variables>
+`<factors and variables>`
 {list here}
-</factors and variables>
+`</factors and variables>`
 
 Define SIGNIFICANTLY different segments, interconnecting diverse and specific situational factors and variables, which most impact the outcome of the Job to be done.
 

@@ -94,7 +94,7 @@ Error content:
 ```
 
 # Jobs To Be Done & Prompts 
-- 🇺🇸 For more information on Jobs To Be Done, check out the free e-book "Estratégia e Inovação baseadas em Jobs To Be Done" (Jobs To Be Done: Strategy and Innovation)  (in Brazilian Portuguese, but you can translate it with Google Translate).
+- 🇺🇸 For more information on Jobs To Be Done, check out the [free e-book "Estratégia e Inovação baseadas em Jobs To Be Done" (Jobs To Be Done: Strategy and Innovation)](https://calirenato82.substack.com/p/e-book-jobs-to-be-done-em-portugues) (in Brazilian Portuguese, but you can translate it with Google Translate).
 - 🇧🇷 Para mais informações sobre Jobs To Be Done, consulte o [e-book gratuito Estratégia e Inovação baseadas em Jobs To Be Done](https://calirenato82.substack.com/p/e-book-jobs-to-be-done-em-portugues).
 
 # Images

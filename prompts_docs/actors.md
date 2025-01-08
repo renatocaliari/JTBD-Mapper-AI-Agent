@@ -15,7 +15,7 @@ Discover the actors involved in the {{Job To Be Done}} in each role below:
 - "Expert": group of people who have deep knowledge about the performance of the job, without necessarily executing it directly. Give the top 3.
 
 Examples:
-- To understand the differentiation between doer and beneficiary: in the case of a job to be done "arrive at a destination on time", the beneficiary is the passenger and the doer is the driver; in the case of the Job "Caregivers wanting to jointly manage finances with a person under their care", the doer is "Caregivers" and the beneficiary is "Person under care".
+- To understand the differentiation between doer and beneficiary: in the case of a job to be done "arrive at a destination on time", the beneficiary is the passenger and the doer is the driver; in the case of the Job "Caregivers wanting to manage finances together with a person under their care", the doer is "Caregivers" and the beneficiary is "Person under care".
 
 Rules:
 
@@ -26,7 +26,7 @@ Rules:
 - The actor's name should be simple enough and work within the market definition: "{actor name} wanting to {job to be done adapted to start with the verb in the infinitive} {comprehensive context related to the actor and job}. Evaluate the names using this formula. Adapt the Job to be done and context, based on the actor's name, to describe in a super comprehensive way the actor's relationship with the job, without any redundancy.
 - Adapt the job to be done statement to the specific role in the market definition. For example, if the job was "optimize the user flow" and the Beneficiary was "Users", then the actor's job statement should be adapted to suit them, such as "Users wanting to perform a flow in an optimized way".
 - The actor's name should not contain redundant information that is already described in the job to be done or context.
-- if the job to be done was "manage finances together", a bad group that should be avoided would be "People together" because when defining the market it would be "People together wanting to manage finances together" and it would be redundant together/jointly.
+- if the job to be done was "manage finances together", a bad group that should be avoided would be "People together" because when defining the market it would be "People together wanting to manage finances together" and it would be redundant "together".
 - Avoid mentioning specific solutions, methods or technologies, unless mentioned in the {{Job To Be Done}}.
 - Do not mention or refer to the names of the roles, e.g. Doers or Beneficiaries.
 - Avoid mentioning/using possessive pronouns in the market statement and job statement of the Beneficiary or Doer.

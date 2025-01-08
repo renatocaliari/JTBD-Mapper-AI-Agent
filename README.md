@@ -5,14 +5,14 @@
   </tr>
   <tr>
     <td style="text-align:center; vertical-align:middle;">
-      <a href="https://buymeacoffee.com/yourusername">
+      <a href="https://buymeacoffee.com/calirenato82">
         <img src="https://github.com/user-attachments/assets/b28741c6-5bc5-4bd1-a53a-9364a0acdf3d" alt="Buy me a coffee" width="26">
         <br>
         Buy me a coffee ☕
       </a>
     </td>
     <td style="text-align:center; vertical-align:middle;">
-      <a href="https://www.linkedin.com/in/yourusername">
+      <a href="https://www.linkedin.com/in/calirenato82">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="38">
         <br>
         LinkedIn

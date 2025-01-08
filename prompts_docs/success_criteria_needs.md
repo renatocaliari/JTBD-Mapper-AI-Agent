@@ -40,6 +40,6 @@ Ordenar os critérios de sucesso com base nos seguintes fatores:
   
 <Formato de cada critério descoberto>
 - {Critério de sucesso detalhado}: {breve explicação e diga com quais variáveis dos fatores situacionais o critério se relaciona}
-  - Métrica: {breve descrição de como mensurar e comparar o resultado }
+  - Métrica: {como mensurar se o critério de sucesso está sendo satisfeito}
   - Soluções atuais: {exemplos de tipos soluções existentes e produtos específicos existentes para cada um} 
 </Formato de cada critério descoberto>

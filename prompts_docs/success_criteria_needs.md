@@ -12,7 +12,7 @@ Job step: [foque no job step específico, se informado, senão, considere o job 
 # 1. Processo para geração de Critérios:
 
 - Imagine como se você fosse a própria pessoa (utilizando a primeira pessoa do singular) realizando o {job step} (se informado) para concluir o {job to be done} levando em conta os fatores situacionais e variáveis.
-- A partir disso, descubra os critérios de sucesso, respondendo à pergunta: "Quais condições precisam ser satisfeitas para que eu resolva os impedimentos, evite qualquer frustração e alcance o resultado ideal considerando os fatores situacionais e variáveis?". 
+- A partir disso, descubra os critérios de sucesso, respondendo à pergunta: "Quais condições precisam ser satisfeitas para que eu resolva os impedimentos, evite qualquer frustração e alcance o resultado ideal considerando os fatores situacionais e variáveis?". 
 - Justificar como cada critério se alinha com os fatores situacionaid e variáveis.
 - Exemplificar soluções: Para cada critério de sucesso, forneça exemplos de soluções (mentais, físicas, virtuais, processuais ou metodológicas) específicas e detalhadas que podem ser utilizadas para alcançar o critério.
 
@@ -28,18 +28,18 @@ Ordenar os critérios de sucesso com base nos seguintes fatores:
 # Regras:
 
 - Assegure-se que os critérios de sucesso iniciem sempre com "Garantir" ou "Evitar", escolha o que for mais adequado entre os dois.
-- Cada critério deve descrever um resultado esperado Observável, Mensurável, Específico e Acionável.
+- Cada critério deve descrever um resultado esperado que seja Objetivamente Mensurável, Específico e Acionável.
 - Você pode mencionar uma circunstância específica relacionada aos fatores situacionais ou variáveis se perceber que a necessidade predomina, ou existe majoritariamente, nessa circunstância.
-- Você precisa encontrar múltiplos critérios de sucesso.
-- Sempre evite adjetivos e advérbios, e evite ambiguidade. Usar substantivos e verbos. 
-- Se achar necessário usar um adjetivo, tente compará-lo a algo concreto em vez de usá-lo isoladamente. Isso ajuda a tornar o significado mais claro. Exemplo: Em vez de "Garantir um som alto", use "Garantir que o volume seja mais alto do que o ruído ambiente" ou seria melhor não usar adjetivo e declarar como "Evitar escutar o ruído do ambiente" pois a solução talvez não seja aumentar o volume.
-- Os critérios devem ser mutuamente exclusivo, coletivamente exaustivo e não redundante. 
-- Cada Job Step deve ter múltiplos critérios de sucesso.
-- Evite mencionar solução ou método específico (ex: "escrever", "contas bancárias", "fotos", "online", "WhatsApp", "planilhas", etc.), exceto caso esteja especificado no próprio job to be done (e segmento) ou inerente a ele.
+- Sempre evite adjetivos e advérbios. Evite ambiguidade. Usar substantivos e verbos. 
+- Se achar necessário usar um adjetivo, compare a algo concreto em vez de usá-lo isoladamente. Isso ajuda a tornar o significado mais claro. Exemplo: Em vez de "Garantir um som alto", use "Garantir que o volume seja mais alto do que o ruído ambiente" ou seria melhor não usar adjetivo e declarar como "Evitar escutar o ruído do ambiente" pois a solução talvez não seja aumentar o volume.
+- Os critérios devem ser mutuamente exclusivo, coletivamente exaustivo e não redundante. 
+- Evite mencionar solução ou método específico como critério (ex: "escrever", "contas bancárias", "fotos", "online", "WhatsApp", "planilhas", etc.), exceto caso esteja especificado no próprio job to be done (e segmento) ou inerente a ele.
 - O resultado deve ser uma lista de critérios em bullet points.
-  
-<Formato de cada critério descoberto>
+  
+`<Formato de cada critério descoberto>`
+
 - {Critério de sucesso detalhado}: {breve explicação e diga com quais variáveis dos fatores situacionais o critério se relaciona}
-  - Métrica: {como mensurar se o critério de sucesso está sendo satisfeito}
-  - Soluções atuais: {exemplos de tipos soluções existentes e produtos específicos existentes para cada um} 
-</Formato de cada critério descoberto>
+  - Métricas: {métricas detalhadas de contagem, proporção ou média com explicação de como medir}
+  - Soluções atuais: {tipos soluções existentes com exemplos produtos-marcas específicos existentes para utilizar} 
+
+`</Formato de cada critério descoberto>`

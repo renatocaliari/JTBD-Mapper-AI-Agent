@@ -52,7 +52,7 @@ curl https://raw.githubusercontent.com/renatocaliari/joby-labs-agent/main/script
 14. Paste the content copied in step 5 into Cline's Custom Instructions configuration.
 15. Click DONE after finishing the settings.
 16. In the Cline chat, check "Auto-approve: ..."
-17. Then, intype a message like ```generate a map for Job "xyz"``` and press Enter.
+17. Then, intype a message like ```generate a job map for "xyz"``` and press Enter.
 18. Your maps will be generated within the xxx directory in subdirectories created by the agent in this format: '{currentdate_and_time}_{job to be done}_docs'.
 
 # Free LLM Alternatives

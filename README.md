@@ -5,6 +5,19 @@
 # Connect on LinkedIn
 ![image](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg) [Connect on LinkedIn](https://www.linkedin.com/in/calirenato82)
 
+## Sponsor this project
+
+<div style="text-align: center">
+  <img src="https://github.com/user-attachments/assets/b28741c6-5bc5-4bd1-a53a-9364a0acdf3d" alt="Sponsor this project" width="200">
+  [Buy me a coffee ☕](https://buymeacoffee.com/calirenato82)
+</div>
+
+## Connect on LinkedIn
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn icon" width="30">
+[Connect on LinkedIn](https://www.linkedin.com/in/calirenato82)
+
+
 # JTBD Mapper AI Agent 🤖 Free & Open-Source
 _*Remember to periodically check for a new version_
 

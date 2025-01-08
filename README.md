@@ -7,6 +7,7 @@
 
 # JTBD Mapper AI Agent 🤖 Free & Open-Source
 _*Remember to periodically check for a new version_
+<mark style="background: yellow">Important: You **don't** need to know how to program.</mark>
 
 The "JTBD Mapper AI Agent" is designed to provide a comprehensive JTBD mapping, covering the key aspects, but it's not meant to be the definitive end of the analysis. Think of it as a research partner that helps you quickly map out the landscape.
 
@@ -22,27 +23,11 @@ This agent uses seriously powerful large language models – think Gemini 2.0, Q
 It's crucial to critically evaluate the results, just like you would with any research. This means checking for accuracy, considering potential biases, and identifying any limitations.
 You can also refine the results by conducting further research with your target audience to validate and enrich the findings.
 
-### 🇺🇸 **English:**
-The Joby Labs Agent is a collection of specific instructions and artificial intelligence prompts used for Jobs To Be Done mapping.
-
 It's configured to work within [Cline](https://github.com/cline/cline), a free and open-source extension for VS Code — an IDE commonly used for systems development.
-
 You can use free LLMs such as Gemini 2.0, Llama 3.3, and Qwen 2.5.
 
-With this combination, you can have an autonomous agent that performs mapping autonomously. It only asks questions to confirm options you want to proceed with to the next stages.
-
-Important: You **don't** need to know how to program.
-
-### 🇧🇷 **Brazilian Portuguese:**
-O Joby Labs Agent é uma coleção de instruções específicas e prompts de inteligência artificial utilizado para mapeamento de **Jobs To Be Done**. 
-
-Ele é configurado para funcionar dentro do [Cline](https://github.com/cline/cline), [uma extensão gratuita](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev) e open-source do VS Code - uma IDE comumente utilizada para desenvolvimento de sistemas.
-
-Você pode usar LLMs gratuitas como Gemini 2.0, Llama 3.3, Qwen 2.5.
-
-Com essa combinação você pode ter um agente autônomo que faz um mapeamento de forma autônoma. Ele só faz perguntas para confirmar opções que você deseja para avançar para próximos estágios.
-
-Importante: Você **não** precisa saber programar.
+With this combination, you can have an autonomous agent that performs mapping autonomously. 
+It only asks questions to confirm options you want to proceed with to the next stages.
 
 # Steps
 

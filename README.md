@@ -46,7 +46,7 @@ You can use free LLMs such as Gemini 2.0, Llama 3.3, and Qwen 2.5.
 With this combination, you can have an autonomous agent that performs mapping autonomously. 
 It only asks questions to confirm options you want to proceed with to the next stages.
 
-# Steps
+# Installation
 
 1. Open your terminal: Search for "terminal" or "command prompt" on your computer and open the appropriate application.
 2. Navigate to the desired directory: Use the cd command to navigate to the directory where you want to create the Jobs-to-be-Done mappings. For example, if you want to create them in your Downloads folder, you would type `cd ~/Downloads` and press Enter.

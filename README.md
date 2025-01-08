@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/b28741c6-5bc5-4bd1-a53a-9364a0acdf3d)
 [Buy me a coffee ☕](https://buymeacoffee.com/calirenato82)
 
-# JTBD Mapper Agent 🤖 - 🚀 Free & Open-Source
+# JTBD Mapper AI Agent 🤖 Free & Open-Source
 Remember to periodically check for a new version of the Joby Labs Agent at https://github.com/renatocaliari/joby-labs-agent.
 
 ### 🇺🇸 **English:**

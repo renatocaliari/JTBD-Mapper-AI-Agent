@@ -1,9 +1,14 @@
+| **Support this project** | **Connect with me** |
+|---|---|
+| <img src="https://your-image-url.png" alt="Support" width="50"> [Buy me a coffee ☕](https://buymeacoffee.com/yourusername) | <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="30"> [LinkedIn](https://www.linkedin.com/in/yourusername) |
+
 # Sponsor this project
 ![image](https://github.com/user-attachments/assets/b28741c6-5bc5-4bd1-a53a-9364a0acdf3d)
 [Buy me a coffee ☕](https://buymeacoffee.com/calirenato82)
 
 ## Connect on LinkedIn
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="30">
+
 [Connect on LinkedIn](https://www.linkedin.com/in/calirenato82)
 
 

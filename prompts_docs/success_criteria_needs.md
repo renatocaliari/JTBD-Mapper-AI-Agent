@@ -35,7 +35,8 @@ Ordenar os critérios de sucesso com base nos seguintes fatores:
 - Os critérios devem ser mutuamente exclusivo, coletivamente exaustivo e não redundante. 
 - Evite mencionar solução ou método específico como critério (ex: "escrever", "contas bancárias", "fotos", "online", "WhatsApp", "planilhas", etc.), exceto caso esteja especificado no próprio job to be done (e segmento) ou inerente a ele.
 - O resultado deve ser uma lista de critérios em bullet points.
-  
+
+ 
 `<Formato de cada critério descoberto>`
 
 - {Critério de sucesso detalhado}: {breve explicação e diga com quais variáveis dos fatores situacionais o critério se relaciona}

@@ -2,6 +2,11 @@
 ![image](https://github.com/user-attachments/assets/b28741c6-5bc5-4bd1-a53a-9364a0acdf3d)
 [Buy me a coffee ☕](https://buymeacoffee.com/calirenato82)
 
+<a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank" rel="noopener noreferrer">
+  <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" width="20" height="20"> [Connect on LinkedIn](https://www.linkedin.com/in/calirenato82)
+</a>
+
+
 # JTBD Mapper AI Agent 🤖 Free & Open-Source
 Remember to periodically check for a new version of the Joby Labs Agent at https://github.com/renatocaliari/joby-labs-agent.
 
@@ -93,6 +98,7 @@ Error content:
 # 🇧🇷 Jobs To Be Done & Prompts 
 - Para mais informações sobre Jobs To Be Done, consulte o [e-book gratuito Estratégia e Inovação baseadas em Jobs To Be Done](https://calirenato82.substack.com/p/e-book-jobs-to-be-done-em-portugues).
 - Para encontrar mais prompts de I.A., [clique aqui](https://calirenato82.substack.com/i/141662256/prompts-ia-para-problem-space).
+
 
 # Images
 

@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # URL do repositório
-REPO_URL="https://raw.githubusercontent.com/renatocaliari/joby-labs-agent/main/"
+REPO_URL="https://raw.githubusercontent.com/renatocaliari/JTBD-Mapper-AI-Agent/main/"
 
 # Diretório local para salvar os arquivos
-LOCAL_DIR="joby-labs-agent"
+LOCAL_DIR="JTBD-Mapper-AI-Agent"
 
 # Cria o diretório local, caso não exista
 mkdir -p "$LOCAL_DIR"

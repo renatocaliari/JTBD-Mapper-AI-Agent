@@ -52,7 +52,7 @@ It only asks questions to confirm options you want to proceed with to the next s
 2. Navigate to the desired directory: Use the cd command to navigate to the directory where you want to create the Jobs-to-be-Done mappings. For example, if you want to create them in your Downloads folder, you would type `cd ~/Downloads` and press Enter.
 3. Run the following command: Once you're in the desired directory to create jobs-to-be-done mappings, paste the following command into your terminal and press Enter:
 ```
-curl https://raw.githubusercontent.com/renatocaliari/joby-labs-agent/main/script_setup.sh | bash
+curl https://raw.githubusercontent.com/renatocaliari/JTBD-Mapper-AI-Agent/main/script_setup.sh | bash
 ```
 4. [Download VS Code and install](https://code.visualstudio.com/download).
 5. Open VS Code.

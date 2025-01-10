@@ -37,7 +37,7 @@ Rules for each segment:
 - Explore possible business and product strategies: do not focus on a specific solution or method, but at the same time give examples of them.
 
 Template and fields for result:
-## {Segment Name, e.g. Remote Professionals}
+## {Segment Name}
 - Market: .
 - Justification: 
 - Desired Outcomes: 

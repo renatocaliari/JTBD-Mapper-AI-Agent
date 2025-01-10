@@ -1,5 +1,5 @@
 Goal: Identification of contextual segments.
-Job to be done: [job to be done chosen by the user]
+Job to be done: [fill in with the market definition]
 
 `<factors and variables>`
 {list here}
@@ -28,9 +28,9 @@ Process:
 
 Rules for each segment:
 - Give each a representative name, easy for product teams to use on a daily basis.
-- Define the market for the specific segment following the model: "{group of people} wanting to {job to be done adapted to start with the verb in the infinitive} {comprehensive context involved in the group of people}. Adapt the Job to be done and context, based on the name of the group, to describe in a super comprehensive way the relationship of the actor with the job and describe the market with this formula. Examples:
-    - if the job was "Manage finances together" and the name of the group was "Family members with elderly people", then the market could be "[People] wanting to [manage finances together] [with their elderly family member]".
-    - if the name of the group was "People who care for elderly family members" a bad market statement would be "People who care for elderly family members wanting to manage finances together" because two groups of people are before the verb "wanting", which should be separated one at the beginning and one in the job to be done. A better market statement would be "[People] wanting to [manage finances together] [with their elderly family member]".
+- Define the market for the specific segment following the model: "{group of people} trying to {job to be done adapted to start with the verb in the infinitive} {comprehensive context involved in the group of people}. Adapt the Job to be done and context, based on the name of the group, to describe in a super comprehensive way the relationship of the actor with the job and describe the market with this formula. Examples:
+    - if the job was "Manage finances together" and the name of the group was "Family members with elderly people", then the market could be "[People] trying to [manage finances together] [with their elderly family member]".
+    - if the name of the group was "People who care for elderly family members" a bad market statement would be "People who care for elderly family members trying to manage finances together" because two groups of people are before the verb "wanting", which should be separated one at the beginning and one in the job to be done. A better market statement would be "[People] trying to [manage finances together] [with their elderly family member]".
 - They have SIGNIFICANTLY DIFFERENT needs that therefore demand totally different and customized solutions, even when performing the same Job to be done.
 - Give a justification for the exclusivity in how you consider the group significantly different from the others listed.
 - Highlight the top 3 significantly different desired outcomes (starting with verbs) + top 3 significantly different constraints compared to the other groups that have a major impact on the outcome of the Job to be done.

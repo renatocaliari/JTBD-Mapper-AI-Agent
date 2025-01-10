@@ -7,7 +7,7 @@ Identify "Jobs To Be Done" (JTBD) RELATED to {{Variable}}.
 
 Important RULES:
 1. Start with an infinitive verb if the result is in Brazilian Portuguese or imperative verbs if it is in English.
-2. Be functional (functional action or expected outcome). It should not be an emotional job (like wanting to feel or avoid) or social (like wanting to be perceived or avoid).
+2. Be functional (functional action or expected outcome). It should not be an emotional job (like trying to feel or avoid) or social (like trying to be perceived or avoid).
 3. DO NOT use adjectives or adverbs.
 4. DO NOT use conjunctions ("and", "or", etc.).
 5. DO NOT refer to specific solutions or means that did not exist 10,000 years ago (e.g. "write", "photos", "online", "WhatsApp", etc.).

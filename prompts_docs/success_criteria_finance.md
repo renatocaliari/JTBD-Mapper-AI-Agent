@@ -1,6 +1,11 @@
 Goal: Identify specific and actionable financial success criteria when performing a "job to be done."
 Context:
-Job to be done: [include here the market segment, if chosen by the user, or job to be done] Job step: [focus on the specific job step, if provided, otherwise consider the entire job to be done]
+Job to be done: [include here the market definition of the segment, if chosen by the user, or job to be done mapped] 
+<segment: all info>
+[segment chosen by the user]
+</segment>
+
+Job step: [focus on the specific job step, if provided, otherwise consider the entire job to be done]
 `<situational factors and variables>` [include here the list of factors and variables discovered in the previous step] `</situational factors and variables>`
 1. Process for Generating Criteria:
 

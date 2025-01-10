@@ -9,7 +9,7 @@ Job to be done: [include here the market definition of the segment, if chosen by
 
   1. Process for Generating Criteria:
 
-Imagine yourself as the person (using the first person singular) performing the {job step} (if provided) to complete the {job to be done} taking into account the situational factors and variables.
+Imagine yourself as the person (using the first person singular) performing the {job step} (if provided) to complete the {job to be done} taking into account the interconnection of diverse and specific situational factors and variables.
 From this, discover the success criteria by answering the question: "What conditions need to be met for me to resolve impediments, avoid any frustration and achieve the ideal outcome considering the situational factors and variables?".
 Justify how each criterion aligns with the situational factors and variables.
 Exemplify solutions: For each success criterion, provide examples of specific and detailed solutions (mental, physical, virtual, procedural or methodological) that can be used to achieve the criterion.
@@ -30,7 +30,9 @@ Always avoid adjectives and adverbs. Avoid ambiguity. Use nouns and verbs.
 If you find it necessary to use an adjective, compare it to something concrete instead of using it in isolation. This helps to make the meaning clearer. Example: Instead of "Ensure a loud sound", use "Ensure the volume is higher than the ambient noise" or it would be better not to use an adjective and state as "Avoid hearing ambient noise" as the solution may not be to increase the volume.
 Criteria must be mutually exclusive, collectively exhaustive and non-redundant.
 Avoid mentioning specific solutions or methods as criteria (e.g. "writing", "bank accounts", "photos", "online", "WhatsApp", "spreadsheets", etc.), except if it is specified in the job to be done (and segment) itself or inherent to it.
-The result should be a bulleted list of criteria.
+The result should be a bulleted list of several criteria.
 `<Format of each discovered criterion>`
-{Detailed success criterion}: {brief explanation and say which variables of the situational factors the criterion relates to} - Metrics: {detailed count, proportion or average metrics with explanation of how to measure} - Current solutions: {types of existing solutions with examples of specific existing product-brands to use}
+- {Detailed success criterion}: {brief explanation} 
+  - Metrics: {detailed count, proportion or average metrics with explanation of how to measure} 
+  - Current solutions: {types of existing solutions with examples of specific existing product-brands to use}
 `</Format of each discovered criterion>`

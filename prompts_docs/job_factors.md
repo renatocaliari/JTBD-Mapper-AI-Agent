@@ -16,11 +16,12 @@ Discover situational factors that significantly influence the performance of the
 
 Rules:
 Iterate over each category above and explore the MAXIMUM number of situational factors that strongly impact the outcome of the Job.
+For each situational factor explore the MAXIMUM possible variables that influence the outcome of the Job, and examples.
 If the Job is about someone performing something for someone else, consider the perspectives of both.
 Factors must be specific and detailed. Avoid abstractions, adjectives and adverbs.
 Factors must be mutually exclusive, collectively EXHAUSTIVE and non-redundant.
-For each factor explore the MAXIMUM possible variables that influence the outcome of the Job.
-Your answer should follow this model replacing the placeholder {}:
+
+## Template for result (replacing the placeholder {})
 {Category}
 {Situational factor}: {description}
-- {variable name}: {justification and specific examples}
+- {variable}: {justification and specific examples}

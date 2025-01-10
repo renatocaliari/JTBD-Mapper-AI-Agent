@@ -23,7 +23,7 @@ Update: After completing each step inside the original roadmap, set the original
 ### user_options.md
 Purpose: Save the preferences of the user.
 Update: when the user selects an option or answer some question.
-Relation: Should explicitly reference steps from project_roadmap.md and the options user selected or answered.
+Relation: Should explicitly reference the options user selected or answered.
 Content: Answers of the user.
 
 # Adaptive Workflow

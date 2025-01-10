@@ -33,17 +33,19 @@ Rules for each segment:
     - if the name of the group was "People who care for elderly family members" a bad market statement would be "People who care for elderly family members wanting to manage finances together" because two groups of people are before the verb "wanting", which should be separated one at the beginning and one in the job to be done. A better market statement would be "[People] wanting to [manage finances together] [with their elderly family member]".
 - They have SIGNIFICANTLY DIFFERENT needs that therefore demand totally different and customized solutions, even when performing the same Job to be done.
 - Give a justification for the exclusivity in how you consider the group significantly different from the others listed.
-- Highlight the top 3 desired outcomes (starting with verbs) + top 3 significantly different constraints compared to the other groups that have a major impact on the outcome of the Job to be done.
+- Highlight the top 3 significantly different desired outcomes (starting with verbs) + top 3 significantly different constraints compared to the other groups that have a major impact on the outcome of the Job to be done.
 - Explore possible business and product strategies: do not focus on a specific solution or method, but at the same time give examples of them.
 
-Examples:
-## {Group Name, e.g. Remote Professionals}
-Market: {People} wanting to {care for their mothers} {while balancing their work routine}.
-
-
-## {Group Name, e.g. Remote Professionals}
-Market: {Professionals} wanting to {work while working remotely}.
-Justification: Remote professionals have different productivity, connection, and work-life balance needs than in-office professionals.
-Desired Outcomes:
-Constraints:
-Strategy:
+Template and fields for result:
+## {Segment Name, e.g. Remote Professionals}
+- Market: .
+- Justification: 
+- Desired Outcomes: 
+    - 
+    - 
+    - 
+- Constraints:
+    - 
+    - 
+    - 
+- Strategies:

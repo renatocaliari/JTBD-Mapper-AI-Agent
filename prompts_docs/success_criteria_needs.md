@@ -1,46 +1,32 @@
-Objetivo: Identificação de critérios de sucesso específicos e acionáveis ao realizar um "job to be done".
+Goal: Identify specific and actionable success criteria when performing a "job to be done".
+Context:
+Job to be done: [include here the market segment, if chosen by the user, or job to be done] Job step: [focus on the specific job step, if provided, otherwise consider the entire job to be done]
+`<situational factors and variables>` [include here the list of factors and variables discovered in the previous step] `</situational factors and variables>`
 
-Contexto:
+  1. Process for Generating Criteria:
 
-Job to be done: [inclua aqui o mercado do segmento, se escolhido pelo usuário, ou job to be done]
-Job step: [foque no job step específico, se informado, senão, considere o job to be done por inteiro]
+Imagine yourself as the person (using the first person singular) performing the {job step} (if provided) to complete the {job to be done} taking into account the situational factors and variables.
+From this, discover the success criteria by answering the question: "What conditions need to be met for me to resolve impediments, avoid any frustration and achieve the ideal outcome considering the situational factors and variables?".
+Justify how each criterion aligns with the situational factors and variables.
+Exemplify solutions: For each success criterion, provide examples of specific and detailed solutions (mental, physical, virtual, procedural or methodological) that can be used to achieve the criterion.
+2. Prioritization of Criteria:
 
-`<fatores situacionais e variáveis>`
-[inclua aqui a lista de fatores e variáveis descobertos em etapa anterior]
-`</fatores situacionais e variáveis>`
+Order the success criteria based on the following factors:
+Lowest current satisfaction with the criterion outcome
+Greatest positive impact when the criterion is met
+Greatest negative impact when the criterion is not met
+Largest current investment required to satisfy the criterion (time, money, skills, people, solutions)
+Lowest current accuracy to satisfy the criterion
+Rules:
 
-# 1. Processo para geração de Critérios:
-
-- Imagine como se você fosse a própria pessoa (utilizando a primeira pessoa do singular) realizando o {job step} (se informado) para concluir o {job to be done} levando em conta os fatores situacionais e variáveis.
-- A partir disso, descubra os critérios de sucesso, respondendo à pergunta: "Quais condições precisam ser satisfeitas para que eu resolva os impedimentos, evite qualquer frustração e alcance o resultado ideal considerando os fatores situacionais e variáveis?". 
-- Justificar como cada critério se alinha com os fatores situacionaid e variáveis.
-- Exemplificar soluções: Para cada critério de sucesso, forneça exemplos de soluções (mentais, físicas, virtuais, processuais ou metodológicas) específicas e detalhadas que podem ser utilizadas para alcançar o critério.
-
-# 2. Priorização dos Critérios:
-
-Ordenar os critérios de sucesso com base nos seguintes fatores:
-- Menor satisfação atual com o resultado do critério
-- Maior impacto positivo quando o critério é atendido
-- Maior impacto negativo quando o critério não é atendido
-- Maior investimento atual necessário para satisfazer o critério (tempo, dinheiro, habilidades, pessoas, soluções)
-- Menor precisão atual para satisfazer o critério
-
-# Regras:
-
-- Assegure-se que os critérios de sucesso iniciem sempre com "Garantir" ou "Evitar", escolha o que for mais adequado entre os dois.
-- Cada critério deve descrever um resultado esperado que seja Objetivamente Mensurável, Específico e Acionável.
-- Você pode mencionar uma circunstância específica relacionada aos fatores situacionais ou variáveis se perceber que a necessidade predomina, ou existe majoritariamente, nessa circunstância.
-- Sempre evite adjetivos e advérbios. Evite ambiguidade. Usar substantivos e verbos. 
-- Se achar necessário usar um adjetivo, compare a algo concreto em vez de usá-lo isoladamente. Isso ajuda a tornar o significado mais claro. Exemplo: Em vez de "Garantir um som alto", use "Garantir que o volume seja mais alto do que o ruído ambiente" ou seria melhor não usar adjetivo e declarar como "Evitar escutar o ruído do ambiente" pois a solução talvez não seja aumentar o volume.
-- Os critérios devem ser mutuamente exclusivo, coletivamente exaustivo e não redundante. 
-- Evite mencionar solução ou método específico como critério (ex: "escrever", "contas bancárias", "fotos", "online", "WhatsApp", "planilhas", etc.), exceto caso esteja especificado no próprio job to be done (e segmento) ou inerente a ele.
-- O resultado deve ser uma lista de critérios em bullet points.
-
- 
-`<Formato de cada critério descoberto>`
-
-- {Critério de sucesso detalhado}: {breve explicação e diga com quais variáveis dos fatores situacionais o critério se relaciona}
-  - Métricas: {métricas detalhadas de contagem, proporção ou média com explicação de como medir}
-  - Soluções atuais: {tipos soluções existentes com exemplos produtos-marcas específicos existentes para utilizar} 
-
-`</Formato de cada critério descoberto>`
+Ensure that success criteria always start with "Ensure" or "Avoid", whichever is most appropriate.
+Each criterion should describe an expected outcome that is Objectively Measurable, Specific and Actionable.
+You can mention a specific circumstance related to situational or variable factors if you perceive that the need predominates, or exists mostly, in that circumstance.
+Always avoid adjectives and adverbs. Avoid ambiguity. Use nouns and verbs.
+If you find it necessary to use an adjective, compare it to something concrete instead of using it in isolation. This helps to make the meaning clearer. Example: Instead of "Ensure a loud sound", use "Ensure the volume is higher than the ambient noise" or it would be better not to use an adjective and state as "Avoid hearing ambient noise" as the solution may not be to increase the volume.
+Criteria must be mutually exclusive, collectively exhaustive and non-redundant.
+Avoid mentioning specific solutions or methods as criteria (e.g. "writing", "bank accounts", "photos", "online", "WhatsApp", "spreadsheets", etc.), except if it is specified in the job to be done (and segment) itself or inherent to it.
+The result should be a bulleted list of criteria.
+`<Format of each discovered criterion>`
+{Detailed success criterion}: {brief explanation and say which variables of the situational factors the criterion relates to} - Metrics: {detailed count, proportion or average metrics with explanation of how to measure} - Current solutions: {types of existing solutions with examples of specific existing product-brands to use}
+`</Format of each discovered criterion>`

@@ -2,7 +2,9 @@ Goal: Describe the steps to successfully perform a "Job To Be Done".
 
 <Context>
 Job To Be Done: [job to be done chosen by the user]
-Segment: [segment chosen by the user; if none chosen, consider all discovered]
+<segment: all info>
+[segment chosen by the user; if none chosen, consider all discovered]
+</segment>
 Perspective: [actor chosen by the user]
 </Context>
 

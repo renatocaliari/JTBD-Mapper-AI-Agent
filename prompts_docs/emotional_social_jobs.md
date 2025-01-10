@@ -22,7 +22,8 @@ Social Jobs:
   - {bullet points}
 
 Rule: 
-- When defining emotional and social jobs, remember that all jobs represent a desired positive outcome. The difference lies in how you express it: use a positive phrasing to describe what you want to achieve directly, or a negative phrasing (almost always starting with 'Avoid') to describe what you want to prevent. Focus on distinct aspects of the experience and add specific context. Don't simply create opposing statements for the same concept (e.g., 'Be strong' and 'Avoid being weak'). Choose the phrasing that best captures the specific nuance.
+- Use a positive phrasing to describe what the person want to achieve directly, or a negative phrasing (almost always starting with 'Avoid') to describe what the person want to prevent. Focus on distinct aspects of the experience and add specific context. Don't simply create opposing statements for the same concept (e.g., 'Be strong' and 'Avoid being weak'). Choose the phrasing that best captures the specific nuance.
+
 Process:
 - Consider the segments presented at the top.
 - List as many as possible Emotional Jobs and 20 Social Jobs.

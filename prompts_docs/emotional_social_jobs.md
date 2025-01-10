@@ -2,7 +2,7 @@ Goal: Discover the emotional and social jobs related to a job to be done.
 
 Job to be done: {fill in here}
 `<Segments>`
-
+{fill in here}
 `</Segments>`
 
 Emotional Jobs:

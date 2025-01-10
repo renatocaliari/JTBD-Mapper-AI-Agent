@@ -1,4 +1,4 @@
-{{Job To Be Done}}: [if the segment has already been chosen by the user, fill in with the market definition of the segment, otherwise fill in with the initial Job To Be Done]
+Job to be done: [include here the market definition of the segment, if chosen by the user, or job to be done mapped] 
 
 Discover the actors involved in the {{Job To Be Done}} in each role below:
 

@@ -1,8 +1,9 @@
 Goal: Discover the emotional and social jobs related to a job to be done.
-Job to be done: {fill in here}
-<Segments>
 
-</Segments>
+Job to be done: {fill in here}
+`<Segments>`
+
+`</Segments>`
 
 Emotional Jobs:
 - Express how the job performer would like to feel or avoid feeling in a context.

@@ -38,8 +38,9 @@ Rules for each segment:
 
 Template and fields for result:
 ## {Segment Name}
-- Market: .
-- Justification: 
+- Market:
+- Justification:
+- Situational factors: {key situational factors AND variables of the segment, noting how they may interact with each other}
 - Desired Outcomes: 
     - 
     - 

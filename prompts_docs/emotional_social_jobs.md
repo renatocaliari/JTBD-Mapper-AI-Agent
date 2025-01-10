@@ -1,27 +1,27 @@
-{{Job To Be Done}}: {fill in here}
+Goal: Discover the emotional and social jobs related to a job to be done.
+Job to be done: [include here the market definition of the segment, if chosen by the user, or job to be done mapped] 
+<segment: all info>
+[segment chosen by the user]
+</segment>
+Emotional Jobs:
+- Express how the job performer would like to feel or avoid feeling in a context.
+- Focus on the person themselves.
 
-Discover situational factors that significantly influence the performance of the above Job.
+Social Jobs:
+- Express how the job performer would like to be perceived or avoid being perceived in a context.
+- Express how the job performer would like to connect or avoid connecting with other people in a context.
+- Express how the job performer would like to belong or not belong to a group in a context.
+- Focus on relationships or the perception of other people.
 
-* Where (Physical Environment): Tangible and immediate characteristics of the space (location, environmental conditions, available resources).
-* With Whom & Local Culture (Social Environment): Presence and influence of other people and culture at the time (presence/absence, type of interaction, immediate social norms).
-* When (Time): Temporal dimension of the situation (specific moment, period of time, cyclical rhythms).
-* Why (Greater Purpose): The fundamental reason behind the execution of the job, the ultimate goal.
-* How (Internal State with Integrated Experience):
-    * Personal History: Values, beliefs, past experiences and ingrained habits.
-    * Perception of the Situation: Assessment of the situation.
-    * Emotional State: Emotions and feelings present.
-    * Physiological and Cognitive State: Physical and cognitive conditions.
-    * Experience: Knowledge, skills and experiences directly related to the Job in question.
-    * Strategies and Planning: Actions and strategies adopted to achieve the purpose.
+### Template
+### Emotional Jobs: 
+  - {bullet points}
+### Social Jobs:
+  - {bullet points}
 
-Rules:
-Iterate over each category above and explore the MAXIMUM number of situational factors that strongly impact the outcome of the Job.
-For each situational factor explore the MAXIMUM possible variables that influence the outcome of the Job, and examples.
-If the Job is about someone performing something for someone else, consider the perspectives of both.
-Factors must be specific and detailed. Avoid abstractions, adjectives and adverbs.
-Factors must be mutually exclusive, collectively EXHAUSTIVE and non-redundant.
+Rule: 
+- Use a positive phrasing to describe what the person want to achieve directly, or a negative phrasing (almost always starting with 'Avoid') to describe what the person want to prevent. Focus on distinct aspects of the experience and add specific context. Don't simply create opposing statements for the same concept (e.g., 'Be strong' and 'Avoid being weak'). Choose the phrasing that best captures the specific nuance.
 
-Template for result (replacing the placeholder {}):
-## Category: {Category}
-### Situational factor: {Situational factor}: {description}
-- {variable}: {justification and specific examples}
+Process:
+- Consider the segments presented at the top.
+- List as many as possible Emotional Jobs and 20 Social Jobs.

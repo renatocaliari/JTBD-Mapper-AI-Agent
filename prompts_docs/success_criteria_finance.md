@@ -16,8 +16,8 @@ Greatest positive impact when the criterion is met
 Greatest negative impact when the criterion is not met
 Greatest current investment required to satisfy the criterion (time, money, skills, people, solutions)
 Lowest current accuracy in meeting the criterion
-Rules:
 
+Rules:
 Ensure that success criteria always start with "Ensure" or "Avoid", whichever is most appropriate. Use a positive phrasing to describe what the person want to achieve directly, or a negative phrasing (almost always starting with 'Avoid') to describe what the person want to prevent. Focus on distinct aspects of the experience and add specific context. Don't simply create opposing statements for the same concept.
 Each criterion should describe an expected outcome that is Objectively Measurable, Specific, and Actionable.
 You can mention a specific circumstance related to situational factors or variables if you perceive that the need predominates, or exists mostly, in that circumstance.

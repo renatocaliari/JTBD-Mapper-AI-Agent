@@ -1,15 +1,30 @@
 #!/bin/bash
 
-# URL do repositório
+# Repository URL
 REPO_URL="https://raw.githubusercontent.com/renatocaliari/JTBD-Mapper-AI-Agent/main/"
+API_URL="https://api.github.com/repos/renatocaliari/JTBD-Mapper-AI-Agent/releases/latest"
 
-# Diretório local para salvar os arquivos
+# Local directory to save files
 LOCAL_DIR="JTBD-Mapper-AI-Agent"
+INFO_FILE="$LOCAL_DIR/release_info.txt"
 
-# Cria o diretório local, caso não exista
+# Create the local directory if it doesn't exist
 mkdir -p "$LOCAL_DIR"
 
-# Lista de arquivos e diretórios a serem baixados (excluindo README.md e o script atual)
+# Get latest release info using GitHub API
+RELEASE_INFO=$(curl -s "$API_URL")
+
+# Extract tag name using regular expressions with grep and sed
+TAG_NAME=$(echo "$RELEASE_INFO" | grep '"tag_name":' | sed 's/.*: "\(.*\)".*/\1/')
+
+# Extract publish date using regular expressions with grep and sed
+PUBLISH_DATE=$(echo "$RELEASE_INFO" | grep '"published_at":' | sed 's/.*: "\(.*\)".*/\1/')
+
+# Save the information to a file
+echo "Tag: $TAG_NAME" > "$INFO_FILE"
+echo "Publish Date: $PUBLISH_DATE" >> "$INFO_FILE"
+
+# List of files and directories to download
 FILES=(
     "README.md"
     "custom_instructions.md"
@@ -20,20 +35,16 @@ FILES=(
     "prompts_docs/related_jobs.md"
     "prompts_docs/segments.md"
     "prompts_docs/success_criteria_needs.md"
+    "prompts_docs/success_criteria_finance.md"
 )
 
-# Loop para baixar cada arquivo
+# Loop to download each file
 for FILE in "${FILES[@]}"; do
-    # Constrói a URL completa do arquivo
     FILE_URL="$REPO_URL/$FILE"
-    
-    # Constrói o caminho local completo para o arquivo
     LOCAL_FILE="$LOCAL_DIR/$FILE"
 
-    # Cria o diretório pai, se necessário
     mkdir -p "$(dirname "$LOCAL_FILE")"
-    
-    # Baixa o arquivo usando curl com tratamento de erro
+
     if curl -sSfLo "$LOCAL_FILE" "$FILE_URL"; then
         echo "Downloaded: $FILE"
     else
@@ -41,4 +52,4 @@ for FILE in "${FILES[@]}"; do
     fi
 done
 
-echo "Download complete."
+echo "Download complete. Release information saved to $INFO_FILE"

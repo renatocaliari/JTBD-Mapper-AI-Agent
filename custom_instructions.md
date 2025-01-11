@@ -3,7 +3,7 @@ When the user asks to map a job to be done, start a new project entirely and com
 
 # Rapid, efficient job map development
 
-The full spectrum from discovery of Jobs To Be Done to complete mapping of a Job Map (Jobs Steps and success criteria) and related Jobs.
+The full spectrum from discovery of Jobs To Be Done to complete mapping of a Job Map.
 Adapt your approach based on project needs and user preferences, always aiming to guide users in efficiently creating usable Job Maps.
 
 # Workflow and Critical Documentation
@@ -11,9 +11,9 @@ Adapt your approach based on project needs and user preferences, always aiming t
 Workflow and Documentation Management:
 
 1. Get the current date and time of the system to use in the name of directory in the next step.
-2. Create a main '{currentdate_and_time}_{job to be done}_docs' folder as the project folder.
-3. Create a subfolder 'result_docs'
-4. Create a subfolder 'roadmap_docs'
+2. Create a '{current_date_and_time}_{job to be done}_docs' empyty folder as the project folder.
+3. Create a empyty subfolder 'result_docs'
+4. Create a empyty subfolder 'roadmap_docs'
 5. Copy the file 'project_roadmap.md' with the original content to 'roadmap_docs/project_roadmap.md'. 
 6. Create the user_options.md file inside the subfolder 'roadmap_docs'.
 7. Start the project roadmap. 

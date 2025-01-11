@@ -22,19 +22,19 @@ Use the criteria below for prioritizing segments (the higher, the better, except
 
 Process:
 1. List 20 possible segments, briefly showing only the name, market definition and justification, without further data.
-2. Filter or group into a maximum of 10, ensuring that they are mutually exclusive, collectively exhaustive and non-redundant.
-3. Prioritize the segments using the prioritization criteria.
+2. Filter or group into a maximum of 10 segments, ensuring that they are mutually exclusive, collectively exhaustive and non-redundant based on situational factors and variables. 
+3. Prioritize (not filter) the segments of the step 2 using the prioritization criteria.
 4. Display the final list following the rules below.
 
 Rules for each segment:
-- Give each a representative name, easy for product teams to use on a daily basis.
+- Give each a representative name, easy for reference on a daily basis.
 - Define the market for the specific segment following the model: "{group of people} trying to {job to be done adapted to start with the verb in the infinitive} {comprehensive context involved in the group of people}. Adapt the Job to be done and context, based on the name of the group, to describe in a super comprehensive way the relationship of the actor with the job and describe the market with this formula. Examples:
     - if the job was "Manage finances together" and the name of the group was "Family members with elderly people", then the market could be "[People] trying to [manage finances together] [with their elderly family member]".
     - if the name of the group was "People who care for elderly family members" a bad market statement would be "People who care for elderly family members trying to manage finances together" because two groups of people are before the verb "wanting", which should be separated one at the beginning and one in the job to be done. A better market statement would be "[People] trying to [manage finances together] [with their elderly family member]".
 - They have SIGNIFICANTLY DIFFERENT needs that therefore demand totally different and customized solutions, even when performing the same Job to be done.
 - Give a justification for the exclusivity in how you consider the group significantly different from the others listed.
 - Highlight the top 3 significantly different desired outcomes (starting with verbs) + top 3 significantly different constraints compared to the other groups that have a major impact on the outcome of the Job to be done.
-- Explore possible business and product strategies: do not focus on a specific solution or method, but at the same time give examples of them.
+
 
 Template and fields for result:
 ## {Segment Name}
@@ -49,4 +49,3 @@ Template and fields for result:
     - 
     - 
     - 
-- Strategies:

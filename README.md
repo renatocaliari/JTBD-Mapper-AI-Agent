@@ -48,9 +48,20 @@ It only asks questions to confirm options you want to proceed with to the next s
 
 # Installation
 
-1. Open your terminal: Search for "terminal" or "command prompt" on your computer and open the appropriate application.
-2. Navigate to the desired directory: Use the cd command to navigate to the directory where you want to create the Jobs-to-be-Done mappings. For example, if you want to create them in your Downloads folder, you would type `cd ~/Downloads` and press Enter.
-3. Run the following command: Once you're in the desired directory to create jobs-to-be-done mappings, paste the following command into your terminal and press Enter:
+1. Open your terminal. Search for "terminal" or "command prompt" on your computer and open the appropriate application.
+2. Copy the repository.
+
+- Check if Git is installed: In your terminal, type `git --version` and press Enter.
+
+**If Git is installed:**
+
+- Clone the repository: `git clone https://github.com/renatocaliari/JTBD-Mapper-AI-Agent.git`
+- Navigate to the cloned directory: `cd JTBD-Mapper-AI-Agent`
+
+**If Git is not installed (or if the git --version command doesn't work):**
+
+- Navigate to the desired directory: Use the `cd` command to navigate to the directory where you want to copy. For example, `cd ~/Downloads/JTBD-Mapper-AI-Agent` and press Enter.
+- Run the following command: paste the following command into your terminal and press Enter:
 ```
 curl https://raw.githubusercontent.com/renatocaliari/JTBD-Mapper-AI-Agent/main/script_setup.sh | bash
 ```

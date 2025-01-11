@@ -21,7 +21,7 @@ If the Job is about someone performing something for someone else, consider the 
 Factors must be specific and detailed. Avoid abstractions, adjectives and adverbs.
 Factors must be mutually exclusive, collectively EXHAUSTIVE and non-redundant.
 
-Template for result (replacing the placeholder {}):
+Template for result (replacing the placeholder {} by the content):
 ## Category: {Category}
 ### Situational factor: {Situational factor}: {description}
-- {variable}: {justification and specific examples}
+- {place the variable name}: {justification and specific examples}

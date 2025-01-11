@@ -20,7 +20,7 @@ Workflow and Documentation Management:
 
 ### project_roadmap.md - Proccess Step by Step
 Purpose: Steps to follow as a roadmap and progress tracker.
-Update: After completing each step inside the original roadmap, set the original step [ ] as done [X], with X. If the user has indicated they want to bypass confirmation and preference steps, the file `roadmap_docs\user_options.md` will be containing the text "Bypass confirmation and preference steps: true", then mark those steps with "[-]" instead of "[X]" when reaching them, and do not execute them, selecting the Default option.
+Update: Always after completing each step inside the project roadmap, set the original step [ ] as done [X], with X. If the user has indicated they want to bypass confirmation and preference steps, the file `roadmap_docs\user_options.md` will be containing the text "Bypass confirmation and preference steps: true", then mark those steps with "[-]" instead of "[X]" when reaching them, and do not execute them, selecting the Default option.
 Content: Steps to follow, with checkboxes for completion.
 
 ### user_options.md

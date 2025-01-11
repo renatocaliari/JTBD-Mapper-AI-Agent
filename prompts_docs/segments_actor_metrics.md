@@ -13,6 +13,7 @@ Process:
 
 Template:
 - Metrics - Systemic Health:
-    - [Actor name]: [...Metrics]
-    - [Actor name]: [...Metrics]
-    - [Actor name]: [...Metrics]
+    - {Actor name} {...Metrics}
+    - {Actor name} {...Metrics}
+    - {Actor name} {...Metrics}
+

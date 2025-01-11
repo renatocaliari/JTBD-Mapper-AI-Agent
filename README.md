@@ -85,8 +85,9 @@ curl https://raw.githubusercontent.com/renatocaliari/JTBD-Mapper-AI-Agent/main/s
 17. Then, intype a message like ```generate a job map for "xyz"``` and press Enter.
 18. Your maps will be generated within the `result_docs` subdirectory created by the agent in the main directory with this format: `{currentdate_and_time}_{job to be done}_docs`.
 
-# Free LLM Alternatives
+# LLM Alternatives
 
+## Free
 You can use other providers to try different LLMs, like:
 
 ### glhf.chat: Qwen and Llama
@@ -104,6 +105,15 @@ Then, in Cline's settings, configure the provider to 'OpenAI Compatible' and the
 
 Paste `deepseek-ai/DeepSeek-V3` as the model to use DeepSeek V3.
 
+## Cheap, but not free
+
+### DeepSeek-V3 API
+
+To try DeepSeek V3 API directly, create an API key at `https://platform.deepseek.com/api_keys`. 
+
+Then, in Cline's settings, configure the provider to 'DeepSeek'.
+
+Select `deepseek-chat` as the model to use DeepSeek V3.
 
 # Troubleshooting
 

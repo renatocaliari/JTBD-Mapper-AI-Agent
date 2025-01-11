@@ -9,8 +9,8 @@ Job to be done: [include here the market definition of the segment, if chosen by
 
  1. Process for Generating Criteria:
 - Imagine yourself as the person (using the first person singular) performing the {job step} (if provided) to complete the {job to be done} taking into account the interconnection of diverse and specific situational factors and variables.
-- From this, discover 20 success criteria statements by answering the question: "What conditions need to be met for me to resolve impediments, avoid any frustration and achieve the ideal outcome considering the situational factors and variables?".
-- Following the priotization rules, filter to maximum 10 and give details mentioned in the Template as the final result. 
+- From this, discover at least 20 success criteria statements by answering the question: "What conditions need to be met for me to resolve impediments, avoid any frustration and achieve the ideal outcome considering the situational factors and variables?".
+- Following the priotization rules, filter to maximum 10 and give details mentioned in the Template as the final result.
 
 2. Prioritization Rules:
 
@@ -35,7 +35,11 @@ Order the success criteria based on the following factors:
 - The result should be a bulleted list of several criteria.
 
 `<Template of the result>`
+## 20 Raw Success Criteria:
 
+-
+
+## Final Result:
 - {Detailed success criterion}: {brief explanation}
   - Metrics: {detailed count, proportion or average metrics with explanation of how to measure}
   - Current solutions: {types of existing solutions (mental, physical, virtual, procedural or methodological)  with examples of specific existing product-brands to use}

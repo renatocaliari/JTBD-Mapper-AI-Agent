@@ -20,7 +20,8 @@ Social Jobs:
   - {bullet points}
 
 Rule: 
-- Use a positive phrasing to describe what the person want to achieve directly, or a negative phrasing (almost always starting with 'Avoid') to describe what the person want to prevent. Focus on distinct aspects of the experience and add specific context. Don't simply create opposing statements for the same concept (e.g., 'Be strong' and 'Avoid being weak'). Choose the phrasing that best captures the specific nuance.
+- Use a positive phrasing to describe what the person want to achieve directly, or a negative phrasing (almost always starting with 'Avoid') to describe what the person want to prevent. Focus on distinct aspects of the experience and add specific context.
+- Don't simply create opposing statements for the same concept (e.g., 'Be strong' and 'Avoid being weak'). Choose the phrasing that best captures the specific nuance.
 
 Process:
 - Consider the segments presented at the top.

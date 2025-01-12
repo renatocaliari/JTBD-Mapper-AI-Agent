@@ -22,6 +22,11 @@ Workflow and Documentation Management:
 Purpose: Steps to follow as a roadmap and progress tracker.
 Update: After completing each step inside the project roadmap, ALWAYS set the step [ ] as done [X], with X. If the user has indicated in `roadmap_docs\user_options.md` they want to bypass confirmation and preference steps, it will be containing the text "Bypass confirmation and preference steps: true", then mark those steps with "[-]" instead of "[X]" when reaching them, selecting the Default option and going to the next step.
 Content: Steps to follow, with checkboxes to mark completion.
+Rules:
+- Always read the instruction file inside prompts_docs as your specific prompt to execute each step and generate the proper result in the project folder.
+- Use the table in the project_roadmap as your roadmap and do not change the steps.
+- Always mark a step as done [X] or skipped/default [-] before proceeding to the next step.
+- Generate result files for each step only when the step is executed.
 
 ### user_options.md
 Purpose: Save the preferences of the user.

@@ -1,9 +1,3 @@
-Rules:
-- Always read the instruction file inside prompts_docs as your specific prompt to execute each task and generate the proper result in the project folder.
-- Use the table below as your roadmap and do not change the steps.
-- Generate result files only when the relevant step is reached.
-
-Roadmap with all steps:
 | Done? | Step | Customm prompt: File to read | Result: File to generate | Sub-Tasks |
 |---|---|---|---|---|
 | [ ] | Bypass user preference steps? | none | none | 1. Ask the user if they prefer to answer steps that ask for select options or confirmation, or if they would rather have the process map automatically from start to finish without further input selecting always thez default option. Show as a list of options in new lines: "1. 🛠️ Manual 2. 🤖 Automatic". 2. Store it in `user_options.md` as: "Bypass confirmation and preference steps: {true/false}" and check it in the following steps. If the user has indicated they want to bypass confirmation and preference steps, then mark those steps with "[-]" instead of "[X]" when reaching them, and do not execute them.|

@@ -141,6 +141,6 @@ The image below was created after mapping the "listen music" Job To Be Done.
 
 On the left side is the area where the AI interacts with us through the Cline interface, a VS Code extension. 
 
-You can see the result of this mapping, without any human editing, in the GitHub directory [`example/jtbd/listen to music`](https://github.com/renatocaliari/JTBD-Mapper-AI-Agent/tree/main/example/jtbd/listen%20to%20music).
+You can see the result of this mapping in the GitHub directory [`example/jtbd/listen to music`](https://github.com/renatocaliari/JTBD-Mapper-AI-Agent/tree/main/example/jtbd/listen%20to%20music).
 
 ![image](https://github.com/user-attachments/assets/41b0decc-3948-4a14-9611-adcb9c6716e4)

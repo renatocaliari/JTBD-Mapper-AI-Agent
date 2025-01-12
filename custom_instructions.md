@@ -20,8 +20,8 @@ Workflow and Documentation Management:
 
 ### project_roadmap.md - Proccess Step by Step
 Purpose: Steps to follow as a roadmap and progress tracker.
-Update: Always after completing each step inside the project roadmap, set the original step [ ] as done [X], with X. If the user has indicated they want to bypass confirmation and preference steps, the file `roadmap_docs\user_options.md` will be containing the text "Bypass confirmation and preference steps: true", then mark those steps with "[-]" instead of "[X]" when reaching them, and do not execute them, selecting the Default option.
-Content: Steps to follow, with checkboxes for completion.
+Update: After completing each step inside the project roadmap, ALWAYS set the step [ ] as done [X], with X. If the user has indicated in `roadmap_docs\user_options.md` they want to bypass confirmation and preference steps, it will be containing the text "Bypass confirmation and preference steps: true", then mark those steps with "[-]" instead of "[X]" when reaching them, selecting the Default option and going to the next step.
+Content: Steps to follow, with checkboxes to mark completion.
 
 ### user_options.md
 Purpose: Save the preferences of the user.
@@ -30,7 +30,7 @@ Relation: Should explicitly reference the options user selected or answered.
 Content: Answers of the user.
 
 # Adaptive Workflow
-- At the beginning of every step, read the essential documents in this order: project_roadmap.md (for high-level context and goals, and to use the proper instruction file for each step) and user_options.md (for user's preferences). After performing each step, update the documents.
+- At the beginning of every step, read the essential documents in this order: project_roadmap.md (for all steps to follow) and user_options.md (for user's preferences). After performing each step, always update the documents.
 - If you try to read or edit another document or file before reading these, something BAD will happen.
 - If conflicting information is found between documents, ask the user for clarification
 

@@ -1,0 +1,28 @@
+- Metrics - Systemic Health:
+    -   Music streaming services:
+        -   Leading: Number of new subscriptions from commuters (0-1000 per day), Average daily listening time during commute (15-45 minutes), Number of playlists created for commuting (10-100 per day)
+        -   Lagging: Monthly churn rate of commuter subscribers (0-5%), Commuter satisfaction score (4-5 out of 5), Revenue from commuter subscriptions ($1000-$10000 per month)
+    -   Radio stations:
+        -   Leading: Number of commuters tuning in during commute hours (1000-10000), Number of app downloads by commuters (10-100 per day), Number of social media mentions by commuters (10-100 per day)
+        -   Lagging: Commuter listenership during commute hours (10-50%), Commuter satisfaction score (4-5 out of 5), Revenue from commuter-related ads ($500-$5000 per month)
+    -   Public transportation providers:
+        -   Leading: Number of commuters using public transport during commute hours (1000-10000), Number of positive feedback about music options (10-100 per day), Number of app downloads by commuters (10-100 per day)
+        -   Lagging: Commuter satisfaction score (4-5 out of 5), On-time arrival rate during commute hours (90-100%), Number of complaints about noise levels (0-10 per day)
+    -   Advertisers targeting commuters:
+        -   Leading: Number of ad impressions during commute hours (10000-100000), Click-through rate of ads targeting commuters (0.1-1%), Number of ad engagements by commuters (100-1000 per day)
+        -   Lagging: Conversion rate of ads targeting commuters (0.01-0.1%), Revenue from ads targeting commuters ($100-$1000 per month), Brand awareness among commuters (10-50%)
+    -   Headphone manufacturers:
+        -   Leading: Number of headphones sold to commuters (10-100 per day), Number of positive reviews from commuters (10-100 per day), Number of social media mentions by commuters (10-100 per day)
+        -   Lagging: Commuter satisfaction score (4-5 out of 5), Market share of commuter headphones (10-50%), Revenue from commuter headphone sales ($1000-$10000 per month)
+    -   Coffee shops near commute routes:
+        -   Leading: Number of commuters visiting during commute hours (100-1000 per day), Number of coffee cups sold to commuters (100-1000 per day), Number of app downloads by commuters (10-100 per day)
+        -   Lagging: Commuter satisfaction score (4-5 out of 5), Revenue from commuter sales ($500-$5000 per month), Customer retention rate among commuters (10-50%)
+    -   People who prefer silence on public transport:
+        -   Leading: Number of complaints about noise levels (0-10 per day), Number of requests for quiet zones (0-10 per day), Number of negative social media mentions about noise (0-10 per day)
+        -   Lagging: Satisfaction score with noise levels (1-2 out of 5), Number of people avoiding public transport due to noise (0-10%), Number of people using noise-canceling devices (10-50%)
+    -   People who are sensitive to noise during commute:
+        -   Leading: Number of complaints about noise levels (0-10 per day), Number of requests for quiet zones (0-10 per day), Number of negative social media mentions about noise (0-10 per day)
+        -   Lagging: Satisfaction score with noise levels (1-2 out of 5), Number of people avoiding public transport due to noise (0-10%), Number of people using noise-canceling devices (10-50%)
+    -   People who are not interested in music during commute:
+        -   Leading: Number of complaints about music (0-10 per day), Number of requests for no music zones (0-10 per day), Number of negative social media mentions about music (0-10 per day)
+        -   Lagging: Satisfaction score with music options (1-2 out of 5), Number of people avoiding public transport due to music (0-10%), Number of people using their own devices (10-50%)

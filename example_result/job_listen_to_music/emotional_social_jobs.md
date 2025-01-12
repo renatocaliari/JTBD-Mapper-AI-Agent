@@ -1,0 +1,32 @@
+### Emotional Jobs:
+  - Feel relaxed during the commute.
+  - Feel energized for the day ahead.
+  - Feel entertained during the commute.
+  - Feel calm despite traffic.
+  - Feel focused on the journey.
+  - Avoid feeling bored during the commute.
+  - Avoid feeling stressed by the commute.
+  - Avoid feeling isolated during the commute.
+  - Avoid feeling frustrated by delays.
+  - Avoid feeling anxious about arriving late.
+### Social Jobs:
+  - Be perceived as someone who is prepared for the day.
+  - Be perceived as someone who is in control of their time.
+  - Be perceived as someone who is enjoying their commute.
+  - Avoid being perceived as someone who is stressed or rushed.
+  - Avoid being perceived as someone who is bored or disengaged.
+  - Connect with others through shared music experiences.
+  - Avoid feeling disconnected from the world during the commute.
+  - Belong to a community of music lovers.
+  - Avoid being perceived as someone who is out of touch with current trends.
+  - Be perceived as someone who is making the most of their commute.
+  - Avoid being perceived as someone who is wasting their time.
+  - Be perceived as someone who is efficient and organized.
+  - Avoid being perceived as someone who is unprepared.
+  - Be perceived as someone who is positive and upbeat.
+  - Avoid being perceived as someone who is negative or complaining.
+  - Be perceived as someone who is knowledgeable about music.
+  - Avoid being perceived as someone who is ignorant about music.
+  - Be perceived as someone who is stylish and trendy.
+  - Avoid being perceived as someone who is out of style.
+  - Be perceived as someone who is confident and self-assured.

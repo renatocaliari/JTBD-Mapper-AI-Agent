@@ -20,7 +20,7 @@
 - Ensure music is available in a variety of languages.
 - Ensure music is available in a variety of formats.
 
-## Final Result:
+## Final Result without Job Steps (the user requested focus on success criteria only, without the steps):
 - Ensure music plays without interruptions during the commute: Music should play smoothly without buffering or dropouts.
   - Metrics: Number of interruptions per commute should be less than 1.
   - Current solutions: Downloading music for offline listening (Spotify Premium, Apple Music), using reliable streaming services.

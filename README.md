@@ -136,11 +136,7 @@ Error content:
 - 🇺🇸 For more information on Jobs To Be Done, check out the [free e-book "Estratégia e Inovação baseadas em Jobs To Be Done" (Jobs To Be Done: Strategy and Innovation)](https://calirenato82.substack.com/p/e-book-jobs-to-be-done-em-portugues) (in Brazilian Portuguese, but you can translate it with Google Translate).
 - 🇧🇷 Para mais informações sobre Jobs To Be Done, consulte o [e-book gratuito Estratégia e Inovação baseadas em Jobs To Be Done](https://calirenato82.substack.com/p/e-book-jobs-to-be-done-em-portugues).
 
-# Images
+# Example
+You can see the result of a Job Mapping in the directory of this respository `/example/jtbd/listen to music`.
 
-![image](https://github.com/user-attachments/assets/3df8027b-b28a-4ffe-aed9-7a20d05cbd8e)
-
-![Screenshot 2024-12-20 14 14 04](https://github.com/user-attachments/assets/a804d740-7e51-4568-923a-c04d27670755)
-
-![Screenshot 2024-12-20 14 19 13](https://github.com/user-attachments/assets/f84ed0d1-2207-459b-aea4-673fcfe1c644)
-
+![image](https://github.com/user-attachments/assets/41b0decc-3948-4a14-9611-adcb9c6716e4)

@@ -1,7 +1,10 @@
 <table>
   <tr>
-    <th style="text-align:center"><strong>Support this project</strong></th>
-    <th style="text-align:center"><strong>Connect with me</strong></th>
+    <td colspan="2" style="text-align:center"><strong>👋 Hey! Cali from Brazil here! 🇧🇷</strong></td>
+  </tr>
+  <tr>
+    <th style="text-align:center">Support this project</th>
+    <th style="text-align:center">Connect with me</th>
   </tr>
   <tr>
     <td style="text-align:center; vertical-align:middle;">

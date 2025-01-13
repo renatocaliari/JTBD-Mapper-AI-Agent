@@ -7,7 +7,7 @@ Job to be done: [include here the market definition of the segment, if chosen by
 
 `<situational factors and variables>` [include here the list of factors and variables discovered in the previous step] `</situational factors and variables>`
 
-# Statement Rules: 
+# Statement Rules: 
 
  - Ensure that success criteria always start with "Ensure" or "Avoid", whichever is most appropriate. Use a positive phrasing to describe what the person want to achieve directly related to the financial aspect, or a negative phrasing (almost always starting with 'Avoid') to describe what the person want to prevent related to the financial aspect, mentioning the financial aspect and justifying. Focus on distinct financial aspects and add specific context. IMPORTANT: Don't simply create opposing statements (Ensure and Avoid) for the same concept. 
 - Ensure that every financial succes criteria is a financial desired outcome to reach the job to be done with financial success. Focus exclusively on the decision-maker financial desired outcomes, describing the ideal conditions, without prescribing how this should be done.  

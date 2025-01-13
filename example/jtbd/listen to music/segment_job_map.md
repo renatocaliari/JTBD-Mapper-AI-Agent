@@ -1,53 +1,49 @@
 ## 20 Raw Success Criteria:
-- Ensure music plays without interruptions during the commute.
-- Ensure music volume is adjustable to suit the environment.
-- Ensure headphones are comfortable for the duration of the commute.
-- Avoid music that is too distracting for the commute.
-- Ensure music is available offline for areas with poor connectivity.
-- Ensure music is easily accessible on the chosen device.
-- Avoid music that is too loud for public transport.
-- Ensure music is appropriate for the time of day.
-- Ensure music is suitable for the commute environment.
-- Ensure music helps to pass time during the commute.
-- Ensure music helps to reduce stress during the commute.
-- Ensure music helps to improve mood during the commute.
-- Ensure music helps to prepare for the day ahead.
-- Ensure music helps to unwind after work.
-- Ensure music is compatible with the chosen device.
-- Ensure music is compatible with the chosen headphones.
-- Ensure music is easily searchable and discoverable.
-- Ensure music is available in a variety of genres.
-- Ensure music is available in a variety of languages.
-- Ensure music is available in a variety of formats.
+* Ensure music plays continuously.
+* Avoid unexpected interruptions to music playback.
+* Ensure consistent audio quality.
+* Avoid distortion of music audio.
+* Ensure comfortable listening volume.
+* Avoid excessive ambient noise.
+* Ensure the music device functions reliably.
+* Avoid device malfunction during the commute.
+* Ensure easy control of music playback.
+* Avoid difficulty adjusting volume or changing tracks.
+* Ensure music matches the desired mood.
+* Avoid music that clashes with current emotional state.
+* Ensure music reduces stress.
+* Avoid music that increases anxiety.
+* Ensure music helps pass time.
+* Avoid music that makes time feel longer.
+* Ensure music enhances the commute experience.
+* Avoid music that detracts from the commute.
+* Ensure music remains accessible throughout the commute.
+* Avoid music being unavailable due to technical issues.
 
 ## Final Result without Job Steps (the user requested focus on success criteria only, without the steps):
-- Ensure music plays without interruptions during the commute: Music should play smoothly without buffering or dropouts.
-  - Metrics: Number of interruptions per commute should be less than 1.
-  - Current solutions: Downloading music for offline listening (Spotify Premium, Apple Music), using reliable streaming services.
-- Ensure music volume is adjustable to suit the environment: The volume should be easily adjustable to match the noise level of the commute.
-  - Metrics: Volume adjustment should be possible within 2 seconds.
-  - Current solutions: Headphones with volume controls, music apps with volume sliders.
-- Ensure headphones are comfortable for the duration of the commute: Headphones should be comfortable to wear for the entire commute.
-  - Metrics: Commuter should report a comfort level of 4 or 5 out of 5 after a 30-minute commute.
-  - Current solutions: Ergonomic headphones (Bose, Sony), over-ear headphones, in-ear headphones with multiple tips.
-- Avoid music that is too distracting for the commute: Music should not interfere with the ability to focus on the commute.
-  - Metrics: Commuter should report a distraction level of 1 or 2 out of 5.
-  - Current solutions: Choosing instrumental music, avoiding high-energy music, using focus playlists.
-- Ensure music is available offline for areas with poor connectivity: Music should be available even without a stable internet connection.
-  - Metrics: Music should be available offline for at least 90% of the commute.
-  - Current solutions: Downloading music for offline listening (Spotify Premium, Apple Music), using local music files.
-- Ensure music is easily accessible on the chosen device: Music should be easily accessible on the device used for the commute.
-  - Metrics: Music should be accessible within 3 taps on the device.
-  - Current solutions: Music apps with easy navigation (Spotify, Apple Music), using shortcuts.
-- Ensure music is appropriate for the time of day: Music should be suitable for the time of day and the commute.
-  - Metrics: Commuter should report a suitability level of 4 or 5 out of 5.
-  - Current solutions: Using time-based playlists, choosing music that matches the mood.
-- Ensure music helps to reduce stress during the commute: Music should help to reduce stress and anxiety during the commute.
-  - Metrics: Commuter should report a stress level of 1 or 2 out of 5 after the commute.
-  - Current solutions: Using calming playlists, choosing relaxing music.
-- Ensure music helps to improve mood during the commute: Music should help to improve the mood during the commute.
-  - Metrics: Commuter should report a mood level of 4 or 5 out of 5 after the commute.
-  - Current solutions: Using upbeat playlists, choosing music that is enjoyable.
-- Ensure music is compatible with the chosen headphones: Music should be compatible with the chosen headphones.
-  - Metrics: Music should play without distortion or compatibility issues.
-  - Current solutions: Using headphones that are compatible with the device, using standard audio formats.
+
+Ensure music plays continuously: This ensures uninterrupted listening pleasure during the commute, fulfilling the desire to pass time and potentially reduce stress.
+* Metrics: Measure the number of instances music stops unexpectedly during a commute. Track the duration of any interruptions. Calculate the percentage of commute time with uninterrupted music playback. Example: 99% of commute time with uninterrupted playback.
+* Current solutions: Physical (wired headphones), Virtual (music streaming apps with offline download features like Spotify Premium, Apple Music), 
+Procedural (downloading music before commute, ensuring device is charged).
+
+Avoid excessive ambient noise: This addresses the need to focus on the music and effectively reduce stress, especially in noisy environments like public transport.
+
+* Metrics: Measure the ambient noise level (in decibels) during the commute. Track the user's perceived level of noise interference with music listening (e.g., using a rating scale). Compare perceived noise interference with and without noise-canceling solutions. Example: Ambient noise does not exceed 70dB and user reports minimal interference while using noise cancelling headphones.
+* Current solutions: Physical (noise-canceling headphones from brands like Bose, Sony, Apple), Virtual (noise reduction features in some music apps), Procedural (choosing quieter commute times or locations on public transport).
+
+Ensure easy control of music playback: This allows for quick adjustments to volume, track selection, and other settings without significant disruption to the commute or requiring undue attention.
+
+* Metrics: Measure the time it takes to perform basic playback actions (e.g., changing volume, skipping tracks). Track the number of accidental button presses or incorrect inputs. Example: User can adjust volume with a single button press without looking at the device.
+* Current solutions: Physical (headphones with in-line controls, smartwatches), Virtual (voice control features in music apps), Procedural (creating playlists in advance).
+
+Ensure music matches the desired mood: This addresses the core desire for music to enhance the commute experience, whether by energizing for the day or relaxing after work.
+
+* Metrics: Use surveys or self-reporting scales to assess the user's mood before, during, and after the commute. Correlate mood changes with the type of music listened to. Example: 80% of commutes result in a self-reported improvement in mood after listening to chosen playlist.
+* Current solutions: Virtual (music streaming services with mood-based playlists like Spotify's "Mood" playlists, Apple Music's "For You" mixes), Procedural (creating personalized playlists based on genre, tempo, or lyrical content).
+
+Ensure music remains accessible throughout the commute: This directly addresses the potential for technical issues to disrupt the listening experience, ensuring the user can consistently rely on music for its intended purpose.
+
+* Metrics: Measure the frequency of technical issues that prevent music playback (e.g., app crashes, device malfunctions, loss of internet connection). Track the duration of any downtime. Example: Music is accessible for 99.9% of the commute.
+* Current solutions: Physical (fully charged devices, offline music storage on devices), Virtual (music streaming apps with offline playback features, reliable data plans), Procedural (downloading music before commute, checking device functionality before departure).
+

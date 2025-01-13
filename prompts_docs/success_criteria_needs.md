@@ -10,7 +10,7 @@ Job to be done: [include here the market definition of the segment, if chosen by
  #  Statement Rules: 
 
  - Ensure that success criteria always start with "Ensure" or "Avoid", whichever is most appropriate. Use a positive phrasing to describe what the person want to achieve directly, or a negative phrasing (almost always starting with 'Avoid') to describe what the person want to prevent. Focus on distinct aspects of the experience and add specific context. IMPORTANT: Don't simply create opposing statements (Ensure and Avoid) for the same concept. 
-- Ensure that every succes criteria is a desired outcome to reach the job to be done with success and measure that succes. NEVER specify solutions, products, brands, technologies, or methods in the success criteria statements, unless directly mentioned in the Job to be done OR makret of the segment. Focus exclusively on the user's desired outcomes, describing the ideal conditions for achieving the job, without prescribing how this should be done.  
+- Ensure that every succes criteria is a desired outcome to reach the job to be done with success and measure that success. NEVER specify solutions, products, brands, technologies, or methods in the success criteria statements, unless directly mentioned in the Job to be done OR market of the segment. Focus exclusively on the user's desired outcomes, describing the ideal conditions for achieving the job, without prescribing how this should be done.  
  - Each criterion should be Specific, Objectively Measurable and Actionable. 
  - Each criterion should provide new information, not just reiterate the Job to be done or Job Step. 
  - DO NOT use conjunctions ("and", "or", etc.). 

@@ -17,7 +17,7 @@ This document outlines the actors involved in a Job To Be Done, categorized by t
 *   **Performer:**
     *   Group of people (important: not solutions, devices or technologies) who perform the core action of the {{Job to be Done}}, especially when the Beneficiary cannot do it.
     *   The {{Job to be Done}} statement of the Performer must be identical to the Beneficiary's, with the addition of the context like 'for the benefit of [Beneficiary]' when the groups are distinct.
-    *   Remember: using a solution is not the same as executing the job to be done.
+    *   Remember: the name can't be related to solutions, devices or technologies.
     *   The focus should be on the core action that satisfies the Beneficiary's need.
 
 *   **Provider:**

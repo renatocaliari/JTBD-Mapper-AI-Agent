@@ -1,73 +1,67 @@
 ## Beneficiary
-### 🎧 Music listeners
-- Music listeners trying to listen to music
+### 🎧 Music Listeners
+- Music Listeners trying to listen to music
 
 ## Performer
-### 🎶 Music providers
-- Music providers trying to provide music
+### 🎧 Music Listeners
+- Music Listeners trying to listen to music for their own benefit
+
+## Provider
+### 🎶 Music Streaming Services, Record Labels, Audio Equipment Manufacturers
+- Music Streaming Services trying to provide access to music content
+- Record Labels trying to produce and distribute music
+- Audio Equipment Manufacturers trying to create devices for music playback
 
 ## Indirect Beneficiary
-### 🏢 Music venues
-- Music venues trying to benefit from music consumption
-### 📢 Advertisers
-- Advertisers trying to reach audiences through music
-### 🎸 Music instrument manufacturers
-- Music instrument manufacturers trying to sell music instruments
+### 💃 Dancers, Filmmakers, Advertisers
+- Dancers trying to use music for practice, performance, and inspiration
+- Filmmakers trying to enhance the emotional impact of their films with music
+- Advertisers trying to create engaging and memorable advertisements with music
 
 ## Threatened
-### 🤫 People who prefer silence
-- People who prefer silence trying to avoid noise
-### 👂 People who are sensitive to noise
-- People who are sensitive to noise trying to avoid loud sounds
-### 🙅 People who are not interested in music
-- People who are not interested in music trying to avoid music
+### 🤫 People in noise-sensitive environments (e.g., libraries, hospitals), Natural quietude (e.g., forests, remote areas), People with auditory sensitivities
+- People in noise-sensitive environments trying to avoid disturbance from unwanted noise pollution
+- Natural quietude trying to avoid disruption from music played in natural environments
+- People with auditory sensitivities trying to avoid discomfort or pain from loud music
 
 ## Assistant
-### 🎛️ Sound engineers
-- Sound engineers trying to assist in music production
-### 🎼 Music producers
-- Music producers trying to assist in music creation
-### 🎧 DJs
-- DJs trying to assist in music performance
+### 🧑‍🤝‍🧑 Friends sharing music, Smart speakers/Voice assistants, Curated playlist creators
+- Friends sharing music trying to suggest new artists or songs and create shared listening experiences
+- Smart speakers/Voice assistants trying to provide voice control for music playback and access to music libraries
+- Curated playlist creators trying to organize music into thematic or genre-based collections
 
 ## Decision Maker
-### 🎵 Music curators
-- Music curators trying to select music
-### 📝 Playlist creators
-- Playlist creators trying to organize music
-### 💼 Record label executives
-- Record label executives trying to manage music production
+### 🙋 Individuals, Families, Business owners
+- Individuals trying to decide what music to listen to and how to access it
+- Families trying to decide what music is appropriate for shared listening
+- Business owners trying to decide what music to play to create a specific atmosphere
 
 ## Purchaser
-### 💳 People who pay for music subscriptions
-- People who pay for music subscriptions trying to access music
-### 💿 People who buy music
-- People who buy music trying to own music
+### 💳 Individuals, Families, Businesses
+- Individuals trying to purchase music subscriptions, albums, or individual tracks
+- Families trying to purchase family music plans or shared devices
+- Businesses trying to purchase licenses for music to be played in their establishments
 
 ## Buyer
-### 🧑‍💻 People who listen to music
-- People who listen to music trying to access music
+### 🛍️ Individuals, Family members, Employees
+- Individuals trying to make the actual purchase of music subscriptions, albums, or devices
+- Family members trying to purchase music on behalf of other family members
+- Employees trying to purchase music licenses for their workplace
 
 ## Supervisor
-### ✍️ Music critics
-- Music critics trying to evaluate music
-### 📰 Music reviewers
-- Music reviewers trying to assess music
-### 🎬 Music supervisors
-- Music supervisors trying to oversee music use
+### 🧑‍💼 Parents (for children), Business managers (for public spaces), Event organizers
+- Parents trying to supervise children's music consumption
+- Business managers trying to oversee the music played in their establishments
+- Event organizers trying to manage music selection and volume at events
 
 ## Influencer
-### 🎤 Music bloggers
-- Music bloggers trying to influence music taste
-### 📰 Music critics
-- Music critics trying to influence music perception
-### 📱 Social media influencers
-- Social media influencers trying to promote music
+### 🎤 Musicians/Artists, Music critics/bloggers, Social media influencers
+- Musicians/Artists trying to influence music tastes
+- Music critics/bloggers trying to influence music choices
+- Social media influencers trying to influence music trends
 
 ## Expert
-### 📚 Music theorists
-- Music theorists trying to analyze music
-### 📜 Music historians
-- Music historians trying to document music
-### 🎼 Musicologists
-- Musicologists trying to study music
+### 🎼 Music producers, Audio engineers, Musicologists
+- Music producers trying to apply deep knowledge about recording, mixing, and mastering
+- Audio engineers trying to apply deep knowledge about sound systems and acoustics
+- Musicologists trying to apply deep knowledge about the history, theory, and cultural significance of music

@@ -20,7 +20,7 @@ Job to be done: [include here the market definition of the segment, if chosen by
 - The result should be a bulleted list of several financial success criteria related to the job to be done. 
 
 # Prioritization Rules:
-
+Prioritize based on the highest composite score. 
 Use a composite score to prioritize criteria, based on evaluating each criterion on the following (scale 1 to 5):
 - Investment: The resources required (time, money, skills, people, or multiple solutions).
 - Outcome Variability: The difficulty in achieving consistent outcomes with the criterion (5 = very difficult to achieve consistent outcomes).
@@ -28,6 +28,8 @@ Use a composite score to prioritize criteria, based on evaluating each criterion
 - Consequence Severity (Job): The harm of not meeting the criterion.
 
 Composite Score = (Outcome Enhancement (Job) + Consequence Severity (Job)) * (Investment + Outcome Variability)
+
+
 # Process for Generating Criteria:
 
 - Imagine yourself as the financial decision-maker (using the first person singular) performing the {job step} (if provided) to complete the {job to be done} taking into account the interconnection of diverse and specific situational factors and variables.

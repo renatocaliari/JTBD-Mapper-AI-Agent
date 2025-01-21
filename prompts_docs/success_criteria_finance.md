@@ -1,4 +1,4 @@
-Goal: Identify specific and actionable financial success criteria when performing a "job to be done".
+Goal: Identify specific and actionable financial success criteria when performing the job to be done below.
 Context:
 Job to be done: [include here the market definition of the segment, if chosen by the user, or job to be done mapped] 
 <segment: all info>
@@ -9,15 +9,15 @@ Job to be done: [include here the market definition of the segment, if chosen by
 
 # Statement Rules: 
 
- - Ensure that success criteria always start with "Ensure" or "Avoid", whichever is most appropriate. Use a positive phrasing to describe what the person want to achieve directly related to the financial aspect, or a negative phrasing (almost always starting with 'Avoid') to describe what the person want to prevent related to the financial aspect, mentioning the financial aspect and justifying. Focus on distinct financial aspects and add specific context. IMPORTANT: Don't simply create opposing statements (Ensure and Avoid) for the same concept. 
-- Ensure that every financial succes criteria is a financial desired outcome to reach the job to be done with financial success. Focus exclusively on the decision-maker financial desired outcomes, describing the ideal conditions, without prescribing how this should be done.  
- - Each criterion should be Specific, Objectively Measurable and Actionable. 
- - Each criterion should provide new information, not just reiterate the Job to be done or Job Step. 
- - DO NOT use conjunctions ("and", "or", etc.). 
- - Always avoid adjectives and adverbs. Avoid ambiguity. Use nouns and verbs. If you find it necessary to use an adjective, compare it to something concrete instead of using it in isolation. This helps to make the meaning clearer. Example: Instead of "Ensure a loud sound", it could be "Avoid hearing ambient noise" as the desired outcome may not be a loud sound.  
- - Beware of comparisons. Example: "Ensure the volume is higher than the ambient noise" fails to convey the desired outcome, so you should ignore and state as "Avoid hearing ambient noise" as the desired outcome.  
- - Criteria must be mutually exclusive, collectively exhaustive and non-redundant. Avoid any redundancy among them.
- - The result should be a bulleted list of several financial success criteria. 
+- Ensure that success criteria always start with "Ensure" or "Avoid", whichever is most appropriate. Use a positive phrasing to describe what the person want to achieve directly related to the financial aspect, or a negative phrasing (almost always starting with 'Avoid') to describe what the person want to prevent related to the financial aspect, mentioning the financial aspect and justifying. Focus on distinct financial aspects and add specific context. IMPORTANT: Don't simply create opposing statements (Ensure and Avoid) for the same concept. 
+- Ensure that every financial succes criteria is a financial desired outcome to reach the job to be done with financial success. Focus exclusively on the decision-maker financial desired outcomes, contextualizing and describing the ideal conditions, without prescribing how this should be done.  
+- Each criterion should be Specific, Objectively Measurable and Actionable. 
+- Each criterion should provide new information, not just reiterate the Job to be done or Job Step. 
+- DO NOT use conjunctions ("and", "or", etc.). 
+- Always avoid adjectives and adverbs. Avoid ambiguity. Use nouns and verbs. If you find it necessary to use an adjective, compare it to something concrete instead of using it in isolation. This helps to make the meaning clearer. Example: Instead of "Ensure a loud sound", it could be "Avoid hearing ambient noise" as the desired outcome may not be a loud sound.  
+- Beware of comparisons. Example: "Ensure the volume is higher than the ambient noise" fails to convey the desired outcome, so you should ignore and state as "Avoid hearing ambient noise" as the desired outcome.  
+- Criteria must be mutually exclusive, collectively exhaustive and non-redundant. Avoid any redundancy among them.
+- The result should be a bulleted list of several financial success criteria related to the job to be done. 
 
 # Prioritization Rules:
 

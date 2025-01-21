@@ -20,7 +20,7 @@ Job to be done: [include here the market definition of the segment, if chosen by
 - The result should be a bulleted list of several success criteria.
 
 # Prioritization Rules:
-
+Prioritize based on the highest composite score. 
 Use a composite score to prioritize criteria, based on evaluating each criterion on the following (scale 1 to 5):
 - Investment: The resources required (time, money, skills, people, or multiple solutions).
 - Outcome Variability: The difficulty in achieving consistent outcomes with the criterion (5 = very difficult to achieve consistent outcomes).

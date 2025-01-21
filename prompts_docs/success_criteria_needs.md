@@ -1,4 +1,4 @@
-Goal: Identify specific and actionable success criteria when performing a "job to be done".
+Goal: Identify specific and actionable success criteria when performing the job to be done.
 Context:
 Job to be done: [include here the market definition of the segment, if chosen by the user, or job to be done mapped] 
 <segment: all info>

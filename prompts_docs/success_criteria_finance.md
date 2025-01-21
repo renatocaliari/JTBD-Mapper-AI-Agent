@@ -21,31 +21,33 @@ Job to be done: [include here the market definition of the segment, if chosen by
 
 # Prioritization Rules:
 
-Order the success criteria based on the following factors:
+Use a composite score to prioritize criteria, based on evaluating each criterion on the following (scale 1 to 5):
+- Investment: The resources required (time, money, skills, people, or multiple solutions).
+- Outcome Variability: The difficulty in achieving consistent outcomes with the criterion (5 = very difficult to achieve consistent outcomes).
+- Outcome Enhancement (Job): The benefits of meeting the criterion.
+- Consequence Severity (Job): The harm of not meeting the criterion.
 
-- Lowest current satisfaction with the criterion outcome
-- Greatest positive impact when the criterion is met
-- Greatest negative impact when the criterion is not met
-- Largest current investment required to satisfy the criterion (time, money, skills, people, solutions)
-- Lowest current accuracy to satisfy the criterion
+Composite Score = (Outcome Enhancement (Job) + Consequence Severity (Job)) * (Investment + Outcome Variability)
+# Process for Generating Criteria:
 
-#  Process for Generating Criteria:
 - Imagine yourself as the financial decision-maker (using the first person singular) performing the {job step} (if provided) to complete the {job to be done} taking into account the interconnection of diverse and specific situational factors and variables.
-- From this, discover at least 20 financial success criteria statements by answering the question: "What needs to happen for me to successfully achieve the ideal financial outcome and avoid frustration considering the situational factors and variables?". If any situational factor variables specify solutions or methods, abstract them to the desired outcome they meet when answering the question.
+- From this, discover at least 30 financial success criteria statements by answering the question: "What needs to happen for me to successfully achieve the ideal financial outcome and avoid frustration considering the situational factors and variables?". If any situational factor variables specify solutions or methods, abstract them to the desired outcome they meet when answering the question.
 - Ensure to follow all Statement Rules. 
 - Following the priotization rules, filter to maximum 10 and give details mentioned in the Template as the final result.
 
 `<Template of the output>`
-## 20 Raw Success Criteria:
+## 30 Raw Success Criteria:
 
 -
 
 ## Final Result:
-- {Detailed success criterion}: {brief explanation}
-  - Metrics: {detailed count, proportion or average metrics with explanation of how to measure}
-  - Current solutions: {types of existing solutions (mental, physical, virtual, procedural or methodological)  with examples of specific existing product-brands to use}
-- {Detailed success criterion}: {brief explanation}
-  - Metrics: {detailed count, proportion or average metrics with explanation of how to measure}
-  - Current solutions: {types of existing solutions (mental, physical, virtual, procedural or methodological) with examples of specific existing product-brands to use}
+- {#Current criteria/#Total Criteria, e.g.: 1/10} {Detailed success criterion}: {brief explanation}
+- Reasoning: {composition score and reasoning about the composition score}
+- Metrics: {detailed count, proportion or average metrics with explanation of how to measure}
+- Current solutions: {types of existing solutions (mental, physical, virtual, procedural or methodological) with examples of specific existing product-brands to use}
+- {#Current criteria/#Total Criteria, e.g.: 1/10} {Detailed success criterion}: {brief explanation}
+- Reasoning: {composition score and reasoning about the composition score}
+- Metrics: {detailed count, proportion or average metrics with explanation of how to measure}
+- Current solutions: {types of existing solutions (mental, physical, virtual, procedural or methodological) with examples of specific existing product-brands to use}
 
 `</Template of the result>`

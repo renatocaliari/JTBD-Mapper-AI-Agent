@@ -23,7 +23,7 @@ Job to be done: [include here the market definition of the segment, if chosen by
 - Criteria must be mutually exclusive, collectively exhaustive and non-redundant. Avoid any redundancy among them.
 - The result should be a bulleted list of several success criteria.
 
-# Prioritization Rules for the final result:
+# Composite Score for Prioritization:
 Use a composite score to prioritize criteria, based on evaluating each criterion on the following (scale 1 to 5):
 - Investment: The resources required (time, skills, people and multitude of additional solutions required beyond the existing solution to meet the criteria) with currently existing unique solutions.
 - Outcome Variability: The difficulty in achieving consistent outcomes with the criterion (5 = very difficult to achieve consistent outcomes).

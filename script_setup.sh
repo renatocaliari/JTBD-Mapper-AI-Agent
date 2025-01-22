@@ -32,10 +32,11 @@ FILES=(
     "prompts_docs/actors.md"
     "prompts_docs/job_steps.md"
     "prompts_docs/job_factors.md"
-    "prompts_docs/related_jobs.md"
+    "prompts_docs/adjacent_jobs.md"
+    "prompts_docs/emotional_social_jobs.md"
     "prompts_docs/segments.md"
+    "prompts_docs/actors_metrics.md"
     "prompts_docs/success_criteria_needs.md"
-    "prompts_docs/success_criteria_finance.md"
 )
 
 # Loop to download each file

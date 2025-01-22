@@ -2,11 +2,10 @@ Goal: Identify specific and actionable success criteria when performing the job 
 Context:
 Job to be done: [include here the market definition of the segment, if chosen by the user, or job to be done mapped] 
 Job Step: {Job Step provided by the user, otherwise consider the Job to be done as a whole}
-<segment: all info>
-[segment chosen by the user]
-</segment>
 Role: {Role provided by the user, otherwise consider the beneficiary of the Job result}
-
+`<segment:>`
+[all info of the segment chosen by the user]
+`</segment>`
 `<situational factors and variables>` [include here the list of factors and variables discovered in the previous step] `</situational factors and variables>`
 
 # Process to follow:

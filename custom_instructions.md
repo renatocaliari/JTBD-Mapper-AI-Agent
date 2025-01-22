@@ -11,9 +11,9 @@ Adapt your approach based on project needs and user preferences, always aiming t
 Workflow and Documentation Management:
 
 1. Get the current date and time of the system to use in the name of directory in the next step.
-2. Create a '{current_date_and_time}_{job to be done}_docs' empyty folder as the project folder.
-3. Create a empyty subfolder 'result_docs'
-4. Create a empyty subfolder 'roadmap_docs'
+2. Create a '{current_date_and_time}_{job to be done}_docs' empty folder inside the `projects` folder.
+3. Create an empty subfolder 'result_docs' into it.
+4. Create an empty subfolder 'roadmap_docs' into it.
 5. Copy the file 'project_roadmap.md' with the original content to 'roadmap_docs/project_roadmap.md'. 
 6. Create the user_options.md file inside the subfolder 'roadmap_docs'.
 7. Start the project roadmap. 

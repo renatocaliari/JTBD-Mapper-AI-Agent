@@ -93,6 +93,17 @@ curl https://raw.githubusercontent.com/renatocaliari/JTBD-Mapper-AI-Agent/main/s
 ## Free
 You can use other providers to try different LLMs, like:
 
+### mistral
+To try Codestral 25.01 - from Mistral - free of charge, create an API key at `https://console.mistral.ai/api-keys/`. 
+
+**It's important to know: **
+Codestral 25.01 is specialized in tasks related to code generation and assistance, with a focus on improving developer productivity. However, it can function reasonably well for you to experiment with this agent.
+
+Then, in Cline's settings, configure the provider to 'Mistral'. 
+
+And paste your new api key in the Mistral Api Key.
+
+
 ### glhf.chat: Qwen and Llama
 To try Llama 3.3 or Qwen 2.5 free of charge, create an API key at `https://glhf.chat/users/settings/api`. 
 

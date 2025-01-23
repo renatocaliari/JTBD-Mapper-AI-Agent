@@ -18,8 +18,8 @@ Role: {Role provided by the user, otherwise consider the beneficiary of the Job 
 - Now, calculate the score based on the composite score, and order the success criteria by the highest to the lowest total score and filter only the top 10.
 
 # Statement Rules:
-
-- Ensure that success criteria always start with "Ensure" or "Avoid", whichever is most appropriate to the context. Use a positive phrasing to describe what the person want to achieve directly, or a negative phrasing (almost always starting with 'Avoid') to describe what the person want to prevent. Focus on distinct aspects of the experience and add specific context. IMPORTANT: Don't simply create opposing statements (Ensure and Avoid) for the same final desired outcome.
+- Use a positive phrasing to describe what the person want to achieve directly, or a negative phrasing (almost always starting with 'Avoid') to describe what the person want to prevent.
+- Focus on distinct aspects of the experience and add specific context. But DO NOT create opposing statements for the same desired outcome (e.g. breaking the rule, 'Be strong' and 'Avoid being weak'). Choose the phrasing that best captures the specific nuance.
 - Ensure that every success criteria is a desired outcome in the Role perspective and context to reach the job to be done with success and measure that success. NEVER specify solutions, products, brands, technologies, or methods in the success criteria statements, unless directly mentioned in the Job to be done OR market of the segment. Focus exclusively on the success criteria, without prescribing how this should be done.
 - Each criterion should be Specific, Objectively Measurable and Actionable.
 - Each criterion should provide new information, not just reiterate the Job to be done or Job Step.

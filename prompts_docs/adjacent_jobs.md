@@ -23,7 +23,7 @@ Important General RULES for all the jobs to be done statements:
 Specific Rules for the [Adjacent Jobs]:
 1. They are jobs that can be done in the same context as the {{Variable}}, but they are NOT the same job as the {{Variable}}. They occur right before, in parallel, or right after the {{Variable}} because of the similar situational factors.
 2. They must be completely independent and separate from the {{Variable}}. They don't depend on the {{Variable}} to happen or be completed, and is not part of the process itself when trying to {{Variable}}. They that can't be classified as a step towards the success of {{Variable}}, or an action in the {{Variable}}, or a desired outcome or success criteria of {{Variable}}, or as a Higher Functional Job of the {{Variable}}.
-3. They don't start with the same sentence as the {{Variable}} adding only a context at the end. They are themselves a complete new sentence.
+3. They don't start with the same statement as the {{Variable}} adding only a context at the end.
 3. Important: DISCARD, WITHOUT EXCEPTION, any Adjacent Job that break these rules.
 4. Give a justification for how the Adjacent Job is commonly adjacent to the same context of the {{Variable}} but does not break all these rules above.
 

@@ -15,13 +15,9 @@ Social Jobs:
 
 Statement rules for all statements: 
 - Use a positive phrasing to describe what the person want to achieve directly, or a negative phrasing (almost always starting with 'Avoid') to describe what the person want to prevent.
-- Focus on distinct aspects of the experience and add specific context. But DO NOT create opposing statements for the same desired outcome (e.g. breaking the rule, 'Be strong' and 'Avoid being weak'). Choose the phrasing that best captures the specific nuance.
+- Focus on distinct aspects of the experience and add specific context. But DO NOT create opposing statements for the same desired outcome (e.g. DO NOT use both, 'Be strong' and 'Avoid being weak'). Choose the phrasing that best captures the specific nuance.
 - Start the statements with imperative verbs. A statement is never just the verb, but rather a sentence.
 - DO NOT use conjunctions ("and", "or", etc.).
-
-Bad examples to avoid, breaking the rules (oppositing statements for the same desired outcome and using conjunctions):
-    - "Be perceived as dedicated and committed to fitness"
-    - "Avoid being perceived as lazy or unmotivated"
 
 Process:
 - Consider the segments presented at the top.

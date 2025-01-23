@@ -4,7 +4,6 @@ Context:
 - [include here the market definition of the segment as the job to be done, if chosen by the user, otherwise consider  the job to be done mapped itself] 
 - [if any Job Step is provided, include it at the start of the job to be done statement, like: {actor} trying to {Job Step} to {job to be done}]
 </Job to be done>
-Job Step: {Job Step provided by the user, otherwise consider the Job to be done as a whole}
 Role: {Role provided by the user, otherwise consider the beneficiary of the Job result}
 `<segment:>`
 [all info of the segment chosen by the user]

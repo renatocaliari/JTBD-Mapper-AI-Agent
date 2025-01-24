@@ -37,6 +37,7 @@ FILES=(
     "prompts_docs/segments.md"
     "prompts_docs/actors_metrics.md"
     "prompts_docs/success_criteria_needs.md"
+    "prompts_docs/switchers_quotes.md"
 )
 
 # Loop to download each file

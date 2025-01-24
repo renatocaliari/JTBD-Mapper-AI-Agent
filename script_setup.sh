@@ -38,6 +38,7 @@ FILES=(
     "prompts_docs/actors_metrics.md"
     "prompts_docs/success_criteria_needs.md"
     "prompts_docs/switchers_quotes.md"
+    "prompts_docs/solution_space_market_analysis.md"
 )
 
 # Loop to download each file

@@ -75,22 +75,25 @@ curl https://raw.githubusercontent.com/renatocaliari/JTBD-Mapper-AI-Agent/main/s
 4. [Download VS Code and install](https://code.visualstudio.com/download).
 5. Open VS Code.
 6. [Install the extension Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev).
-7. Open Cline's settings.
+7. Open Cline's settings, clicking on the gear icon. The icon is in the extension window, at the top on the left side.
+![image](https://github.com/user-attachments/assets/1c259022-daf1-4c9e-9eb7-65f0e189fa77)
+
+
 8. [Generate an API key in Google AI Studio](https://aistudio.google.com/app/apikey) to be able to use the LLM Google's Gemini for free.
      - Go to [Google AI Studio](https://aistudio.google.com/app/apikey).
      - Click on Create API Key.
      - Select the project "Generative Language Client" or any other with a free-of-charge plan.
      - Click on Create API key in existing project.
      - Click on Copy.
-10. Go back to Cline's settings and select "Google Gemini" as the API Provider.
-11. Paste the API key into the "Gemini API key" field. Then, select the "gemini-2.0-flash-thinking-exp-1219" model or a newer one, or any other you wish to try.
-12. Click the File menu and then Open Folder. Find the folder you ran the script in step 1 and open the folder "JTBD-Mapper-AI-Agent".
-13. Open the file custom_instructions.md and copy the content.
-14. Paste the content copied in step 5 into Cline's Custom Instructions configuration.
-15. Click DONE after finishing the settings.
-16. In the Cline chat, check "Auto-approve: ..."
-17. Then, intype a message like ```generate a job map for "xyz"``` and press Enter.
-18. Your maps will be generated within the `result_docs` subdirectory created by the agent in the main directory with this format: `{currentdate_and_time}_{job to be done}_docs`.
+9. Go back to Cline's settings and select "Google Gemini" as the API Provider.
+10. Paste the API key into the "Gemini API key" field. Then, select the "gemini-2.0-flash-thinking-exp-1219" model or a newer one, or any other you wish to try.
+11. Click the File menu and then Open Folder. Find the folder you ran the script in step 1 and open the folder "JTBD-Mapper-AI-Agent".
+12. Open the file custom_instructions.md and copy the content.
+13. Paste the content copied in step 5 into Cline's Custom Instructions configuration.
+14. Click DONE after finishing the settings.
+15. In the Cline chat, check "Auto-approve: ..."
+16. Then, intype a message like ```generate a job map for "xyz"``` and press Enter.
+17. Your maps will be generated within the `result_docs` subdirectory created by the agent in the main directory with this format: `{currentdate_and_time}_{job to be done}_docs`.
 
 # LLM Alternatives
 

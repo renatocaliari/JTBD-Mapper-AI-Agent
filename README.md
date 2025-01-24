@@ -53,7 +53,7 @@ It only asks questions to confirm options you want to proceed with to the next s
 
 1. Open your terminal. Search for "terminal" or "command prompt" on your computer and open the appropriate application.
 
-- Check if Git is installed: In your terminal, type `git --version` and press Enter. If some result
+- Check if Git is installed: In your terminal, type `git --version` and press Enter. If any result appears showing the git version, then you have git installed. Otherwise, you do not have it
 
 **If Git is installed:**
 

@@ -52,14 +52,18 @@ It only asks questions to confirm options you want to proceed with to the next s
 # Installation
 
 1. Open your terminal. Search for "terminal" or "command prompt" on your computer and open the appropriate application.
-2. Copy the repository.
 
-- Check if Git is installed: In your terminal, type `git --version` and press Enter.
+- Check if Git is installed: In your terminal, type `git --version` and press Enter. If some result
 
 **If Git is installed:**
 
-- Clone the repository: `git clone https://github.com/renatocaliari/JTBD-Mapper-AI-Agent.git`
-- Navigate to the cloned directory: `cd JTBD-Mapper-AI-Agent`
+- Clone the repository. Type it in the terminal:
+
+```git clone https://github.com/renatocaliari/JTBD-Mapper-AI-Agent.git```
+
+- Now, type the following command:
+
+```cd JTBD-Mapper-AI-Agent```
 
 **If Git is not installed (or if the git --version command doesn't work):**
 

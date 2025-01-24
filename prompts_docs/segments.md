@@ -5,10 +5,17 @@ Job to be done: [fill in with the market definition]
 {list here}
 `</factors and variables>`
 
-Define SIGNIFICANTLY different segments, interconnecting diverse and specific situational factors and variables, which most impact the outcome of the Job to be done.
+Process:
+1. List 20 possible segments, briefly showing only the name, market definition and justification, without further data.
+2. Filter or group into a maximum of 10 segments, ensuring that they are mutually exclusive, collectively exhaustive and non-redundant based on situational factors and variables. 
+3. Prioritize (not filter) the segments of the step 2 using the prioritization criteria.
+4. Display the final list following the rules below.
 
-The segments must be mutually exclusive, collectively exhaustive and non-redundant.
-Use the criteria below for prioritizing segments (the higher, the better, except for "Frequency" and "Barrier to Entry"):
+Rules:
+- Define SIGNIFICANTLY different segments, interconnecting diverse and specific situational factors and variables, which most impact the outcome of the Job to be done. Avoid any demographic segments, unless this is critically necessary and there is no other way to segment. Example of demographic factors to avoid
+    - Age, gender, income, education level, occupation, marital status, family size, geographic location, ethnicity, religion, company size, industry, annual revenue, number of employees, growth stage, business type, technology used, profession role, purchase volume, industry-specific needs.
+- The segments must be mutually exclusive, collectively exhaustive and non-redundant.
+- Use the criteria below for prioritizing segments (the higher, the better, except for "Frequency" and "Barrier to Entry"):
 
 | Criterion | Description | Evaluation |
 |-------------------|--------------------------------------------------------------------------------|------------|
@@ -19,12 +26,6 @@ Use the criteria below for prioritizing segments (the higher, the better, except
 | Ease of Reach | Ease of finding/segmenting the group. | Low/Medium/High |
 | Frequency | Frequency with which the Job is performed in the context. | Low/Medium/High |
 | Barrier to Entry | Restrictions on the entry of new companies in the market. | Low/Medium/High |
-
-Process:
-1. List 20 possible segments, briefly showing only the name, market definition and justification, without further data.
-2. Filter or group into a maximum of 10 segments, ensuring that they are mutually exclusive, collectively exhaustive and non-redundant based on situational factors and variables. 
-3. Prioritize (not filter) the segments of the step 2 using the prioritization criteria.
-4. Display the final list following the rules below.
 
 Rules for each segment:
 - Give each a representative name, easy for reference on a daily basis.

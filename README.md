@@ -74,11 +74,10 @@ It only asks questions to confirm options you want to proceed with to the next s
 
 **If Git is not installed (or if the git --version command doesn't work):**
 
+- Download the ZIP File from this repository: Click the green “Code” button, then click “Download ZIP.”
 - Navigate to the desired directory: Use the `cd` command to navigate to the directory where you want to copy. For example, `cd ~/Downloads/JTBD-Mapper-AI-Agent` and press Enter.
-- Run the following command: paste the following command into your terminal and press Enter:
-```
-curl https://raw.githubusercontent.com/renatocaliari/JTBD-Mapper-AI-Agent/main/script_setup.sh | bash
-```
+- Extract the ZIP File: Find the downloaded ZIP file, right-click, and select “Extract All…“.
+
 4. [Download VS Code and install](https://code.visualstudio.com/download).
 5. Open VS Code.
 6. [Install the extension Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev).

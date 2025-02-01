@@ -107,6 +107,14 @@ It only asks questions to confirm options you want to proceed with to the next s
 ## Free
 You can use other providers to try different LLMs, like:
 
+### together.ai: DeepSeek R1 Distill Llama 70b
+To try Codestral 25.01 - from Mistral - free of charge, create an API key at `https://api.together.ai/settings/api-keys`. 
+
+Then, in Cline's settings, configure the provider to 'OpenAI Compatible' and the Base URL to `https://api.together.xyz/v1`. 
+Paste `deepseek-ai/DeepSeek-R1-Distill-Llama-70B-free`.
+
+And paste your new api key in the Mistral Api Key.
+
 ### mistral
 To try Codestral 25.01 - from Mistral - free of charge, create an API key at `https://console.mistral.ai/api-keys/`. 
 

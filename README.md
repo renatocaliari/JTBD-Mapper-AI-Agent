@@ -94,13 +94,10 @@ It only asks questions to confirm options you want to proceed with to the next s
 9. Go back to Cline's settings and select "Google Gemini" as the API Provider.
 10. Paste the API key into the "Gemini API key" field. Then, select the "gemini-2.0-flash-thinking-exp-1219" model or a newer one, or any other you wish to try.
 11. Click the File menu and then Open Folder. Find the folder you ran the script or cloned the repository and click to open the folder "JTBD-Mapper-AI-Agent".
-12. Open the file custom_instructions.md and copy the content.
-13. Still in the Cline settings, paste that content into **Custom Instructions**.
-14. Click DONE after finishing the settings.
-15. In the Cline chat, click on "Auto-approve: ...". Check all checkboxes and set the Max Requests for 50.
-17. Click again on "Auto-approve: ..." to hide that configuration. 
-18. Then in the field "Type your task here...", type a message like ```generate a job map for "{your job to be done}"``` and press Enter.
-19. Your maps will be generated within the `result_docs` subdirectory created by the agent in the main directory with this format: `{currentdate_and_time}_{job to be done}_docs`.
+12. In the Cline chat, click on "Auto-approve: ...". Check all checkboxes and set the Max Requests for 50.
+13. Click again on "Auto-approve: ..." to hide that configuration. 
+14. Then in the field "Type your task here...", type a message like ```generate a job map for "{your job to be done}"``` and press Enter.
+15. Your maps will be generated within the `result_docs` subdirectory created by the agent in the main directory with this format: `{currentdate_and_time}_{job to be done}_docs`.
 
 # LLM Alternatives
 

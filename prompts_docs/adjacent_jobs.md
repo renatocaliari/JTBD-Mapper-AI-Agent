@@ -6,7 +6,7 @@ Process to follow:
  - If {{Variable}} is a SOLUTION (platform, technology): Discover what a person wants to achieve WHEN USING this solution in the section Rewritten JTBDs. 
  2. Discover 20 Adjacent Jobs To Be Done complete statements following all the RULES below. 
  3. Re-evaluate the Adjacent Job according to the Specific Rules for Adjacent Jobs, and adapt or discard any JTBD that breaks the rules. 
- 4. Prioritize the Adjacent Jobs to Be Done that most frequently occur right before, in parallel, or right after {{Variable}}. Limit to the 10 first ones. 
+ 4. Prioritize and Rank the Adjacent Jobs to Be Done. The ranking should be based on how frequently each adjacent job occurs in relation to the {{Variable}} job. Consider jobs that happen right before, in parallel with (during), or right after the {{Variable}} job. Higher priority should be given to jobs that are MOST FREQUENTLY performed in close temporal proximity to the {{Variable}} job due to the same situational factors. Select only the top 10, ordered by this frequency-based priority.  
  5. Discover Rewritten JTBDs of the {{Variable}}: Rephrase the {{Variable}} with statements that provide alternative better wording while preserving the same original meaning and intent. Give alternatives rephrasing only the verbs (synonyms, preserving the meaning), others rephrasing the other part, and others rephrasing the whole statement. 
  6. Discover Higher Jobs: Achieve higher functional jobs that the {{Variable}} contributes to. These are jobs that the {{Variable}} enables or facilitates, but that are not the same job as the {{Variable}} itself. 
  7. Ensure all found JTBDs are following the RULES below. 

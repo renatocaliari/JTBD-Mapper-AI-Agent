@@ -20,7 +20,7 @@ Process to follow:
  4. DO NOT use conjunctions ("and", "or", etc.). 
  5. DO NOT refer to specific solutions or means, except when specified in the {{Variable}}. 
 
- Specific Rules for [Adjacent Jobs]: 
+ Specific Rules for Adjacent Jobs (show your reasoning about each step): 
  - They are JTBDs that people commonly perform AT THE SAME TIME (or right before or right after) because of the SAME SITUATIONAL FACTORS, but that are COMPLETELY INDEPENDENT of {{Variable}}. 
  2. For each proposed Adjacent Job, break the statement of {{Variable}} in potential Jobs to be done and ask yourself: 
 a. 'If I completely eliminate this job to be done, can all Jobs related to ({{Variable}}) still be successfully performed?' (If not, discard) 

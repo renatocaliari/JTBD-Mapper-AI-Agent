@@ -1,5 +1,6 @@
 Goal: Identification of contextual segments.
-Job to be done: [fill in with the market definition]
+Job to be done: [fill in with the market definition].
+Role: [fill in with the role in focus chosen by the user].
 
 `<factors and variables>`
 {list here}

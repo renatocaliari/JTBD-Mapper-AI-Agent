@@ -5,17 +5,23 @@ You have an unique constraint: your memory periodically resets completely. This 
 IMPORTANT: Update memory bank and start a new task when your context is more than 80% full.
 
 ## Memory Bank Files
-CRITICAL: If `cline_docs/` or any of these files don't exist, CREATE THEM IMMEDIATELY by:
-1. Reading all provided documentation
-2. Asking user for ANY missing information
-3. Creating files with verified information only
-4. Never proceeding without complete context
+
+Workflow and Documentation Management:
+
+CRITICAL: If the directories and files below don't exist, CREATE THEM IMMEDIATELY by:
+1. Get the current date and time of the system to use in the name of directory in the next step.
+2. Create a '{current_date_and_time}_docs' empty folder inside the `projects` folder.
+3. Create an empty subfolder 'result_docs' into it.
+4. Create an empty subfolder 'memory_bank' into it.
+5. Copy the file 'project_roadmap.md' with the original content to 'memory_bank/project_roadmap.md'. 
+6. Create the user_options.md file inside the subfolder 'memory_bank'.
 
 Required files:
-## Core Workflows
+- {project folder}/memory_bank/initial_prompt.md: Save the initial prompt from the user.
+- {project folder}/memory_bank/project_roadmap.md: Purpose: Steps to follow as a roadmap and progress tracker.
+- {project folder}/memory_bank/user_options.md: Save the preferences of the user.
 
-- {project folder}/roadmap_docs/project_roadmap.md: Purpose: Steps to follow as a roadmap and progress tracker.
-- {project folder}/roadmap_docs/user_options.md: Save the preferences of the user.
+## Core Workflows
 
 ### Starting Tasks
 
@@ -23,7 +29,8 @@ Required files:
 2. If ANY files missing, stop and create them
 3. Read ALL files before proceeding
 4. Verify you have complete context
-5. Begin development. DO NOT update cline_docs after initializing your memory bank at the start of a task.
+5. Begin mapping the job to be done based on the initial prompt. If an url was provided, use the mcp tools to scrape the content, get a summary from the solution of that site and use it as the initial prompt. Warning the user that the summary of the solution of that site will be used as the initial prompt.
+5.1 If the url was scraped, use the summary of the solution of that site as the initial prompt, updating the file.
 
 ### During Development
 
@@ -55,25 +62,23 @@ Adapt your approach based on project needs and user preferences, always aiming t
 
 # Workflow and Critical Documentation
 
-Workflow and Documentation Management:
 
-1. Get the current date and time of the system to use in the name of directory in the next step.
-2. Create a '{current_date_and_time}_{job to be done}_docs' empty folder inside the `projects` folder.
-3. Create an empty subfolder 'result_docs' into it.
-4. Create an empty subfolder 'roadmap_docs' into it.
-5. Copy the file 'project_roadmap.md' with the original content to 'roadmap_docs/project_roadmap.md'. 
-6. Create the user_options.md file inside the subfolder 'roadmap_docs'.
-7. Start the project roadmap. 
 
 ### project_roadmap.md - Proccess Step by Step
 Purpose: Steps to follow as a roadmap and progress tracker.
-Update: After completing each step inside the project roadmap, ALWAYS set the step [ ] as done [X], with X. If the user has indicated in `roadmap_docs\user_options.md` they want to bypass confirmation and preference steps, it will be containing the text "Bypass confirmation and preference steps: true", then mark those steps with "[-]" instead of "[X]" when reaching them, selecting the Default option and going to the next step.
+Update: After completing each step inside the project roadmap, ALWAYS set the step [ ] as done [X], with X. If the user has indicated in `memory_bank\user_options.md` they want to bypass confirmation and preference steps, it will be containing the text "Bypass confirmation and preference steps: true", then mark those steps with "[-]" instead of "[X]" when reaching them, selecting the Default option and going to the next step.
 Content: Steps to follow, with checkboxes to mark completion.
 Rules:
 - Always read the instruction file inside prompts_docs as your specific prompt to execute each step and generate the proper result in the project folder.
 - Use the table in the project_roadmap as your roadmap and do not change the steps.
 - Always mark a step as done [X] or skipped/default [-] before proceeding to the next step.
 - Generate result files for each step only when the step is executed.
+
+### initial_prompt.md
+Purpose: Save the initial prompt from the user.
+Update: when the user provides the initial prompt.
+Relation: Should explicitly reference the initial prompt provided by the user.
+Content: The initial prompt provided by the user.
 
 ### user_options.md
 Purpose: Save the preferences of the user.

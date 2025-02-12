@@ -7,7 +7,7 @@ Role: [fill in with the role in focus chosen by the user].
 `</factors and variables>`
 
 Process:
-1. List 20 possible segments, briefly showing only the name, market definition and justification, without further data.
+1. List 20 possible segments in the perspective of the role, briefly showing only the name, market definition and justification, without further data.
 2. Filter or group into a maximum of 10 segments, ensuring that they are mutually exclusive, collectively exhaustive and non-redundant based on situational factors and variables. 
 3. Prioritize (not filter) the segments of the step 2 using the prioritization criteria.
 4. Display the final list following the rules below.

@@ -28,12 +28,13 @@ Role: {Role provided by the user, otherwise consider the beneficiary of the Job 
 Use a composite score to prioritize criteria, based on evaluating each criterion on the following (scale 1 to 5):
 - Failure Probability (F): The likelihood that a current, state-of-the-art solution will fail to meet this specific criterion.
 - Job Performance Gain (P): The improvement in how well the customer can execute the Job-to-be-Done when the criterion is met.
+- Job Failure Harm (H): The harm to the customer's Job-to-be-Done caused by failing to meet this criterion.
 - Consequence Severity (S): The harm of not meeting the criterion.
 - Outcome Variability (V): The difficulty in achieving consistent outcomes with the criterion (5 = very difficult to achieve consistent outcomes).
 - Investment (I): The resources required (time, skills, people and multitude of additional solutions required beyond the existing solution to meet the criteria) with currently existing single solutions.
 
 ## FORMULA
-Composite Score = (F + P + S) * (V + I)
+Composite Score = (F + P + H) * (V + I)
 
 `<Template of the output>`
 ## 30 Raw Success Criteria

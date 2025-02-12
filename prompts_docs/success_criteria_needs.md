@@ -1,9 +1,7 @@
 Goal: Identify specific and actionable success criteria when performing the job to be done.
 Context:
-<Job to be done>
-- [include here the market definition of the segment as the job to be done, if chosen by the user, otherwise consider  the job to be done mapped itself] 
-- [if any Job Step is provided, include it at the start of the job to be done statement, like: {actor} trying to {Job Step} to {job to be done}]
-</Job to be done>
+Job to be done: [include here the market definition of the segment, if chosen by the user, or job to be done mapped] 
+Job Step: {Job Step provided by the user, otherwise consider the Job to be done as a whole}
 Role: {Role provided by the user, otherwise consider the beneficiary of the Job result}
 `<segment:>`
 [all info of the segment chosen by the user]
@@ -11,15 +9,13 @@ Role: {Role provided by the user, otherwise consider the beneficiary of the Job 
 `<situational factors and variables>` [include here the list of factors and variables discovered in the previous step] `</situational factors and variables>`
 
 # Process to follow:
-
-- Imagine yourself as the person in the Role (using the first person singular) trying to {job to be done} taking into account the interconnection of diverse and specific situational factors and variables.
-- From this, discover at least 30 success criteria statements by answering the question: "What needs to happen for me to successfully achieve my aspirational ideal outcome related to {job to be done}, considering all situational factors?". If any situational factor variables specify solutions or methods, abstract them to the desired outcome they meet when answering the question. Ensure to follow all Statement Rules.
+- Imagine yourself as the person in the Role (using the first person singular) performing the {job step} (if provided) to complete the {job to be done} taking into account the interconnection of diverse and specific situational factors and variables.
+- From this, discover at least 30 success criteria statements by answering the question: "What needs to happen for me to successfully achieve my aspirational ideal outcome, considering all situational factors?". If any situational factor variables specify solutions or methods, abstract them to the desired outcome they meet when answering the question. Ensure to follow all Statement Rules.
 - Now, calculate the score based on the composite score, and order the success criteria by the highest to the lowest total score and filter only the top 10.
 
 # Statement Rules:
-- Use a positive phrasing to describe what the person want to achieve directly, or a negative phrasing (almost always starting with 'Avoid') to describe what the person want to prevent.
-- Focus on distinct aspects of the experience and add specific context. But DO NOT create opposing statements for the same desired outcome (e.g. breaking the rule, 'Be strong' and 'Avoid being weak'). Choose the phrasing that best captures the specific nuance.
-- Ensure that every success criteria is a desired outcome in the Role perspective and context to reach the job to be done with success and measure that success. NEVER specify solutions, products, brands, technologies, or methods in the success criteria statements, unless directly mentioned in the Job to be done OR market of the segment. Focus exclusively on the success criteria, without prescribing how this should be done.
+- Ensure that success criteria always start with "Ensure" or "Avoid", whichever is most appropriate. Use a positive phrasing to describe what the person want to achieve directly, or a negative phrasing (almost always starting with 'Avoid') to describe what the person want to prevent. Focus on distinct aspects of the experience and add specific context. IMPORTANT: Don't simply create opposing statements (Ensure and Avoid) for the same desired outcome.
+- Ensure that every success criteria is a desired outcome in the Role perspective to reach the job to be done with success and measure that success. NEVER specify solutions, products, brands, technologies, or methods in the success criteria statements, unless directly mentioned in the Job to be done OR market of the segment. Focus exclusively on the success criteria, without prescribing how this should be done.
 - Each criterion should be Specific, Objectively Measurable and Actionable.
 - Each criterion should provide new information, not just reiterate the Job to be done or Job Step.
 - DO NOT use conjunctions ("and", "or", etc.).
@@ -30,12 +26,14 @@ Role: {Role provided by the user, otherwise consider the beneficiary of the Job 
 
 # Composite Score for Prioritization:
 Use a composite score to prioritize criteria, based on evaluating each criterion on the following (scale 1 to 5):
-- Investment: The resources required (time, skills, people and multitude of additional solutions required beyond the existing solution to meet the criteria) with currently existing single solutions.
-- Outcome Variability: The difficulty in achieving consistent outcomes with the criterion (5 = very difficult to achieve consistent outcomes).
-- Outcome Maximization (Job): The benefits of meeting the criterion.
-- Consequence Severity (Job): The harm of not meeting the criterion.
+- Failure Probability (F): The likelihood that a current, state-of-the-art solution will fail to meet this specific criterion.
+- Job Performance Gain (P): The improvement in how well the customer can execute the Job-to-be-Done when the criterion is met.
+- Consequence Severity (S): The harm of not meeting the criterion.
+- Outcome Variability (V): The difficulty in achieving consistent outcomes with the criterion (5 = very difficult to achieve consistent outcomes).
+- Investment (I): The resources required (time, skills, people and multitude of additional solutions required beyond the existing solution to meet the criteria) with currently existing single solutions.
 
-Composite Score = (Outcome Enhancement (Job) + Consequence Severity (Job)) * (Investment + Outcome Variability)
+## FORMULA
+Composite Score = (F + P + S) * (V + I)
 
 `<Template of the output>`
 ## 30 Raw Success Criteria
@@ -49,4 +47,3 @@ Composite Score = (Outcome Enhancement (Job) + Consequence Severity (Job)) * (In
 - Metrics: {multiple metrics with detailed count, proportion or average metrics with detailed explanation of how to measure}
 - Current solutions: {types of existing solutions (mental, physical, virtual, procedural or methodological) with examples of specific existing product-brands to use}
 `</Template of the output>`
-

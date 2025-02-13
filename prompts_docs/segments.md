@@ -1,6 +1,6 @@
 Goal: Identification of contextual segments.
 Job to be done: [fill in with the market definition].
-Role: [fill in with the role in focus chosen by the user].
+Role: [fill in with the role in focus chosen by the user, otherwise consider the beneficiary of the Job result].
 
 `<factors and variables>`
 {list here}
@@ -15,6 +15,7 @@ Process:
 Rules:
 - Define SIGNIFICANTLY different segments, interconnecting diverse and specific situational factors and variables, which most impact the outcome of the Job to be done. Avoid any demographic segments, unless this is critically necessary and there is no other way to segment. Example of demographic factors to avoid
     - Age, gender, income, education level, occupation, marital status, family size, geographic location, ethnicity, religion, company size, industry, annual revenue, number of employees, growth stage, business type, technology used, profession role, purchase volume, industry-specific needs.
+- The segments should be from the perspective of the {Role}.
 - The segments must be mutually exclusive, collectively exhaustive and non-redundant.
 - Use the criteria below for prioritizing segments (the higher, the better, except for "Frequency" and "Barrier to Entry"):
 

@@ -12,6 +12,7 @@ Role: {Role provided by the user, otherwise consider the beneficiary of the Job 
 # Process to follow:
 - Imagine yourself as the person in the Role (using the first person singular) performing the {job step} (if provided) to complete the {job to be done} taking into account the interconnection of diverse and specific situational factors and variables.
 - From this, discover at least 30 success criteria statements by answering the question: "What needs to happen for me to successfully achieve my aspirational ideal outcome, considering all situational factors?". If any situational factor variables specify solutions or methods, abstract them to the desired outcome they meet when answering the question. Ensure to follow all Statement Rules.
+- For each statement, confirm whether it breaks any of the established rules (e.g. Did you use an adverb or an adjective?). If a rule is violated, either adapt the statement or remove it.
 - Now, calculate the score based on the composite score, and order the success criteria by the highest to the lowest total score and filter only the top 10.
 
 # Statement Rules:

@@ -7,6 +7,7 @@ Role: {Role provided by the user, otherwise consider the beneficiary of the Job 
 [all info of the segment chosen by the user]
 `</segment>`
 `<situational factors and variables>` [include here the list of factors and variables discovered in the previous step] `</situational factors and variables>`
+`<switchers quotes>` [include here the list of switchers quotes discovered in the previous step] `</switchers quotes>`
 
 # Process to follow:
 - Imagine yourself as the person in the Role (using the first person singular) performing the {job step} (if provided) to complete the {job to be done} taking into account the interconnection of diverse and specific situational factors and variables.

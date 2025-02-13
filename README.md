@@ -45,13 +45,13 @@ exploring a wider range of sources and perspectives. You can also use NotebookLM
 
 These are just a few examples of tools and how they can be integrated to support the work. A combination of AI-powered tools and human expertise.
 
-This agent uses seriously powerful large language models – think Gemini 2.0, Qwen 2.5, and Llama 3.3 – that have been trained on tons of data. They can identify complex patterns and relationships in that data, which can be really helpful, even in specialized B2B contexts. They're great at finding patterns and making predictions, but they can also reflect biases present in the data they were trained on.
+This agent uses seriously powerful large language models – think Gemini 2.0 Flash Thinking, DeepSeek R1, Qwen 2.5, and Llama 3.3 – that have been trained on tons of data. They can identify complex patterns and relationships in that data, which can be really helpful, even in specialized B2B contexts. They're great at finding patterns and making predictions, but they can also reflect biases present in the data they were trained on.
 
 It's crucial to critically evaluate the results, just like you would with any research. This means checking for accuracy, considering potential biases, and identifying any limitations.
 You can also refine the results by conducting further research with your target audience to validate and enrich the findings.
 
 It's configured to work within [Cline](https://github.com/cline/cline), a free and open-source extension for VS Code — an IDE commonly used for systems development.
-You can use free LLMs such as Gemini 2.0, Llama 3.3, and Qwen 2.5.
+You can use free LLMs such as Gemini 2.0 Flash Thinking, DeepSeek R1, Qwen 2.5, and Llama 3.3.
 
 With this combination, you can have an autonomous agent that performs mapping autonomously. 
 It only asks questions to confirm options you want to proceed with to the next stages.
@@ -104,8 +104,15 @@ It only asks questions to confirm options you want to proceed with to the next s
 ## Free
 You can use other providers to try different LLMs, like:
 
+### openrouter.ai: Gemini 2.0 Flash Thinking and DeepSeek R1
+To try Gemini 2.0 Flash Thinking or DeepSeek R1 free of charge, create an API key at `https://openrouter.ai/settings/keys`. 
+
+Then, in Cline's settings, configure the provider to 'Open Router'. 
+Select `google/gemini-2.0-flash-thinking-exp:free` or `deepseek/deepseek-r1:free`.
+
+
 ### together.ai: DeepSeek R1 Distill Llama 70b
-To try Codestral 25.01 - from Mistral - free of charge, create an API key at `https://api.together.ai/settings/api-keys`. 
+To try DeepSeek R1 Distill Llama 70b free of charge, create an API key at `https://api.together.ai/settings/api-keys`. 
 
 Then, in Cline's settings, configure the provider to 'OpenAI Compatible' and the Base URL to `https://api.together.xyz/v1`. 
 Paste `deepseek-ai/DeepSeek-R1-Distill-Llama-70B-free`.

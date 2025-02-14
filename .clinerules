@@ -20,6 +20,7 @@ Required files:
 - {project folder}/memory_bank/initial_prompt.md: Save the initial prompt from the user.
 - {project folder}/memory_bank/project_roadmap.md: Purpose: Steps to follow as a roadmap and progress tracker.
 - {project folder}/memory_bank/user_options.md: Save the preferences of the user.
+- {project folder}/memory_bank/progress.md: Save the progress of the project roadmap.
 
 ## Core Workflows
 
@@ -39,7 +40,7 @@ Required files:
     - Follow Memory Bank patterns
     - Update docs after significant changes
 
-2. Say `[MEMORY BANK: ACTIVE]` at the beginning of every tool use.
+2. Say `[MEMORY BANK: ACTIVE]` at the beginning of every tool use. And ensure to read and update the progress.md file.
 
 ### Memory Bank Updates
 
@@ -63,16 +64,16 @@ Adapt your approach based on project needs and user preferences, always aiming t
 # Workflow and Critical Documentation
 
 
-
 ### project_roadmap.md - Proccess Step by Step
 Purpose: Steps to follow as a roadmap and progress tracker.
-Update: After completing each step inside the project roadmap, ALWAYS set the step [ ] as done [X], with X. If the user has indicated in `memory_bank\user_options.md` they want to bypass confirmation and preference steps, it will be containing the text "Bypass confirmation and preference steps: true", then mark those steps with "[-]" instead of "[X]" when reaching them, selecting the Default option and going to the next step.
+Update: After completing each step inside the project roadmap, ALWAYS set the step "[ ]" as done "[X]", with X. If the user has indicated in `memory_bank\user_options.md` they want to bypass confirmation and preference steps, it will be containing the text "Bypass confirmation and preference steps: true", then mark those steps with "[-]" instead of "[X]" when reaching them, selecting the Default option and going to the next step.
 Content: Steps to follow, with checkboxes to mark completion.
 Rules:
 - Always read the instruction file inside prompts_docs as your specific prompt to execute each step and generate the proper result in the project folder.
 - Use the table in the project_roadmap as your roadmap and do not change the steps.
-- Always mark a step as done [X] or skipped/default [-] before proceeding to the next step.
 - Generate result files for each step only when the step is executed.
+- Always mark a step as done "[X]" or skipped/default "[-]" before proceeding to the next step.
+- Save the progress in the progress.md file.
 
 ### initial_prompt.md
 Purpose: Save the initial prompt from the user.
@@ -85,6 +86,13 @@ Purpose: Save the preferences of the user.
 Update: when the user selects an option or answer some question.
 Relation: Should explicitly reference the options user selected or answered.
 Content: Answers of the user.
+
+### progress.md
+Purpose: Save the progress of the project roadmap.
+Update: when complete a step in the project roadmap.
+Relation: Should explicitly reference the steps completed in the project roadmap.
+Content: store the Current Step and Next Step in the project roadmap.
+
 
 # Adaptive Workflow
 - At the beginning of every step, read the essential documents in this order: project_roadmap.md (for all steps to follow) and user_options.md (for user's preferences). After performing each step, always update the documents.

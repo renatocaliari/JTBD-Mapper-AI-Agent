@@ -43,18 +43,14 @@ This document outlines the actors involved in a Job To Be Done, categorized by t
     *   For example: in surgery, the nurse assists the doctor who performs the surgery.
     *   Give the top 3.
 
-*   **Decision Maker:**
-    *   Group of people who decide and allow the job to be done.
-    *   Give the top 3.
-
-*   **Purchaser:**
-    *   Group of people who decide on the form of payment and contracting of a solution to carry out the job.
+*   **Solution Acquisition Decision Maker:**
+    *   Group of people who authorize hiring a solution to perform the job to be done.
     *   Give the top 3.
 
 *   **Buyer:**
-    *   Group of people who make the purchase of the solution to carry out the job in the specific/individual context.
+    *   Group of people who executes the purchase process, finding vendors and completing the transaction.
     *   Give the top 3.
-
+      
 *   **Supervisor:**
     *   Who supervises and is responsible for the final result of the job.
     *   Give more than one.

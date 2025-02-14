@@ -1,5 +1,4 @@
 Goal: Identify specific and actionable success criteria when performing the job to be done.
-Context:
 Job to be done: [include here the market definition of the segment, if chosen by the user, or job to be done mapped] 
 Job Step: {Job Step provided by the user, otherwise consider the Job to be done as a whole}
 Role: {Role provided by the user, otherwise consider the beneficiary of the Job result}

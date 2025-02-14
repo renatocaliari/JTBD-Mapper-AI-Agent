@@ -1,6 +1,6 @@
 Job to be done: [include here the market definition of the segment, if chosen by the user, or job to be done mapped] 
 Job Step: {Job Step provided by the user, otherwise consider the Job to be done as a whole}
-Role: Perspective Role: Financial Decision-Maker (Solution Acquirer - Evaluating Solution Purchase)
+Perspective Role: Solution Acquisition Decision Maker
 `<segment:>`
 [all info of the segment chosen by the user]
 `</segment>`
@@ -10,12 +10,9 @@ Role: Perspective Role: Financial Decision-Maker (Solution Acquirer - Evaluating
 
 - Explore all possible solutions that could help the beneficiary complete {Job to be done}
 
-- Assume the role of a Financial Decision-Maker whose objective is to **recommend the most financially sound solution for the beneficiary to complete their Job to be done.** Evaluate each potential solution by considering only the financial implications **for the beneficiary when acquiring and using the solution.** Focus on costs, potential savings, financial risks, and return on investment (in terms of user benefit for the financial outlay).
-
+- Assume the role of a Solution Acquisition Decision Maker whose objective is to **approve the most financially sound solution for the beneficiary to complete their Job to be done.** Evaluate each potential solution by considering only the financial implications **for the beneficiary when acquiring and using the solution.**.
 - From this, discover at least 30 success criteria statements by answering the question: "What needs to happen to successfully achieve my financial ideal outcome?". Ensure to follow all Statement Rules.
-
 - For each statement, confirm whether it breaks any of the established rules (e.g. Did you use an adverb or an adjective?). If a rule is violated, either adapt the statement or remove it.
-
 - Now, calculate the score based on the composite score, and order the success criteria by the highest to the lowest total score and filter only the top 20.
 
 

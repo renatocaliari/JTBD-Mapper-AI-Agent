@@ -12,7 +12,7 @@ Perspective Role: Solution Acquisition Decision Maker
 
 - Assume the role of a Solution Acquisition Decision Maker whose objective is to **approve the most financially sound solution for the beneficiary to complete their Job to be done.** Evaluate each potential solution by considering only the financial implications **for the beneficiary when acquiring and using the solution.**.
 - From this, discover at least 30 success criteria statements by answering the question: "What needs to happen to successfully achieve my financial ideal outcome?". Ensure to follow all Statement Rules.
-- For each statement, confirm whether it breaks any of the established rules (e.g. Did you use an adverb or an adjective?). If a rule is violated, either adapt the statement or remove it.
+- For each statement, confirm whether it breaks any of the established rules (e.g. Did it use an adverb or an adjective? Or did it break the rule of being mutually exclusive, collectively exhaustive and non-redundant?). If a rule is violated, discard it.
 - Now, calculate the score based on the composite score, and order the success criteria by the highest to the lowest total score and filter only the top 20.
 
 

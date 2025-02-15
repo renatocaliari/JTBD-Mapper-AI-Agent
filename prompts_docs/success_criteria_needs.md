@@ -18,7 +18,9 @@ Custom instruction: {none, unless provided}
 
 # Statement Rules:
 - Ensure that success criteria always start with "Ensure" or "Avoid", whichever is most appropriate. Use a positive phrasing to describe what the person want to achieve directly, or a negative phrasing (almost always starting with 'Avoid') to describe what the person want to prevent. Focus on distinct aspects of the experience and add specific context. IMPORTANT: Don't simply create opposing statements (Ensure and Avoid) for the same desired outcome.
-- Ensure that every success criteria is a desired outcome in the Role perspective to reach the job to be done with success and measure that success. NEVER specify solutions, products, brands, technologies, or methods in the success criteria statements, unless directly mentioned in the Job to be done OR market of the segment OR the role is the decision-maker (not the beneficiary or the performer). Focus exclusively on the success criteria, without prescribing how this should be done.
+- Each criterion COULD be measured by speed, ease, and result consistency in resolving the criterion, so DO NOT include different criteria that measure each of those factors separately.
+- Ensure that success criteria that address diverse dimensions of the job to be done.
+- Ensure that every success criteria is a desired outcome in the Role perspective to reach the job to be done with success. NEVER specify solutions, products, brands, technologies, or methods in the success criteria statements, unless directly mentioned in the Job to be done OR market of the segment OR the role is the decision-maker (not the beneficiary or the performer). Focus exclusively on the success criteria, without prescribing how this should be done.
 - Each criterion should be Specific, Objectively Measurable and Actionable.
 - Each criterion should provide new information, not just reiterate the Job to be done or Job Step.
 - DO NOT use conjunctions ("and", "or", etc.).
@@ -26,6 +28,10 @@ Custom instruction: {none, unless provided}
 - Beware of comparisons, but use it when necessary to avoid ambiguity. Example: "Ensure the volume is higher than the ambient noise" fails to convey the desired outcome, so you should ignore and state as "Avoid hearing ambient noise" as the desired outcome.
 - Criteria must be mutually exclusive, collectively exhaustive and non-redundant. Avoid any redundancy among them.
 - The result should following the template of the output.
+
+# Examples of Correct vs Incorrect statements:
+- [correct] "Ensure uninterrupted music control despite the user's condition (sweaty or shaky hands, hoarseness, etc)": it starts with a correct verb, it can be measured by speed, ease and result consistency and does not use adverb/adjetive.
+- [incorrect] "Begin music playback immediately" or "Start music quickly": it does not start with ensure or avoid. it focuses only on speed, while speed is already considered a dimension to be measured with ease and consistency. It uses adverb/adjetive.
 
 # Composite Score for Prioritization:
 Use a composite score to prioritize criteria, based on evaluating each criterion on the following (scale 1 to 5):
@@ -47,6 +53,6 @@ Composite Score = (R + P + H) * (Inc + Inv)
 - Alternative: {rewrite the success criteria in an alternative way following all the rules, except starting with "Ensure" or "Avoid"}
 - Justification: {"Why is this still considered an ASPIRATIONAL ideal for my role, rather than a solved criteria? And why isn't it easily solved these days?}
 - Score: {explain how it impacts each factor of the composition score}
-- Metrics: {multiple metrics with detailed count, proportion or average metrics with detailed explanation of how to measure}
+- Metrics: {multiple metrics with detailed count, proportion or average metrics with detailed explanation of how to measure the success. Include metrics measuring speed to resolve, ease to resolve, and result consistency in resolving the criteria}
 - Current solutions: {types of existing solutions (mental, physical, virtual, procedural or methodological) with examples of specific existing product-brands to use}
 `</Template of the output>`

@@ -3,7 +3,6 @@ Goal: Identify specific and actionable success criteria when performing the job 
 Job to be done: [include here the market definition of the segment, if chosen by the user, or job to be done mapped] 
 Job Step: {Job Step provided by the user, otherwise consider the Job to be done as a whole}
 Role: {Role provided by the user, otherwise consider the beneficiary of the Job result}
-Custom instruction: {none, unless provided}
 `<segment:>`
 [all info of the segment chosen by the user]
 `</segment>`
@@ -11,8 +10,8 @@ Custom instruction: {none, unless provided}
 `<switchers quotes>` [include here the list of switchers quotes discovered in the previous step] `</switchers quotes>`
 
 # Process to follow:
-- Imagine yourself as the person in the Role (using the first person singular) performing the {job step} (if provided) to complete the {job to be done} taking into account the interconnection of diverse and specific situational factors and variables.
-- From this, discover at least 30 success criteria statements by answering the question: "What needs to happen for me to successfully achieve my aspirational ideal outcome, considering all situational factors?". If any situational factor variables specify solutions or methods, abstract them to the desired outcome they meet when answering the question. Ensure to follow all Statement Rules.
+- Imagine yourself as the person in the Role (using the first person singular) performing the {job step} (if provided) to succeed in {job to be done} taking into account the interconnection of diverse and specific situational factors and variables.
+- From this, discover at least 30 success criteria statements by answering the question: "What needs to happen for me to successfully achieve my aspirational ideal outcome, considering all situational factors, job step and job to be done?". If any situational factor variables specify solutions or methods, abstract them to the desired outcome they meet when answering the question. Ensure to follow all Statement Rules.
 - For each statement, confirm whether it breaks any of the established rules (e.g. Did it use an adverb or an adjective? Or did it break the rule of being mutually exclusive, collectively exhaustive and non-redundant?). If a rule is violated, discard it.
 - Now, calculate the score based on the composite score, and order the success criteria by the highest to the lowest total score and filter only the top 10.
 

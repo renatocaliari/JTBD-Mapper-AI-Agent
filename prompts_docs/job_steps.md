@@ -37,4 +37,10 @@ Rules:
 - Avoid generic and vague steps, such as the name of the stage itself.
 - The steps MUST NECESSARILY be mutually exclusive, collectively exhaustive and non-redundant.
 - Do not use conjunctions "AND" or "OR" to combine steps.
-- Do not mention any specific solution or method that did not exist 10,000 years ago (e.g. "write", "bank accounts", "photos", "online", "WhatsApp", "spreadsheets", etc.) except if it is specified in the job to be done.
+- Each step should be a specific action of what the person is trying to accomplish in a faster, easier and more accurate way.
+- Each step should be written in the first person singular and start with an imperative verbs.
+- Next to the step name there should be a brief explanation, starting with the infinitive verb.
+- Avoid generic and vague steps, such as the name of the stage itself.
+- The steps MUST NECESSARILY be mutually exclusive, collectively exhaustive and non-redundant.
+- Do not use conjunctions "AND" or "OR" to combine steps.
+- NEVER specify solutions, products, brands, technologies, or methods in the job steps statements, unless directly mentioned in the Job to be done OR market of the segment. Focus exclusively on the job steps, without prescribing how this should be done.

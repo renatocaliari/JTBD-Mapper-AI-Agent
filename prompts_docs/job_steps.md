@@ -1,10 +1,10 @@
 Goal: Describe the steps to successfully perform a "Job To Be Done".
 
 <Context>
-Job To Be Done: [market of the job to be done chosen by the user]
-<segment: all info>
-[segment chosen by the user; if none chosen, consider all discovered]
-</segment>
+Job To Be Done: [market of the main job to be done chosen by the user]
+<segments: all info>
+[consider all discovered segments]
+</segments>
 Perspective: [actor chosen by the user]
 </Context>
 
@@ -13,7 +13,7 @@ Stage: Phase of the process to perform the Job To Be Done.
 Step: Specific action performed within each stage.
 
 Instructions:
-Imagine you are the {{Perspective}}. Describe the steps to perform the {{Job To Be Done}}, considering the {{Segment}}.
+Imagine you are the {{Perspective}}. Describe the steps to perform the {{Job To Be Done}}, considering all the segments.
 
 For each stage below, list specific steps you need to take with a brief explanation next to it.
 <Stages>

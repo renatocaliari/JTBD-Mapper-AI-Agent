@@ -1,7 +1,7 @@
 Goal: Describe the steps to successfully perform a "Job To Be Done".
 
 <Context>
-Job To Be Done: [market of the main job to be done chosen by the user]
+Job To Be Done: [Main Functional Job To Be Done]
 <segments: all info>
 [consider all discovered segments]
 </segments>

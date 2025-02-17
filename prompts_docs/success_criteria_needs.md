@@ -12,8 +12,8 @@ Role: {Role provided by the user, otherwise consider the beneficiary of the Job}
  - Imagine yourself as the person in the Role (using the first person singular) performing the {job step} (if provided) to succeed in {job to be done} taking into account the interconnection of diverse and specific situational factors and variables. 
  - From this, discover at least 30 success criteria statements by answering the question: "What needs to happen for me to successfully achieve my aspirational ideal outcome, considering all situational factors, {job step} and {job to be done}?". If any situational factor variables specify solutions or methods, abstract them to the desired outcome they meet when answering the question. 
  - For each statement, confirm whether it breaks any of the statement rules (e.g. Did it use an adverb or an adjective? Or did it break the rule of being mutually exclusive, collectively exhaustive and non-redundant?). If a rule is violated, improve or discard the statement. Show this step process. 
- - Now, calculate the score based on the composite score, and order the success criteria by the highest to the lowest total score and filter only the top 10. 
-- Show the template output.
+ - Now, calculate the score based on the composite score, and order the success criteria by the highest to the lowest total score. Filter for a maximum of top 10 success criteria.
+ - Show the template output.
 
  # Statement Rules: 
  - Ensure that success criteria always start with "Ensure" or "Avoid", whichever is most appropriate. Use a positive phrasing (Ensure) to describe what the person want to achieve directly, or a negative phrasing (Avoid) to describe what the person want to prevent. Focus on distinct aspects of the experience and add specific context. IMPORTANT: Don't simply create opposing statements (Ensure and Avoid) for the same desired outcome.

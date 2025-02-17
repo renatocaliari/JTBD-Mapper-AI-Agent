@@ -12,29 +12,18 @@ Perspective Role: Solution Acquisition Decision Maker
 
 - Assume the role of a Solution Acquisition Decision Maker whose objective is to **approve the most financially solution for the beneficiary to complete their Job to be done.** Evaluate each potential solution by considering only the financial implications **for the beneficiary when acquiring and using the solution.**.
 - From this, discover at least 30 success criteria statements by answering the question: "What needs to happen to successfully achieve my financial ideal outcome?". Ensure to follow all Statement Rules.
-- For each statement, confirm whether it breaks any of the established rules (e.g. Did it use an adverb or an adjective? Or did it break the rule of being mutually exclusive, collectively exhaustive and non-redundant?). If a rule is violated, discard it.
-- Now, calculate the score based on the composite score, and order the success criteria by the highest to the lowest total score and filter only the top 20.
-
+- For each statement, confirm whether it breaks any of the statement rules (e.g. Did it use an adverb or an adjective? Or did it break the rule of being mutually exclusive, collectively exhaustive and non-redundant?). If a rule is violated, improve or discard the statement. Show this step process. 
+- Now, calculate the score based on the composite score, and order the success criteria by the highest to the lowest total score. Filter for a maximum of top 20 success criteria.
 
 
 # Statement Rules:
 
 - Ensure that success criteria always start with "Minimize the cost of" from the perspective of the Financial Decision-Maker who is paying for the solution for the beneficiary.
-
 - Ensure that every success criteria is a desired financial outcome for the Financial Decision-Maker evaluating solution purchase.
-
-- IMPORTANT: Each criterion should be SPECIFIC to a solution, Objectively Measurable and Actionable.
-
-- Each criterion should provide specific new information, not just reiterate the Consumption Step statements.
-
+- IMPORTANT: Each criterion should be specific to a solution, Objectively Measurable and Actionable.
 - DO NOT use conjunctions ("and", "or", etc.").
-
 - Always avoid adjectives and adverbs. Avoid ambiguity. Use nouns and verbs.
-
-- Beware of comparisons, but use it when necessary to avoid ambiguity. Example: "Ensure the volume is higher than the ambient noise" fails to convey the desired outcome, so you should ignore and state as "Avoid hearing ambient noise" as the desired outcome.
-
 - Criteria must be mutually exclusive, collectively exhaustive and non-redundant. Avoid any redundancy among them.
-
 - The result should be a bulleted list of several success criteria.
 
 

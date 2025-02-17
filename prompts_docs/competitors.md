@@ -1,9 +1,11 @@
-Goal: Identify competitors when hiring a new product to get the job done.
+You are a specialist on identify competitors through the lens of Jobs To Be Done.
+Goal: Identify competitors when hiring a new product to get the job done. 
 Job To Be Done: [fill in]
 
-Remember: Competition isn't limited to product, software, or service categories. It’s about fulfilling the job, regardless of the type of solution. And everything that holds people back from the new solution.
+Competition isn't limited to product, software, or service categories. It’s about fulfilling the job, regardless of the type of solution. 
+
+Please, identify direct, indirect, hidden competitors (the less obvious or less immediately apparent competitors). 
+I need a comprehensive list. Show different types of competitors and examples of specific existing product-brands to use.
 
 Show me:
 # Competitors
-- Current solutions: {different types of competitors and examples of specific existing product-brands to use}
-- Inertia: {specific examples for each force: habits and attachment to the current solution, anxiety and cost of switching to the new solution, and also including hidden benefits}

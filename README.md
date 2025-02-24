@@ -27,6 +27,8 @@
 # JTBD Mapper AI Agent 🤖 Free & Open-Source
 _*Remember to periodically check for a new version_
 
+🇧🇷 My Portuguese Substack features Jobs to Be Done prompts, as well as various other product-related prompts: [https://calirenato82.substack.com/](https://calirenato82.substack.com/)
+
 ## Important:
 Although the entire process is open-source and includes a step-by-step guide on how to use it, after some feedback, I realize it’s not an easy system to run for at least two reasons:
 - 1) Technical knowledge of technology is required: setting up tools, LLMs, monitoring the process in VS Code, and ensuring everything is running smoothly.<br>

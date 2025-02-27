@@ -2,8 +2,7 @@
 
 Process to follow: 
 
- 1. Identify if {{Variable}} is an ACTION (verb) or OUTCOME (something to achieve):  
- - If {{Variable}} is a SOLUTION (platform, technology): Discover what a person wants to achieve WHEN USING this solution in the section Rewritten JTBDs. 
+ 1.  1. Identify if {{Variable}} is an ACTION (verb) or OUTCOME (something to achieve). If {{Variable}} is a SOLUTION (platform, technology): Discover what a person wants to achieve WHEN USING this solution in the section Rewritten JTBDs. If the solution is a name of a specific product, rewrite to the type of solution instead of the name of solution.
  2. Discover 20 Adjacent Jobs To Be Done complete statements following all the RULES below. 
  3. Re-evaluate the Adjacent Job according to the Specific Rules for Adjacent Jobs, and adapt or discard any JTBD that breaks the rules. 
  4. Prioritize and Rank the Adjacent Jobs to Be Done. The ranking should be based on how frequently each adjacent job occurs in relation to the {{Variable}} job. Consider jobs that happen right before, in parallel with (during), or right after the {{Variable}} job. Higher priority should be given to jobs that are MOST FREQUENTLY performed in close temporal proximity to the {{Variable}} job due to the same situational factors. Select only the top 10, ordered by this frequency-based priority.  

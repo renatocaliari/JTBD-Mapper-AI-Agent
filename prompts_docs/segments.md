@@ -2,10 +2,6 @@ Goal: Identification of contextual segments.
 Job to be done: [fill in with the market definition].
 Role: [fill in with the role in focus chosen by the user, otherwise consider the beneficiary of the Job result].
 
-`<factors and variables>`
-{list here}
-`</factors and variables>`
-
 Process:
 1. List 20 possible segments in the perspective of the role, briefly showing only the name, market definition and justification, without further data.
 2. Filter or group into a maximum of 10 segments, ensuring that they are mutually exclusive, collectively exhaustive and non-redundant based on situational factors and variables. 
